@@ -1,4 +1,4 @@
-# Novel Coronavirus JSON data (Updated: 05 March, 2020  23:46:37) 
+# Novel Coronavirus JSON data (Updated: 05 March, 2020  23:54:54) 
 
 
 This repository tracks Novel Coronavirus data and converts it into a json to be consumed by other applications. 
