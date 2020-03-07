@@ -13,6 +13,7 @@ JSON_PATH = "./latest.json"
 MD5_FILE_PATH = "./MD5.txt"
 README_PATH = "./README.md"
 META_FILE = "./metadata.json"
+META_PRETTY_FILE = "./metadata_pretty_print.json"
 
 
 def dumpCsvToJson(CSV_FILE):
@@ -79,6 +80,9 @@ def dumpMetaData(CSV_FILE):
     }
     out = json.dumps(meta_data)
     with open(META_FILE, "w") as f:
+        f.write(out)
+    out = json.dumps(meta_data, sort_keys=True, indent=2, separators=(',', ':'))
+    with open(META_PRETTY_FILE, "w") as f:
         f.write(out)
 
 
