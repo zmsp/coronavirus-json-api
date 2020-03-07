@@ -4,13 +4,19 @@ import datetime
 import requests
 import hashlib
 import sys
+import numpy as np
+import pandas as pd
+import pycountry
 CSV_PATH = "./latest.csv"
-JSON_PRETTY_PATH = "./latest.json"
+JSON_PRETTY_PATH = "./latest_pretty_print.json"
 JSON_PATH = "./latest.json"
-MD5_FILE_PATH = "./latest.md5"
+MD5_FILE_PATH = "./MD5.txt"
 README_PATH = "./README.md"
+META_FILE = "./metadata.json"
+
 
 def dumpCsvToJson(CSV_FILE):
+
     with open(CSV_FILE, "r") as f:
         reader = csv.reader(f)
         headers = next(reader)
@@ -18,6 +24,68 @@ def dumpCsvToJson(CSV_FILE):
         out = json.dumps([row for row in reader])
     with open('latest.json', "w") as f:
         f.write(out)
+def dumpMetaData(CSV_FILE):
+    csvData=pd.read_csv(CSV_FILE, sep=',')
+    f=csvData.copy()
+    f["Last Update"] = pd.to_datetime(f["Last Update"])
+    placeholder = "null";
+    data = {}
+    for i in f.columns:
+        type = f[i].dtypes.name
+        max = ""
+        min = ""
+        mean = ""
+        median = ""
+        std = ""
+        unique = []
+        if np.issubdtype(f[i].dtype, np.number):
+            max =f[i].max().__str__()
+            min =f[i].min().__str__()
+            mean = f[i].mean().__str__()
+            median =f[i].median().__str__()
+            std = f[i].std().__str__()
+        elif np.issubdtype(f[i].dtype, np.datetime64):
+            max =f[i].max().__str__()
+            min =f[i].min().__str__()
+            mean = f[i].mean().__str__()
+        elif np.issubdtype(f[i].dtype, np.object):
+            unique = f[i].fillna("NaN").unique().tolist()
+
+        data[i] = {"max":max, "min":min, "median":median, "mean":mean, "std":std, "unique": unique}
+
+    country_meta = {
+    }
+
+    for name in f["Country/Region"].unique():
+        try:
+            i = name
+            correction = {"Mainland China": "China", "South Korea": "Korea, Democratic", "Macao": "Macao"}
+
+            if correction.__contains__(name):
+                country = pycountry.countries.search_fuzzy(correction[i])[0]
+            else:
+                country = pycountry.countries.search_fuzzy(i)[0]
+
+            country_meta[i] = {"name": country.name, "alpha_2": country.alpha_2, "alpha_3": country.alpha_3}
+        except:
+            country_meta[i] = {"name":i, "alpha_2":"XX", "alpha_3":"XXX"}
+    md5 = md5Checksum(CSV_FILE,None)
+
+    meta_data = {
+        "country_meta": country_meta,
+        "columns_name": f.columns.unique().tolist(),
+        "columns_meta": data,
+        "data_meta": {"md5":md5, "updated":datetime.datetime.now().strftime('%d %B, %Y  %H:%M:%S')}
+    }
+    out = json.dumps(meta_data, sort_keys=True, indent=2, separators=(',', ':'))
+    with open(META_FILE, "w") as f:
+        f.write(out)
+
+
+
+
+
+
 
 def dumpCsvToJsonPrettyPrint(CSV_FILE):
     with open(CSV_FILE, "r") as f:
@@ -25,7 +93,7 @@ def dumpCsvToJsonPrettyPrint(CSV_FILE):
         headers = next(reader)
         reader = csv.DictReader(f, headers)
         out = json.dumps([row for row in reader], sort_keys=True, indent=2, separators=(',', ':'))
-    with open('latest_pretty_print.json', "w") as f:
+    with open(JSON_PRETTY_PATH, "w") as f:
         f.write(out)
 
 def md5Checksum(filePath,url):
@@ -53,6 +121,8 @@ def update_readme(first_line):
         f.writelines(lines)
 
 if __name__ == "__main__":
+
+
     today = datetime.datetime.now()+datetime.timedelta(days=1)
     template_URL = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/{DATE}.csv"
     CSV_URL = template_URL.format(DATE=today.strftime('%m-%d-%Y'))
@@ -73,6 +143,7 @@ if __name__ == "__main__":
     if (latest_md5 != local_md5):
         dumpCsvToJson(CSV_PATH)
         dumpCsvToJsonPrettyPrint(CSV_PATH)
+        dumpMetaData(CSV_PATH)
         with open(MD5_FILE_PATH, 'w') as file:
             file.write(latest_md5)
         update_readme("# Novel Coronavirus JSON data (Updated: {UPDATED}) \n".format(UPDATED=datetime.datetime.now().strftime('%d %B, %Y  %H:%M:%S')))
