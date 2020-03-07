@@ -77,7 +77,7 @@ def dumpMetaData(CSV_FILE):
         "columns_meta": data,
         "data_meta": {"md5":md5, "updated":datetime.datetime.now().strftime('%d %B, %Y  %H:%M:%S')}
     }
-    out = json.dumps(meta_data, sort_keys=True, indent=2, separators=(',', ':'))
+    out = json.dumps(meta_data)
     with open(META_FILE, "w") as f:
         f.write(out)
 
