@@ -38,6 +38,7 @@ def dumpMetaData(CSV_FILE):
         mean = ""
         median = ""
         std = ""
+        total = ""
         unique = []
         if np.issubdtype(f[i].dtype, np.number):
             max =f[i].max().__str__()
@@ -45,6 +46,7 @@ def dumpMetaData(CSV_FILE):
             mean = f[i].mean().__str__()
             median =f[i].median().__str__()
             std = f[i].std().__str__()
+            total =  f[i].sum().__str__()
         elif np.issubdtype(f[i].dtype, np.datetime64):
             max =f[i].max().__str__()
             min =f[i].min().__str__()
@@ -52,7 +54,7 @@ def dumpMetaData(CSV_FILE):
         elif np.issubdtype(f[i].dtype, np.object):
             unique = f[i].fillna("NaN").unique().tolist()
 
-        data[i] = {"max":max, "min":min, "median":median, "mean":mean, "std":std, "unique": unique}
+        data[i] = {"max":max, "min":min, "median":median, "mean":mean, "std":std, "unique": unique, "total":total}
 
     country_meta = {
     }
