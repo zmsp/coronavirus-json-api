@@ -1,6 +1,6 @@
 # Novel Coronavirus JSON data (Updated: 09 March, 2020  09:53:54) 
-This repository tracks Novel Coronavirus data and converts it into a json to be consumed by other applications. 
-The data is updated form Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) repository. 
+This repository tracks Novel Coronavirus data and converts it into a JSON to be consumed by other applications. 
+The data is updated from Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) repository. 
 You can visit https://github.com/CSSEGISandData/COVID-19 for more information. 
 
 
@@ -11,15 +11,16 @@ Please see https://www.jokecamp.com/blog/code-examples-api-http-get-json-differe
 
 
 ## Files:
-### This directory contains source CSV
+### csse_covid_19_data/directory contains source CSV
+
         csse_covid_19_data/csse_covid_19_daily_reports.csv
-        csse_covid_19_data/download_info.json
+
         csse_covid_19_data/time_series_19-covid-Confirmed.csv
         csse_covid_19_data/time_series_19-covid-Deaths.csv
         csse_covid_19_data/time_series_19-covid-Recovered.csv
 
-### This directory contains api fils read each file for information
-For each file there is a pretty_print and a condensed minified file. 
+### JSON files in the root directory contains api 
+For each file there is a pretty_print and a condensed minified file. You can read the pretty_print file for the data structure. 
 
 
         metadata.json
@@ -48,7 +49,7 @@ metadata = "https://raw.githubusercontent.com/zmsp/coronavirus-json-api/master/m
 ## File formats
 
 ### latest.json 
-Provides record in an a list format
+Provides record in a list format
 ```json
 [
   {
@@ -77,8 +78,7 @@ Provides record in an a list format
 ```
 
 ### metadata file
-Metadata provides useful information about each columns. Intended to help with statistical analysis of the data.
-
+Metadata provides useful information about each column. Intended to help with statistical analysis of the data.
 
 ```json
 {
