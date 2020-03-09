@@ -756,9 +756,9 @@
       "name":"Qatar"
     },
     "Republic of Ireland":{
-      "alpha_2":"XX",
-      "alpha_3":"XXX",
-      "name":"Republic of Ireland"
+      "alpha_2":"IE",
+      "alpha_3":"IRL",
+      "name":"Ireland"
     },
     "Romania":{
       "alpha_2":"RO",
@@ -861,9 +861,9 @@
       "name":"Tunisia"
     },
     "UK":{
-      "alpha_2":"UA",
-      "alpha_3":"UKR",
-      "name":"Ukraine"
+      "alpha_2":"GB",
+      "alpha_3":"GBR",
+      "name":"United Kingdom"
     },
     "US":{
       "alpha_2":"US",
@@ -893,6 +893,6 @@
   },
   "data_meta":{
     "md5":"bb61bf1690840406b7ac93972622e680",
-    "updated":"08 March, 2020  20:19:13"
+    "updated":"09 March, 2020  02:01:59"
   }
 }
