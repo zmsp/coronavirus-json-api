@@ -184,10 +184,19 @@ def dumpTimeSeries(CSV_FILE):
     aggra = g.agg(f)
     results = {}
     for key, df_gb in g:
+        records = df_gb.to_dict('records')
+        data = []
+        for i in records:
+            data_label = i['Province/State']
+            if data_label == "":
+                data_label = "*"
+            data.append({data_label: i })
+
         results[str(key)] = {
             "total": aggra.loc[str(key)].to_dict(),
-            "Province": df_gb.to_dict('records')
+            "province": data
         }
+
     filename, ext = (CSV_FILE.split('/')[-1].split('.'))
 
     filename = filename.replace("-","_").lower()
@@ -223,7 +232,7 @@ def download_data():
                 f.write(r.content)
                 download_info[filename] = curr_md5
                 data_changed = True
-        changed.append(filename)
+            changed.append(filename)
 
     if (data_changed):
         out = json.dumps(download_info, indent=4, sort_keys=True)
@@ -249,6 +258,8 @@ def dumpRecordData(CSV_FILE):
          'Last Update': 'max'
          }
 
+
+
     for i in my_data.columns[3:]:
         agg[i].loc[0] = my_data[i].sum()
         operations[i] = "sum"
@@ -271,10 +282,21 @@ def dumpRecordData(CSV_FILE):
     for key, df_gb in g:
         agg_dict = aggra.loc[str(key)].to_dict()
         agg_dict["Province/State"] = "None"
+
+
+        records = df_gb.to_dict('records')
+        data = []
+        for i in records:
+            data_label = i['Province/State']
+            if data_label == "":
+                data_label = "*"
+            data.append({data_label: i })
         results[str(key)] = {
             "total": aggra.loc[str(key)].to_dict(),
-            "Province": df_gb.to_dict('records')
+            "Province":data
         }
+
+
     filename, ext = (CSV_FILE.split('/')[-1].split('.'))
     filename = filename.replace("-","_").lower()
     with open('./{}.json'.format(filename), "w") as file:
@@ -288,6 +310,7 @@ if __name__ == "__main__":
 
     if (len(changed) != 0):
         print("processing :" + changed.__str__())
+
         for filename in changed:
             CSV_PATH = DOWNLOAD_PATH + filename;
             if filename == "csse_covid_19_daily_reports.csv":
