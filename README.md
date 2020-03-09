@@ -1,4 +1,4 @@
-# Novel Coronavirus JSON data (Updated: 09 March, 2020  02:01:59) 
+# Novel Coronavirus JSON data (Updated: 09 March, 2020  02:19:15) 
 This repository tracks Novel Coronavirus data and converts it into a json to be consumed by other applications. 
 The data is updated form Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) repository. 
 You can visit https://github.com/CSSEGISandData/COVID-19 for more information. 
@@ -6,32 +6,48 @@ You can visit https://github.com/CSSEGISandData/COVID-19 for more information.
 
 This repository gets updated automatically. 
 
-# How to use 
+#3 How to use 
 Please see https://www.jokecamp.com/blog/code-examples-api-http-get-json-different-languages/ on how to to fetch these data. 
 
 
 ## Files:
+### This directory contains source CSV
+        csse_covid_19_data/csse_covid_19_daily_reports.csv
+        csse_covid_19_data/download_info.json
+        csse_covid_19_data/time_series_19-covid-Confirmed.csv
+        csse_covid_19_data/time_series_19-covid-Deaths.csv
+        csse_covid_19_data/time_series_19-covid-Recovered.csv
 
+### This directory contains api fils read each file for information
+For each file there is a pretty_print and a condensed minified file. 
+
+
+        metadata.json
+        metadata_pretty_print.json
         csse_covid_19_daily_reports.json
         csse_covid_19_daily_reports_pretty_print.json
-        csse_covid_19_data/
-        time_series_19-covid-Confirmed.json
-        time_series_19-covid-Confirmed_pretty_print.json
-        time_series_19-covid-Deaths.json
-        time_series_19-covid-Deaths_pretty_print.json
-        time_series_19-covid-Recovered.json
-        time_series_19-covid-Recovered_pretty_print.json
+        time_series_19_covid_confirmed.json
+        time_series_19_covid_confirmed_pretty_print.json
+        time_series_19_covid_deaths.json
+        time_series_19_covid_deaths_pretty_print.json
+        time_series_19_covid_recovered.json
+        time_series_19_covid_recovered_pretty_print.json
+        update_data.py
 
 ### URLs
+URLs should link to 'https://raw.githubusercontent.com/zmsp/coronavirus-json-api/' + file name.
+Example : 
 ```
 latest = "https://raw.githubusercontent.com/zmsp/coronavirus-json-api/master/latest.json"
 metadata = "https://raw.githubusercontent.com/zmsp/coronavirus-json-api/master/metadata.json"
 ```
-Note that each dataset has a pretty print and a condensed pair 
 
 
 
-## 
+
+## File formats
+
+### latest.json 
 Provides record in an a list format
 ```json
 [
@@ -60,7 +76,7 @@ Provides record in an a list format
 
 ```
 
-## metadata file
+### metadata file
 Metadata provides useful information about each columns. Intended to help with statistical analysis of the data.
 
 
@@ -112,6 +128,8 @@ Metadata provides useful information about each columns. Intended to help with s
 }
 
 ```
+
+### TimeSeries 
 
 ```json
 {
