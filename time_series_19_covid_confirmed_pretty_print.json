@@ -2274,7 +2274,7 @@
     "Cameroon": {
         "total": {
             "Province/State": 1.0,
-            "Lat": 3.8480000000000003,
+            "Lat": 3.848,
             "Long": 11.5021,
             "1/22/20": 0.0,
             "1/23/20": 0.0,
@@ -2329,7 +2329,7 @@
                 "*": {
                     "Province/State": "",
                     "Country/Region": "Cameroon",
-                    "Lat": 3.8480000000000003,
+                    "Lat": 3.848,
                     "Long": 11.5021,
                     "1/22/20": 0,
                     "1/23/20": 0,
@@ -3216,7 +3216,7 @@
         "total": {
             "Province/State": 1.0,
             "Lat": 49.8175,
-            "Long": 15.472999999999999,
+            "Long": 15.473,
             "1/22/20": 0.0,
             "1/23/20": 0.0,
             "1/24/20": 0.0,
@@ -3271,7 +3271,7 @@
                     "Province/State": "",
                     "Country/Region": "Czech Republic",
                     "Lat": 49.8175,
-                    "Long": 15.472999999999999,
+                    "Long": 15.473,
                     "1/22/20": 0,
                     "1/23/20": 0,
                     "1/24/20": 0,
@@ -7483,7 +7483,7 @@
                 "Heilongjiang": {
                     "Province/State": "Heilongjiang",
                     "Country/Region": "Mainland China",
-                    "Lat": 47.861999999999995,
+                    "Lat": 47.862,
                     "Long": 127.7615,
                     "1/22/20": 0,
                     "1/23/20": 2,
@@ -7539,7 +7539,7 @@
                     "Province/State": "Henan",
                     "Country/Region": "Mainland China",
                     "Lat": 33.882020000000004,
-                    "Long": 113.61399999999999,
+                    "Long": 113.614,
                     "1/22/20": 5,
                     "1/23/20": 5,
                     "1/24/20": 9,
@@ -8198,7 +8198,7 @@
                 "Shanghai": {
                     "Province/State": "Shanghai",
                     "Country/Region": "Mainland China",
-                    "Lat": 31.201999999999998,
+                    "Lat": 31.202,
                     "Long": 121.4491,
                     "1/22/20": 9,
                     "1/23/20": 16,
@@ -8529,7 +8529,7 @@
                     "Province/State": "Yunnan",
                     "Country/Region": "Mainland China",
                     "Lat": 24.974,
-                    "Long": 101.48700000000001,
+                    "Long": 101.487,
                     "1/22/20": 1,
                     "1/23/20": 2,
                     "1/24/20": 5,
@@ -13793,7 +13793,7 @@
             "3/5/20": 220.0,
             "3/6/20": 277.0,
             "3/7/20": 416.0,
-            "3/8/20": 538.0
+            "3/8/20": 537.0
         },
         "province": [
             {
@@ -14571,7 +14571,7 @@
                     "Province/State": "Grafton County, NH",
                     "Country/Region": "US",
                     "Lat": 43.9088,
-                    "Long": -71.82600000000001,
+                    "Long": -71.82600000000002,
                     "1/22/20": 0,
                     "1/23/20": 0,
                     "1/24/20": 0,
@@ -15725,7 +15725,7 @@
                 "Santa Rosa County, FL": {
                     "Province/State": "Santa Rosa County, FL",
                     "Country/Region": "US",
-                    "Lat": 30.769000000000002,
+                    "Lat": 30.769,
                     "Long": -86.9824,
                     "1/22/20": 0,
                     "1/23/20": 0,
@@ -19128,7 +19128,7 @@
                     "3/5/20": 0,
                     "3/6/20": 1,
                     "3/7/20": 2,
-                    "3/8/20": 2
+                    "3/8/20": 1
                 }
             },
             {
@@ -19575,7 +19575,7 @@
                 "Volusia County, FL": {
                     "Province/State": "Volusia County, FL",
                     "Country/Region": "US",
-                    "Lat": 29.028000000000002,
+                    "Lat": 29.028,
                     "Long": -81.0755,
                     "1/22/20": 0,
                     "1/23/20": 0,
