@@ -249,8 +249,8 @@ def dumpRecordData(CSV_FILE):
 
     my_data["Last Update"] = pd.to_datetime(my_data["Last Update"])
     agg = pd.DataFrame(columns=my_data.columns)
-    agg.loc[0] = "TOTAL"
-    agg.loc["Last Update"] = my_data["Last Update"].max()
+    agg.loc[0] = "total"
+
 
     operations = {'Province/State': 'nunique',
          'Latitude': 'mean',
@@ -263,8 +263,18 @@ def dumpRecordData(CSV_FILE):
     for i in my_data.columns[3:]:
         agg[i].loc[0] = my_data[i].sum()
         operations[i] = "sum"
-    my_data["Last Update"] = my_data["Last Update"].dt.strftime('%Y-%m-%d %H:%M:%S')
+    agg.loc[0]["Province/State"] = my_data["Province/State"].unique().shape[0]
+    agg.loc[0]["Last Update"] = my_data["Last Update"].max()
+
+    if  "Latitudee" in my_data.columns:
+        agg.loc[0]["Latitudee"] = my_data["Latitudee"].mean()
+        agg.loc[0]["Longitude"] = my_data["Longitude"].mean()
+    if "Lat" in my_data.columns:
+        agg.loc[0]["Lat"] = my_data["Lat"].mean()
+        agg.loc[0]["Long"] = my_data["Long"].mean()
     my_data.loc[-1] =agg.loc[0]
+    my_data["Last Update"] = my_data["Last Update"].dt.strftime('%Y-%m-%d %H:%M:%S')
+
 
 
     my_data = my_data.replace(np.nan, '', regex=True)
@@ -304,7 +314,13 @@ def dumpRecordData(CSV_FILE):
     with open('./{}_pretty_print.json'.format(filename), "w") as file:
         file.write(json.dumps(results, cls=npEncoder, indent=4, sort_keys=True))
 
+
+def func_test():
+    dumpRecordData("csse_covid_19_data/csse_covid_19_daily_reports.csv")
+
+func_test()
 if __name__ == "__main__":
+
 
     changed = download_data()
 
@@ -328,3 +344,5 @@ if __name__ == "__main__":
 
     else:
         sys.exit('Local file is the latest, nothing was updated')
+
+
