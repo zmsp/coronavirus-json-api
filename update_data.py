@@ -191,12 +191,12 @@ def dumpTimeSeries(CSV_FILE):
     results = {}
     for key, df_gb in g:
         records = df_gb.to_dict('records')
-        data = []
+        data = {}
         for i in records:
             data_label = i['Province/State']
             if data_label == "":
                 data_label = "*"
-            data.append({data_label: i })
+            data[data_label] = i
 
         results[str(key)] = {
             "total": dataGroupedByCountry.loc[str(key)].to_dict(),
@@ -301,12 +301,12 @@ def dumpRecordData(CSV_FILE):
 
 
         records = df_gb.to_dict('records')
-        data = []
+        data = {}
         for i in records:
             data_label = i['Province/State']
             if data_label == "":
                 data_label = "*"
-            data.append({data_label: i })
+            data[data_label] = i
         results[str(key)] = {
             "total": aggra.loc[str(key)].to_dict(),
             "Province":data
