@@ -168,7 +168,7 @@ def dumpTimeSeries(CSV_FILE):
     import pandas as pd
     my_data = pd.read_csv(CSV_FILE)
     agg = pd.DataFrame(columns=my_data.columns)
-    agg.loc[0] = "TOTAL"
+    agg.loc[0] = "!summary"
 
     f = {'Province/State': 'nunique',
          'Lat': 'mean',
@@ -178,10 +178,16 @@ def dumpTimeSeries(CSV_FILE):
     for i in my_data.columns[4:]:
         agg[i].loc[0] = my_data[i].sum()
         f[i] = "sum"
+    if "Lat" in my_data.columns:
+        agg.loc[0]["Lat"] = my_data["Lat"].mean()
+        agg.loc[0]["Long"] = my_data["Long"].mean()
+    my_data.loc[-1] =agg.loc[0]
+
 
     my_data = my_data.replace(np.nan, '', regex=True)
     g = my_data.groupby(['Country/Region'])
-    aggra = g.agg(f)
+    dataGroupedByCountry = g.agg(f)
+
     results = {}
     for key, df_gb in g:
         records = df_gb.to_dict('records')
@@ -193,7 +199,7 @@ def dumpTimeSeries(CSV_FILE):
             data.append({data_label: i })
 
         results[str(key)] = {
-            "total": aggra.loc[str(key)].to_dict(),
+            "total": dataGroupedByCountry.loc[str(key)].to_dict(),
             "province": data
         }
 
@@ -249,7 +255,7 @@ def dumpRecordData(CSV_FILE):
 
     my_data["Last Update"] = pd.to_datetime(my_data["Last Update"])
     agg = pd.DataFrame(columns=my_data.columns)
-    agg.loc[0] = "total"
+    agg.loc[0] = "!summary"
 
 
     operations = {'Province/State': 'nunique',
@@ -267,7 +273,7 @@ def dumpRecordData(CSV_FILE):
     agg.loc[0]["Last Update"] = my_data["Last Update"].max()
 
     if  "Latitudee" in my_data.columns:
-        agg.loc[0]["Latitudee"] = my_data["Latitudee"].mean()
+        agg.loc[0]["Latitude"] = my_data["Latitude"].mean()
         agg.loc[0]["Longitude"] = my_data["Longitude"].mean()
     if "Lat" in my_data.columns:
         agg.loc[0]["Lat"] = my_data["Lat"].mean()
@@ -315,10 +321,6 @@ def dumpRecordData(CSV_FILE):
         file.write(json.dumps(results, cls=npEncoder, indent=4, sort_keys=True))
 
 
-def func_test():
-    dumpRecordData("csse_covid_19_data/csse_covid_19_daily_reports.csv")
-
-func_test()
 if __name__ == "__main__":
 
 
@@ -326,6 +328,7 @@ if __name__ == "__main__":
 
     if (len(changed) != 0):
         print("processing :" + changed.__str__())
+
 
         for filename in changed:
             CSV_PATH = DOWNLOAD_PATH + filename;

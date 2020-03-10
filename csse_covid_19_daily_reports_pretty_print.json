@@ -1,4 +1,29 @@
 {
+    "!summary": {
+        "Province": [
+            {
+                "164": {
+                    "Confirmed": 113582,
+                    "Country/Region": "!summary",
+                    "Deaths": 3996,
+                    "Last Update": "2020-03-09 23:33:02",
+                    "Latitude": 8691.1232,
+                    "Longitude": -3953.5203,
+                    "Province/State": 164,
+                    "Recovered": 62512
+                }
+            }
+        ],
+        "total": {
+            "Confirmed": 113582,
+            "Deaths": 3996,
+            "Last Update": "2020-03-09 23:33:02",
+            "Latitude": 8691.1232,
+            "Longitude": -3953.5203,
+            "Province/State": 1,
+            "Recovered": 62512
+        }
+    },
     "Afghanistan": {
         "Province": [
             {
@@ -4632,31 +4657,6 @@
             "Longitude": 108.0,
             "Province/State": 1,
             "Recovered": 16
-        }
-    },
-    "total": {
-        "Province": [
-            {
-                "164": {
-                    "Confirmed": 113582,
-                    "Country/Region": "total",
-                    "Deaths": 3996,
-                    "Last Update": "2020-03-09 23:33:02",
-                    "Latitude": 8691.1232,
-                    "Longitude": -3953.5203,
-                    "Province/State": 164,
-                    "Recovered": 62512
-                }
-            }
-        ],
-        "total": {
-            "Confirmed": 113582,
-            "Deaths": 3996,
-            "Last Update": "2020-03-09 23:33:02",
-            "Latitude": 8691.1232,
-            "Longitude": -3953.5203,
-            "Province/State": 1,
-            "Recovered": 62512
         }
     }
 }
