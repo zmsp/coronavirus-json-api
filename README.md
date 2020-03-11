@@ -12,23 +12,6 @@ This repository gets updated automatically on a daily basis.
 
 
 
-
-
-
-
-### Licensing and Terms:
-You are allowed to use the data and the API your projects. 
-You are not to hold the owners and contributors accountable for any legal issues or damage. Data is provided as is provided as is without warranty.
-
-
-
-
-
-
-
-
-
-
 ## How to use 
 
 Please see https://www.jokecamp.com/blog/code-examples-api-http-get-json-different-languages/ on how to to fetch these data with different programing languages. 
@@ -358,3 +341,9 @@ Metadata provides useful information about each column. Intended to help with st
 }
 
 ```
+
+
+### Licensing and Terms:
+The code is released under Apache License 2.0 license. [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) reserves the rights to the data.  
+
+You are not to hold the owners and contributors accountable for any legal issues or damage. Data is provided as is provided as is without warranty.
