@@ -3,9 +3,16 @@ This repository tracks Novel Coronavirus data and converts it into a JSON to be 
 The data is updated from Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) repository. 
 You can visit https://github.com/CSSEGISandData/COVID-19 for more information. 
 
+This repository gets updated automatically on a daily basis.
 
-### A visualization was created using this repository as the API here:
-### [coronavirusdashboard.live](http://coronavirusdashboard.live/)
+
+#### Visualization 
+
+[coronavirusdashboard.live](http://coronavirusdashboard.live/) was created using the data API from this repository.
+
+
+
+
 
 
 
@@ -16,7 +23,11 @@ You are not to hold the owners and contributors accountable for any legal issues
 
 
 
-This repository gets updated automatically. 
+
+
+
+
+
 
 ## How to use 
 
