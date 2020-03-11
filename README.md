@@ -1,13 +1,26 @@
-# Novel Coronavirus JSON data (Updated: 10 March, 2020  04:51:27) 
+# Novel Coronavirus JSON data (Updated: 11 March, 2020  01:00:02) 
 This repository tracks Novel Coronavirus data and converts it into a JSON to be consumed by other applications. 
 The data is updated from Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) repository. 
 You can visit https://github.com/CSSEGISandData/COVID-19 for more information. 
 
 
+### A visualization was created using this repository as the API here:
+### [coronavirusdashboard.live](http://coronavirusdashboard.live/)
+
+
+
+### Licensing and Terms:
+You are allowed to use the data and the API your projects. 
+You are not to hold the owners and contributors accountable for any legal issues or damage. Data is provided as is provided as is without warranty.
+
+
+
+
 This repository gets updated automatically. 
 
-#3 How to use 
-Please see https://www.jokecamp.com/blog/code-examples-api-http-get-json-different-languages/ on how to to fetch these data. 
+## How to use 
+
+Please see https://www.jokecamp.com/blog/code-examples-api-http-get-json-different-languages/ on how to to fetch these data with different programing languages. 
 
 
 ## Files:

@@ -104,14 +104,6 @@ def dumpMetaData(CSV_FILE):
         f.write(out)
 
 
-def dumpTimeSeries(CSV_FILE):
-    with open(CSV_FILE, "r") as f:
-        reader = csv.reader(f)
-        headers = next(reader)
-        reader = csv.DictReader(f, headers)
-        out = json.dumps([row for row in reader], sort_keys=True, indent=2, separators=(',', ':'))
-    with open(JSON_PRETTY_PATH, "w") as f:
-        f.write(out)
 
 
 def dumpCsvToJsonPrettyPrint(CSV_FILE):
@@ -165,7 +157,6 @@ def get_data_url():
 
 
 def dumpTimeSeries(CSV_FILE):
-    import pandas as pd
     my_data = pd.read_csv(CSV_FILE)
     agg = pd.DataFrame(columns=my_data.columns)
     agg.loc[0] = "!summary"
@@ -174,8 +165,10 @@ def dumpTimeSeries(CSV_FILE):
          'Lat': 'mean',
          'Long': 'mean',
          }
+    my_data[my_data.columns[4:]] = my_data[my_data.columns[4:]].fillna(0).astype(np.int64)
 
     for i in my_data.columns[4:]:
+        my_data[i] = pd.to_numeric(my_data[i], downcast='integer')
         agg[i].loc[0] = my_data[i].sum()
         f[i] = "sum"
     if "Lat" in my_data.columns:
@@ -239,6 +232,9 @@ def download_data():
                 download_info[filename] = curr_md5
                 data_changed = True
             changed.append(filename)
+
+
+
 
     if (data_changed):
         out = json.dumps(download_info, indent=4, sort_keys=True)
@@ -321,7 +317,17 @@ def dumpRecordData(CSV_FILE):
         file.write(json.dumps(results, cls=npEncoder, indent=4, sort_keys=True))
 
 
+
+def runTest():
+    test = "csse_covid_19_data/time_series_19-covid-Deaths.csv"
+    dumpTimeSeries(test)
+
+
+debug = False
 if __name__ == "__main__":
+    if (debug):
+        runTest()
+        sys.exit('tested')
 
 
     changed = download_data()
@@ -331,6 +337,7 @@ if __name__ == "__main__":
 
 
         for filename in changed:
+            print("Processing {}".format(filename))
             CSV_PATH = DOWNLOAD_PATH + filename;
             if filename == "csse_covid_19_daily_reports.csv":
                 dumpRecordData(CSV_PATH)
