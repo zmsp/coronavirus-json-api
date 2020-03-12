@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Confirmed":{
-      "max":"67760",
-      "mean":"575.6407766990292",
-      "median":"12.0",
+      "max":"67773",
+      "mean":"582.7083333333334",
+      "median":"13.0",
       "min":"0",
-      "std":"4822.697784343286",
-      "total":"118582",
+      "std":"4746.610024900757",
+      "total":"125865",
       "unique":[]
     },
     "Country/Region":{
@@ -17,157 +17,158 @@
       "std":"",
       "total":"",
       "unique":[
-        "Mainland China",
+        "China",
         "Italy",
-        "Iran (Islamic Republic of)",
-        "Republic of Korea",
+        "Iran",
+        "Korea, South",
         "France",
         "Spain",
         "Germany",
-        "Others",
-        "Japan",
+        "Cruise Ship",
         "Switzerland",
+        "Japan",
         "Norway",
         "Netherlands",
-        "UK",
         "Sweden",
-        "Belgium",
-        "US",
+        "United Kingdom",
         "Denmark",
+        "US",
+        "Belgium",
+        "Qatar",
         "Austria",
+        "Bahrain",
         "Singapore",
         "Malaysia",
-        "Hong Kong SAR",
-        "Bahrain",
-        "Greece",
-        "United Arab Emirates",
-        "Iraq",
-        "Iceland",
-        "Kuwait",
-        "Egypt",
         "Israel",
-        "India",
+        "Greece",
+        "Czechia",
+        "Iceland",
+        "United Arab Emirates",
+        "Kuwait",
+        "Iraq",
         "Australia",
-        "Thailand",
+        "India",
         "San Marino",
-        "Taipei and environs",
-        "Czech Republic",
         "Lebanon",
-        "Portugal",
+        "Egypt",
         "Finland",
-        "Canada",
-        "Ireland",
-        "Philippines",
-        "Brazil",
+        "Portugal",
+        "Thailand",
         "Slovenia",
-        "Viet Nam",
-        "Indonesia",
+        "Philippines",
+        "Taiwan*",
         "Romania",
-        "occupied Palestinian territory",
-        "Qatar",
+        "Ireland",
+        "Canada",
+        "Brazil",
+        "Vietnam",
+        "Indonesia",
         "Poland",
-        "Algeria",
-        "Saudi Arabia",
-        "Oman",
-        "Argentina",
-        "Pakistan",
-        "Ecuador",
         "Georgia",
-        "Croatia",
         "Chile",
+        "Saudi Arabia",
+        "Algeria",
+        "Russia",
+        "Argentina",
+        "Croatia",
+        "Pakistan",
+        "Oman",
+        "Ecuador",
         "Estonia",
-        "Azerbaijan",
-        "Peru",
-        "Albania",
-        "Macao SAR",
-        "Russian Federation",
-        "Belarus",
         "Costa Rica",
         "Hungary",
-        "Latvia",
-        "Mexico",
-        "North Macedonia",
-        "Slovakia",
         "South Africa",
+        "Albania",
+        "Serbia",
+        "Azerbaijan",
+        "Brunei",
+        "Peru",
+        "Latvia",
+        "Slovakia",
+        "Belarus",
+        "Colombia",
         "Maldives",
+        "Mexico",
+        "Panama",
         "Afghanistan",
         "Bosnia and Herzegovina",
+        "Bulgaria",
+        "Luxembourg",
+        "North Macedonia",
+        "Tunisia",
+        "Cyprus",
+        "Malta",
         "Dominican Republic",
         "French Guiana",
-        "Luxembourg",
-        "Malta",
+        "Morocco",
         "New Zealand",
-        "Serbia",
-        "Tunisia",
-        "Bulgaria",
+        "Paraguay",
         "Senegal",
         "Bangladesh",
-        "Colombia",
-        "Cyprus",
-        "Morocco",
-        "Republic of Moldova",
         "Cambodia",
-        "Cameroon",
-        "Faroe Islands",
+        "Lithuania",
         "Martinique",
+        "Moldova",
+        "Bolivia",
+        "Burkina Faso",
+        "Cameroon",
+        "Honduras",
         "Nigeria",
-        "Saint Martin",
+        "Sri Lanka",
         "Andorra",
         "Armenia",
         "Bhutan",
-        "Brunei",
-        "Burkina Faso",
-        "Channel Islands",
-        "Gibraltar",
+        "Congo (Kinshasa)",
+        "Cote d'Ivoire",
         "Holy See",
+        "Jamaica",
         "Jordan",
         "Liechtenstein",
-        "Lithuania",
         "Monaco",
         "Mongolia",
         "Nepal",
-        "Panama",
-        "Paraguay",
-        "Saint Barthelemy",
-        "Sri Lanka",
+        "Reunion",
         "Togo",
-        "Ukraine"
+        "Turkey",
+        "Ukraine",
+        "Mainland China",
+        "occupied Palestinian territory"
       ]
     },
     "Deaths":{
-      "max":"3024",
-      "mean":"20.689320388349515",
+      "max":"3046",
+      "mean":"21.36574074074074",
       "median":"0.0",
       "min":"0",
-      "std":"215.79484517120116",
-      "total":"4262",
+      "std":"215.66509465697553",
+      "total":"4615",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-03-10 23:53:02",
-      "mean":"2020-03-09 12:50:19.000000256",
+      "max":"2020-03-11 23:53:03",
+      "mean":"2020-03-11 00:45:33.921296384",
       "median":"",
-      "min":"2020-02-12 06:43:02",
+      "min":"2020-02-29 00:33:01",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"64.9631",
-      "mean":"31.184989320388347",
-      "median":"36.030550000000005",
+      "mean":"30.495477314814817",
+      "median":"36.0",
       "min":"-41.4545",
-      "std":"21.305149332938555",
-      "total":"6424.1078",
+      "std":"21.623689380347706",
+      "total":"6587.0231",
       "unique":[]
     },
     "Longitude":{
       "max":"174.886",
-      "mean":"11.752030097087381",
+      "mean":"11.348890740740739",
       "median":"15.23425",
       "min":"-157.4983",
-      "std":"84.57629121010656",
-      "total":"2420.9182000000005",
+      "std":"84.0113032903007",
+      "total":"2451.3603999999996",
       "unique":[]
     },
     "Province/State":{
@@ -180,6 +181,7 @@
       "unique":[
         "Hubei",
         "NaN",
+        "France",
         "Guangdong",
         "Henan",
         "Zhejiang",
@@ -187,106 +189,112 @@
         "Anhui",
         "Jiangxi",
         "Shandong",
-        "Diamond Princess cruise ship",
+        "Diamond Princess",
         "Jiangsu",
         "Chongqing",
         "Sichuan",
         "Heilongjiang",
+        "UK",
+        "Denmark",
         "Beijing",
+        "Washington",
         "Shanghai",
         "Hebei",
         "Fujian",
-        "Washington",
         "Guangxi",
         "Shaanxi",
-        "Yunnan",
         "New York",
+        "California",
+        "Yunnan",
         "Hainan",
         "Guizhou",
-        "California",
         "Tianjin",
         "Shanxi",
         "Gansu",
-        "Liaoning",
         "Hong Kong",
-        "Jilin",
+        "Liaoning",
         "Massachusetts",
+        "Jilin",
         "Xinjiang",
         "Inner Mongolia",
         "Ningxia",
         "New South Wales",
-        "Taiwan",
-        "Diamond Princess",
         "Ontario",
         "British Columbia",
-        "Grand Princess",
-        "Queensland",
-        "Victoria",
-        "Qinghai",
-        "Georgia",
         "Colorado",
         "Florida",
-        "New Jersey",
-        "Oregon",
-        "Texas",
         "Illinois",
-        "Pennsylvania",
-        "Macau",
-        "Iowa",
-        "Maryland",
-        "South Australia",
+        "Georgia",
+        "New Jersey",
+        "Victoria",
+        "Grand Princess",
+        "Texas",
+        "Queensland",
         "Alberta",
-        "North Carolina",
+        "Oregon",
+        "Qinghai",
+        "Pennsylvania",
+        "Iowa",
+        "Indiana",
+        "Macau",
+        "District of Columbia",
         "South Carolina",
-        "Tennessee",
-        "Virginia",
+        "South Australia",
         "Western Australia",
         "Arizona",
-        "Indiana",
-        "Kentucky",
-        "District of Columbia",
+        "Maryland",
+        "Tennessee",
+        "Virginia",
         "Quebec",
+        "Kentucky",
+        "South Dakota",
         "Nevada",
-        "New Hampshire",
+        "North Carolina",
+        "Louisiana",
+        "Wisconsin",
         "Minnesota",
         "Nebraska",
-        "Ohio",
+        "New Hampshire",
         "Rhode Island",
-        "Wisconsin",
+        "Ohio",
         "Tasmania",
         "Connecticut",
-        "Hawaii",
-        "Oklahoma",
+        "New Mexico",
         "Utah",
+        "Faroe Islands",
+        "St Martin",
+        "Hawaii",
+        "Michigan",
+        "Oklahoma",
+        "Channel Islands",
         "Northern Territory",
+        "New Brunswick",
         "Tibet",
-        "Kansas",
-        "Louisiana",
-        "Missouri",
-        "Vermont",
-        "From Diamond Princess",
-        "Alaska",
+        "Saint Barthelemy",
         "Arkansas",
         "Delaware",
+        "Kansas",
+        "Missouri",
+        "Montana",
+        "Vermont",
+        "Gibraltar",
+        "From Diamond Princess",
+        "Alaska",
         "Idaho",
         "Maine",
-        "Michigan",
         "Mississippi",
-        "Montana",
-        "New Mexico",
         "North Dakota",
-        "South Dakota",
         "West Virginia",
         "Wyoming"
       ]
     },
     "Recovered":{
-      "max":"47743",
-      "mean":"312.6407766990291",
+      "max":"49134",
+      "mean":"310.1990740740741",
       "median":"0.0",
       "min":"0",
-      "std":"3332.764712862994",
-      "total":"64404",
+      "std":"3350.2751962216093",
+      "total":"67003",
       "unique":[]
     }
   },
@@ -371,6 +379,11 @@
       "alpha_3":"BTN",
       "name":"Bhutan"
     },
+    "Bolivia":{
+      "alpha_2":"BO",
+      "alpha_3":"BOL",
+      "name":"Bolivia, Plurinational State of"
+    },
     "Bosnia and Herzegovina":{
       "alpha_2":"BA",
       "alpha_3":"BIH",
@@ -411,37 +424,52 @@
       "alpha_3":"CAN",
       "name":"Canada"
     },
-    "Channel Islands":{
-      "alpha_2":"XX",
-      "alpha_3":"XXX",
-      "name":"Channel Islands"
-    },
     "Chile":{
       "alpha_2":"CL",
       "alpha_3":"CHL",
       "name":"Chile"
+    },
+    "China":{
+      "alpha_2":"CN",
+      "alpha_3":"CHN",
+      "name":"China"
     },
     "Colombia":{
       "alpha_2":"CO",
       "alpha_3":"COL",
       "name":"Colombia"
     },
+    "Congo (Kinshasa)":{
+      "alpha_2":"XX",
+      "alpha_3":"XXX",
+      "name":"Congo (Kinshasa)"
+    },
     "Costa Rica":{
       "alpha_2":"CR",
       "alpha_3":"CRI",
       "name":"Costa Rica"
+    },
+    "Cote d'Ivoire":{
+      "alpha_2":"CI",
+      "alpha_3":"CIV",
+      "name":"C\u00f4te d'Ivoire"
     },
     "Croatia":{
       "alpha_2":"HR",
       "alpha_3":"HRV",
       "name":"Croatia"
     },
+    "Cruise Ship":{
+      "alpha_2":"XX",
+      "alpha_3":"XXX",
+      "name":"Cruise Ship"
+    },
     "Cyprus":{
       "alpha_2":"CY",
       "alpha_3":"CYP",
       "name":"Cyprus"
     },
-    "Czech Republic":{
+    "Czechia":{
       "alpha_2":"CZ",
       "alpha_3":"CZE",
       "name":"Czechia"
@@ -471,11 +499,6 @@
       "alpha_3":"EST",
       "name":"Estonia"
     },
-    "Faroe Islands":{
-      "alpha_2":"FO",
-      "alpha_3":"FRO",
-      "name":"Faroe Islands"
-    },
     "Finland":{
       "alpha_2":"FI",
       "alpha_3":"FIN",
@@ -501,11 +524,6 @@
       "alpha_3":"DEU",
       "name":"Germany"
     },
-    "Gibraltar":{
-      "alpha_2":"GI",
-      "alpha_3":"GIB",
-      "name":"Gibraltar"
-    },
     "Greece":{
       "alpha_2":"GR",
       "alpha_3":"GRC",
@@ -516,10 +534,10 @@
       "alpha_3":"VAT",
       "name":"Holy See (Vatican City State)"
     },
-    "Hong Kong SAR":{
-      "alpha_2":"CN",
-      "alpha_3":"CHN",
-      "name":"China"
+    "Honduras":{
+      "alpha_2":"HN",
+      "alpha_3":"HND",
+      "name":"Honduras"
     },
     "Hungary":{
       "alpha_2":"HU",
@@ -541,10 +559,10 @@
       "alpha_3":"IDN",
       "name":"Indonesia"
     },
-    "Iran (Islamic Republic of)":{
-      "alpha_2":"XX",
-      "alpha_3":"XXX",
-      "name":"Iran (Islamic Republic of)"
+    "Iran":{
+      "alpha_2":"IR",
+      "alpha_3":"IRN",
+      "name":"Iran, Islamic Republic of"
     },
     "Iraq":{
       "alpha_2":"IQ",
@@ -566,6 +584,11 @@
       "alpha_3":"ITA",
       "name":"Italy"
     },
+    "Jamaica":{
+      "alpha_2":"JM",
+      "alpha_3":"JAM",
+      "name":"Jamaica"
+    },
     "Japan":{
       "alpha_2":"JP",
       "alpha_3":"JPN",
@@ -575,6 +598,11 @@
       "alpha_2":"JO",
       "alpha_3":"JOR",
       "name":"Jordan"
+    },
+    "Korea, South":{
+      "alpha_2":"XX",
+      "alpha_3":"XXX",
+      "name":"Korea, South"
     },
     "Kuwait":{
       "alpha_2":"KW",
@@ -606,11 +634,6 @@
       "alpha_3":"LUX",
       "name":"Luxembourg"
     },
-    "Macao SAR":{
-      "alpha_2":"CN",
-      "alpha_3":"CHN",
-      "name":"China"
-    },
     "Mainland China":{
       "alpha_2":"CN",
       "alpha_3":"CHN",
@@ -640,6 +663,11 @@
       "alpha_2":"MX",
       "alpha_3":"MEX",
       "name":"Mexico"
+    },
+    "Moldova":{
+      "alpha_2":"MD",
+      "alpha_3":"MDA",
+      "name":"Moldova, Republic of"
     },
     "Monaco":{
       "alpha_2":"MC",
@@ -691,11 +719,6 @@
       "alpha_3":"OMN",
       "name":"Oman"
     },
-    "Others":{
-      "alpha_2":"XX",
-      "alpha_3":"XXX",
-      "name":"Others"
-    },
     "Pakistan":{
       "alpha_2":"PK",
       "alpha_3":"PAK",
@@ -736,35 +759,20 @@
       "alpha_3":"QAT",
       "name":"Qatar"
     },
-    "Republic of Korea":{
-      "alpha_2":"KP",
-      "alpha_3":"PRK",
-      "name":"Korea, Democratic People's Republic of"
-    },
-    "Republic of Moldova":{
-      "alpha_2":"MD",
-      "alpha_3":"MDA",
-      "name":"Moldova, Republic of"
+    "Reunion":{
+      "alpha_2":"RE",
+      "alpha_3":"REU",
+      "name":"R\u00e9union"
     },
     "Romania":{
       "alpha_2":"RO",
       "alpha_3":"ROU",
       "name":"Romania"
     },
-    "Russian Federation":{
+    "Russia":{
       "alpha_2":"RU",
       "alpha_3":"RUS",
       "name":"Russian Federation"
-    },
-    "Saint Barthelemy":{
-      "alpha_2":"BL",
-      "alpha_3":"BLM",
-      "name":"Saint Barth\u00e9lemy"
-    },
-    "Saint Martin":{
-      "alpha_2":"MF",
-      "alpha_3":"MAF",
-      "name":"Saint Martin (French part)"
     },
     "San Marino":{
       "alpha_2":"SM",
@@ -826,10 +834,10 @@
       "alpha_3":"CHE",
       "name":"Switzerland"
     },
-    "Taipei and environs":{
+    "Taiwan*":{
       "alpha_2":"XX",
       "alpha_3":"XXX",
-      "name":"Taipei and environs"
+      "name":"Taiwan*"
     },
     "Thailand":{
       "alpha_2":"TH",
@@ -846,10 +854,10 @@
       "alpha_3":"TUN",
       "name":"Tunisia"
     },
-    "UK":{
-      "alpha_2":"GB",
-      "alpha_3":"GBR",
-      "name":"United Kingdom"
+    "Turkey":{
+      "alpha_2":"TR",
+      "alpha_3":"TUR",
+      "name":"Turkey"
     },
     "US":{
       "alpha_2":"US",
@@ -866,7 +874,12 @@
       "alpha_3":"ARE",
       "name":"United Arab Emirates"
     },
-    "Viet Nam":{
+    "United Kingdom":{
+      "alpha_2":"GB",
+      "alpha_3":"GBR",
+      "name":"United Kingdom"
+    },
+    "Vietnam":{
       "alpha_2":"VN",
       "alpha_3":"VNM",
       "name":"Viet Nam"
@@ -878,7 +891,7 @@
     }
   },
   "data_meta":{
-    "md5":"a9d8d91b11e1af07d850bfbe430b096f",
-    "updated":"11 March, 2020  01:00:02"
+    "md5":"7d8fff7329365946aa98ca195bbc689f",
+    "updated":"11 March, 2020  20:24:33"
   }
 }
