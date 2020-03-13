@@ -166,6 +166,8 @@ def dumpTimeSeries(CSV_FILE):
          'Long': 'mean',
          }
     my_data[my_data.columns[4:]] = my_data[my_data.columns[4:]].fillna(0).astype(np.int64)
+    print(my_data.dtypes)
+
 
     for i in my_data.columns[4:]:
         my_data[i] = pd.to_numeric(my_data[i], downcast='integer')
@@ -181,6 +183,7 @@ def dumpTimeSeries(CSV_FILE):
     g = my_data.groupby(['Country/Region'])
     dataGroupedByCountry = g.agg(f)
 
+    print(dataGroupedByCountry.dtypes)
     results = {}
     for key, df_gb in g:
         records = df_gb.to_dict('records')
@@ -195,6 +198,7 @@ def dumpTimeSeries(CSV_FILE):
             "total": dataGroupedByCountry.loc[str(key)].to_dict(),
             "province": data
         }
+
 
     filename, ext = (CSV_FILE.split('/')[-1].split('.'))
 
@@ -323,7 +327,7 @@ def runTest():
     dumpTimeSeries(test)
 
 
-debug = False
+debug = True
 if __name__ == "__main__":
     if (debug):
         runTest()
