@@ -77,15 +77,21 @@ def dumpMetaData(CSV_FILE):
     for name in f["Country/Region"].unique():
         try:
             i = name
-            correction = {"Mainland China": "China", "South Korea": "Korea, Democratic", "Macao": "Macau",
-                          "UK": "United Kingdom", "Republic of Ireland": "Ireland"}
+            tmp = name
+
+            correction = {"Mainland China": "China", "Korea, South": "Korea", "Macao": "Macau",
+                          "UK": "United Kingdom", "Republic of Ireland": "Ireland", "Taiwan*":"Taiwan", "Congo (Kinshasa)": "Congo", "occupied Palestinian territory" :"Palestine"}
 
             if correction.__contains__(name):
                 country = pycountry.countries.search_fuzzy(correction[i])[0]
+                tmp = correction[i]
             else:
                 country = pycountry.countries.search_fuzzy(i)[0]
 
+
+
             country_meta[i] = {"name": country.name, "alpha_2": country.alpha_2, "alpha_3": country.alpha_3}
+
         except:
             country_meta[i] = {"name": i, "alpha_2": "XX", "alpha_3": "XXX"}
     md5 = md5Checksum(CSV_FILE, None)
@@ -166,8 +172,6 @@ def dumpTimeSeries(CSV_FILE):
          'Long': 'mean',
          }
     my_data[my_data.columns[4:]] = my_data[my_data.columns[4:]].fillna(0).astype(np.int64)
-    print(my_data.dtypes)
-
 
     for i in my_data.columns[4:]:
         my_data[i] = pd.to_numeric(my_data[i], downcast='integer')
@@ -183,7 +187,6 @@ def dumpTimeSeries(CSV_FILE):
     g = my_data.groupby(['Country/Region'])
     dataGroupedByCountry = g.agg(f)
 
-    print(dataGroupedByCountry.dtypes)
     results = {}
     for key, df_gb in g:
         records = df_gb.to_dict('records')
@@ -198,7 +201,6 @@ def dumpTimeSeries(CSV_FILE):
             "total": dataGroupedByCountry.loc[str(key)].to_dict(),
             "province": data
         }
-
 
     filename, ext = (CSV_FILE.split('/')[-1].split('.'))
 
@@ -323,11 +325,11 @@ def dumpRecordData(CSV_FILE):
 
 
 def runTest():
-    test = "csse_covid_19_data/time_series_19-covid-Deaths.csv"
-    dumpTimeSeries(test)
+    test = "csse_covid_19_data/csse_covid_19_daily_reports.csv"
+    dumpMetaData(test)
 
 
-debug = True
+debug = False
 if __name__ == "__main__":
     if (debug):
         runTest()
