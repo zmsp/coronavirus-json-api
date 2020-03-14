@@ -7,7 +7,7 @@
     "Latitude":"30.9756",
     "Longitude":"112.2707",
     "Recovered":"51553",
-    "\u00ef\u00bb\u00bfProvince/State":"Hubei"
+    "Province/State":"Hubei"
   },
   {
     "Confirmed":"1356",
@@ -17,7 +17,7 @@
     "Latitude":"23.3417",
     "Longitude":"113.4244",
     "Recovered":"1296",
-    "\u00ef\u00bb\u00bfProvince/State":"Guangdong"
+    "Province/State":"Guangdong"
   },
   {
     "Confirmed":"1273",
@@ -27,7 +27,7 @@
     "Latitude":"33.882",
     "Longitude":"113.614",
     "Recovered":"1249",
-    "\u00ef\u00bb\u00bfProvince/State":"Henan"
+    "Province/State":"Henan"
   },
   {
     "Confirmed":"1215",
@@ -37,7 +37,7 @@
     "Latitude":"29.1832",
     "Longitude":"120.0934",
     "Recovered":"1197",
-    "\u00ef\u00bb\u00bfProvince/State":"Zhejiang"
+    "Province/State":"Zhejiang"
   },
   {
     "Confirmed":"1018",
@@ -47,7 +47,7 @@
     "Latitude":"27.6104",
     "Longitude":"111.7088",
     "Recovered":"1005",
-    "\u00ef\u00bb\u00bfProvince/State":"Hunan"
+    "Province/State":"Hunan"
   },
   {
     "Confirmed":"990",
@@ -57,7 +57,7 @@
     "Latitude":"31.8257",
     "Longitude":"117.2264",
     "Recovered":"984",
-    "\u00ef\u00bb\u00bfProvince/State":"Anhui"
+    "Province/State":"Anhui"
   },
   {
     "Confirmed":"935",
@@ -67,7 +67,7 @@
     "Latitude":"27.614",
     "Longitude":"115.7221",
     "Recovered":"934",
-    "\u00ef\u00bb\u00bfProvince/State":"Jiangxi"
+    "Province/State":"Jiangxi"
   },
   {
     "Confirmed":"760",
@@ -77,7 +77,7 @@
     "Latitude":"36.3427",
     "Longitude":"118.1498",
     "Recovered":"739",
-    "\u00ef\u00bb\u00bfProvince/State":"Shandong"
+    "Province/State":"Shandong"
   },
   {
     "Confirmed":"631",
@@ -87,7 +87,7 @@
     "Latitude":"32.9711",
     "Longitude":"119.455",
     "Recovered":"630",
-    "\u00ef\u00bb\u00bfProvince/State":"Jiangsu"
+    "Province/State":"Jiangsu"
   },
   {
     "Confirmed":"576",
@@ -97,7 +97,7 @@
     "Latitude":"30.0572",
     "Longitude":"107.874",
     "Recovered":"566",
-    "\u00ef\u00bb\u00bfProvince/State":"Chongqing"
+    "Province/State":"Chongqing"
   },
   {
     "Confirmed":"539",
@@ -107,7 +107,7 @@
     "Latitude":"30.6171",
     "Longitude":"102.7103",
     "Recovered":"503",
-    "\u00ef\u00bb\u00bfProvince/State":"Sichuan"
+    "Province/State":"Sichuan"
   },
   {
     "Confirmed":"482",
@@ -117,7 +117,7 @@
     "Latitude":"47.862",
     "Longitude":"127.7615",
     "Recovered":"446",
-    "\u00ef\u00bb\u00bfProvince/State":"Heilongjiang"
+    "Province/State":"Heilongjiang"
   },
   {
     "Confirmed":"436",
@@ -127,7 +127,7 @@
     "Latitude":"40.1824",
     "Longitude":"116.4142",
     "Recovered":"342",
-    "\u00ef\u00bb\u00bfProvince/State":"Beijing"
+    "Province/State":"Beijing"
   },
   {
     "Confirmed":"346",
@@ -137,7 +137,7 @@
     "Latitude":"31.202",
     "Longitude":"121.4491",
     "Recovered":"324",
-    "\u00ef\u00bb\u00bfProvince/State":"Shanghai"
+    "Province/State":"Shanghai"
   },
   {
     "Confirmed":"318",
@@ -147,7 +147,7 @@
     "Latitude":"38.0428",
     "Longitude":"114.5149",
     "Recovered":"310",
-    "\u00ef\u00bb\u00bfProvince/State":"Hebei"
+    "Province/State":"Hebei"
   },
   {
     "Confirmed":"296",
@@ -157,7 +157,7 @@
     "Latitude":"26.0789",
     "Longitude":"117.9874",
     "Recovered":"295",
-    "\u00ef\u00bb\u00bfProvince/State":"Fujian"
+    "Province/State":"Fujian"
   },
   {
     "Confirmed":"252",
@@ -167,7 +167,7 @@
     "Latitude":"23.8298",
     "Longitude":"108.7881",
     "Recovered":"243",
-    "\u00ef\u00bb\u00bfProvince/State":"Guangxi"
+    "Province/State":"Guangxi"
   },
   {
     "Confirmed":"245",
@@ -177,7 +177,7 @@
     "Latitude":"35.1917",
     "Longitude":"108.8701",
     "Recovered":"232",
-    "\u00ef\u00bb\u00bfProvince/State":"Shaanxi"
+    "Province/State":"Shaanxi"
   },
   {
     "Confirmed":"174",
@@ -187,7 +187,7 @@
     "Latitude":"24.974",
     "Longitude":"101.487",
     "Recovered":"170",
-    "\u00ef\u00bb\u00bfProvince/State":"Yunnan"
+    "Province/State":"Yunnan"
   },
   {
     "Confirmed":"168",
@@ -197,7 +197,7 @@
     "Latitude":"19.1959",
     "Longitude":"109.7453",
     "Recovered":"160",
-    "\u00ef\u00bb\u00bfProvince/State":"Hainan"
+    "Province/State":"Hainan"
   },
   {
     "Confirmed":"146",
@@ -207,7 +207,7 @@
     "Latitude":"26.8154",
     "Longitude":"106.8748",
     "Recovered":"140",
-    "\u00ef\u00bb\u00bfProvince/State":"Guizhou"
+    "Province/State":"Guizhou"
   },
   {
     "Confirmed":"136",
@@ -217,7 +217,7 @@
     "Latitude":"39.3054",
     "Longitude":"117.323",
     "Recovered":"132",
-    "\u00ef\u00bb\u00bfProvince/State":"Tianjin"
+    "Province/State":"Tianjin"
   },
   {
     "Confirmed":"134",
@@ -227,7 +227,7 @@
     "Latitude":"22.3",
     "Longitude":"114.2",
     "Recovered":"77",
-    "\u00ef\u00bb\u00bfProvince/State":"Hong Kong"
+    "Province/State":"Hong Kong"
   },
   {
     "Confirmed":"133",
@@ -237,7 +237,7 @@
     "Latitude":"37.5777",
     "Longitude":"112.2922",
     "Recovered":"133",
-    "\u00ef\u00bb\u00bfProvince/State":"Shanxi"
+    "Province/State":"Shanxi"
   },
   {
     "Confirmed":"127",
@@ -247,7 +247,7 @@
     "Latitude":"36.0611",
     "Longitude":"103.8343",
     "Recovered":"88",
-    "\u00ef\u00bb\u00bfProvince/State":"Gansu"
+    "Province/State":"Gansu"
   },
   {
     "Confirmed":"125",
@@ -257,7 +257,7 @@
     "Latitude":"41.2956",
     "Longitude":"122.6085",
     "Recovered":"112",
-    "\u00ef\u00bb\u00bfProvince/State":"Liaoning"
+    "Province/State":"Liaoning"
   },
   {
     "Confirmed":"76",
@@ -267,7 +267,7 @@
     "Latitude":"41.1129",
     "Longitude":"85.2401",
     "Recovered":"73",
-    "\u00ef\u00bb\u00bfProvince/State":"Xinjiang"
+    "Province/State":"Xinjiang"
   },
   {
     "Confirmed":"75",
@@ -277,7 +277,7 @@
     "Latitude":"44.0935",
     "Longitude":"113.9448",
     "Recovered":"71",
-    "\u00ef\u00bb\u00bfProvince/State":"Inner Mongolia"
+    "Province/State":"Inner Mongolia"
   },
   {
     "Confirmed":"75",
@@ -287,7 +287,7 @@
     "Latitude":"37.2692",
     "Longitude":"106.1655",
     "Recovered":"72",
-    "\u00ef\u00bb\u00bfProvince/State":"Ningxia"
+    "Province/State":"Ningxia"
   },
   {
     "Confirmed":"93",
@@ -297,7 +297,7 @@
     "Latitude":"43.6661",
     "Longitude":"126.1923",
     "Recovered":"91",
-    "\u00ef\u00bb\u00bfProvince/State":"Jilin"
+    "Province/State":"Jilin"
   },
   {
     "Confirmed":"18",
@@ -307,7 +307,7 @@
     "Latitude":"35.7452",
     "Longitude":"95.9956",
     "Recovered":"18",
-    "\u00ef\u00bb\u00bfProvince/State":"Qinghai"
+    "Province/State":"Qinghai"
   },
   {
     "Confirmed":"10",
@@ -317,7 +317,7 @@
     "Latitude":"22.1667",
     "Longitude":"113.55",
     "Recovered":"10",
-    "\u00ef\u00bb\u00bfProvince/State":"Macau"
+    "Province/State":"Macau"
   },
   {
     "Confirmed":"1",
@@ -327,7 +327,7 @@
     "Latitude":"31.6927",
     "Longitude":"88.0924",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":"Tibet"
+    "Province/State":"Tibet"
   },
   {
     "Confirmed":"27",
@@ -337,7 +337,7 @@
     "Latitude":"8.538",
     "Longitude":"-80.7821",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"5",
@@ -347,7 +347,7 @@
     "Latitude":"-41.4545",
     "Longitude":"145.9707",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Tasmania"
+    "Province/State":"Tasmania"
   },
   {
     "Confirmed":"32",
@@ -357,7 +357,7 @@
     "Latitude":"45.1",
     "Longitude":"15.2",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"2",
@@ -367,7 +367,7 @@
     "Latitude":"12.2383",
     "Longitude":"-1.5616",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"33",
@@ -377,7 +377,7 @@
     "Latitude":"41.1533",
     "Longitude":"20.1683",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"64",
@@ -387,7 +387,7 @@
     "Latitude":"53.7267",
     "Longitude":"-127.6476",
     "Recovered":"4",
-    "\u00ef\u00bb\u00bfProvince/State":"British Columbia"
+    "Province/State":"British Columbia"
   },
   {
     "Confirmed":"92",
@@ -397,7 +397,7 @@
     "Latitude":"-33.8688",
     "Longitude":"151.2093",
     "Recovered":"4",
-    "\u00ef\u00bb\u00bfProvince/State":"New South Wales"
+    "Province/State":"New South Wales"
   },
   {
     "Confirmed":"36",
@@ -407,7 +407,7 @@
     "Latitude":"-37.8136",
     "Longitude":"144.9631",
     "Recovered":"8",
-    "\u00ef\u00bb\u00bfProvince/State":"Victoria"
+    "Province/State":"Victoria"
   },
   {
     "Confirmed":"35",
@@ -417,7 +417,7 @@
     "Latitude":"-28.0167",
     "Longitude":"153.4",
     "Recovered":"8",
-    "\u00ef\u00bb\u00bfProvince/State":"Queensland"
+    "Province/State":"Queensland"
   },
   {
     "Confirmed":"16",
@@ -427,7 +427,7 @@
     "Latitude":"-34.9285",
     "Longitude":"138.6007",
     "Recovered":"3",
-    "\u00ef\u00bb\u00bfProvince/State":"South Australia"
+    "Province/State":"South Australia"
   },
   {
     "Confirmed":"2",
@@ -437,7 +437,7 @@
     "Latitude":"49.372284",
     "Longitude":"-2.364351",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Channel Islands"
+    "Province/State":"Channel Islands"
   },
   {
     "Confirmed":"64",
@@ -447,7 +447,7 @@
     "Latitude":"12.8797",
     "Longitude":"121.774",
     "Recovered":"2",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1",
@@ -457,7 +457,7 @@
     "Latitude":"28.3949",
     "Longitude":"84.124",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"6",
@@ -467,7 +467,7 @@
     "Latitude":"7.8731",
     "Longitude":"80.7718",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"85",
@@ -477,7 +477,7 @@
     "Latitude":"23.4241",
     "Longitude":"53.8478",
     "Recovered":"17",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"75",
@@ -487,7 +487,7 @@
     "Latitude":"15.87",
     "Longitude":"100.9925",
     "Recovered":"35",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"5",
@@ -497,7 +497,7 @@
     "Latitude":"12.5657",
     "Longitude":"104.991",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"80",
@@ -507,7 +507,7 @@
     "Latitude":"43.9424",
     "Longitude":"12.4578",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"74",
@@ -517,7 +517,7 @@
     "Latitude":"51.2538",
     "Longitude":"-85.3232",
     "Recovered":"4",
-    "\u00ef\u00bb\u00bfProvince/State":"Ontario"
+    "Province/State":"Ontario"
   },
   {
     "Confirmed":"1",
@@ -527,7 +527,7 @@
     "Latitude":"-35.4735",
     "Longitude":"149.0124",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Australian Capital Territory"
+    "Province/State":"Australian Capital Territory"
   },
   {
     "Confirmed":"3675",
@@ -537,7 +537,7 @@
     "Latitude":"51.1657",
     "Longitude":"10.4515",
     "Recovered":"46",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"2",
@@ -547,7 +547,7 @@
     "Latitude":"-4.0383",
     "Longitude":"21.7587",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"2",
@@ -557,7 +557,7 @@
     "Latitude":"15.2",
     "Longitude":"-86.2419",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"46",
@@ -567,7 +567,7 @@
     "Latitude":"35.4437",
     "Longitude":"139.638",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Diamond Princess"
+    "Province/State":"Diamond Princess"
   },
   {
     "Confirmed":"26",
@@ -577,7 +577,7 @@
     "Latitude":"28.0339",
     "Longitude":"1.6596",
     "Recovered":"8",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"5",
@@ -587,7 +587,7 @@
     "Latitude":"-21.1151",
     "Longitude":"55.5364",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"19",
@@ -597,7 +597,7 @@
     "Latitude":"21.4735",
     "Longitude":"55.9754",
     "Recovered":"9",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"696",
@@ -607,7 +607,7 @@
     "Latitude":"35.4498",
     "Longitude":"139.6649",
     "Recovered":"325",
-    "\u00ef\u00bb\u00bfProvince/State":"Diamond Princess"
+    "Province/State":"Diamond Princess"
   },
   {
     "Confirmed":"1",
@@ -617,7 +617,7 @@
     "Latitude":"46.5653",
     "Longitude":"-66.4619",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"New Brunswick"
+    "Province/State":"New Brunswick"
   },
   {
     "Confirmed":"17660",
@@ -627,7 +627,7 @@
     "Latitude":"41.8719",
     "Longitude":"12.5674",
     "Recovered":"1439",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"101",
@@ -637,7 +637,7 @@
     "Latitude":"33.2232",
     "Longitude":"43.6793",
     "Recovered":"24",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"77",
@@ -647,7 +647,7 @@
     "Latitude":"33.8547",
     "Longitude":"35.8623",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"0",
@@ -657,7 +657,7 @@
     "Latitude":"35.4437",
     "Longitude":"139.638",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"From Diamond Princess"
+    "Province/State":"From Diamond Princess"
   },
   {
     "Confirmed":"3",
@@ -667,7 +667,7 @@
     "Latitude":"48.3794",
     "Longitude":"31.1656",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"504",
@@ -677,7 +677,7 @@
     "Latitude":"47.5162",
     "Longitude":"14.5501",
     "Recovered":"6",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1139",
@@ -687,7 +687,7 @@
     "Latitude":"46.8182",
     "Longitude":"8.2275",
     "Recovered":"4",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"90",
@@ -697,7 +697,7 @@
     "Latitude":"53.1424",
     "Longitude":"-7.6921",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"25",
@@ -707,7 +707,7 @@
     "Latitude":"42.3154",
     "Longitude":"43.3569",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"3",
@@ -717,7 +717,7 @@
     "Latitude":"23.685",
     "Longitude":"90.3563",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"80",
@@ -727,7 +727,7 @@
     "Latitude":"29.3117",
     "Longitude":"47.4818",
     "Recovered":"5",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"14",
@@ -737,7 +737,7 @@
     "Latitude":"41.6086",
     "Longitude":"21.7453",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"151",
@@ -747,7 +747,7 @@
     "Latitude":"-14.235",
     "Longitude":"-51.9253",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"190",
@@ -757,7 +757,7 @@
     "Latitude":"39.0742",
     "Longitude":"21.8243",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"814",
@@ -767,7 +767,7 @@
     "Latitude":"60.1282",
     "Longitude":"18.6435",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"28",
@@ -777,7 +777,7 @@
     "Latitude":"30.3753",
     "Longitude":"69.3451",
     "Recovered":"2",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"996",
@@ -787,7 +787,7 @@
     "Latitude":"60.472",
     "Longitude":"8.4689",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"3661",
@@ -797,7 +797,7 @@
     "Latitude":"46.2276",
     "Longitude":"2.2137",
     "Recovered":"12",
-    "\u00ef\u00bb\u00bfProvince/State":"France"
+    "Province/State":"France"
   },
   {
     "Confirmed":"5",
@@ -807,7 +807,7 @@
     "Latitude":"38.9637",
     "Longitude":"35.2433",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"189",
@@ -817,7 +817,7 @@
     "Latitude":"26.0667",
     "Longitude":"50.5577",
     "Recovered":"44",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"134",
@@ -827,7 +827,7 @@
     "Latitude":"64.9631",
     "Longitude":"-19.0208",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"17",
@@ -837,7 +837,7 @@
     "Latitude":"-1.8312",
     "Longitude":"-78.1834",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"79",
@@ -847,7 +847,7 @@
     "Latitude":"58.5953",
     "Longitude":"25.0136",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"801",
@@ -857,7 +857,7 @@
     "Latitude":"56.2639",
     "Longitude":"9.5018",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":"Denmark"
+    "Province/State":"Denmark"
   },
   {
     "Confirmed":"798",
@@ -867,7 +867,7 @@
     "Latitude":"55.3781",
     "Longitude":"-3.436",
     "Recovered":"18",
-    "\u00ef\u00bb\u00bfProvince/State":"United Kingdom"
+    "Province/State":"United Kingdom"
   },
   {
     "Confirmed":"804",
@@ -877,7 +877,7 @@
     "Latitude":"52.1326",
     "Longitude":"5.2913",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"4",
@@ -887,7 +887,7 @@
     "Latitude":"21.5218",
     "Longitude":"-77.7812",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"17",
@@ -897,7 +897,7 @@
     "Latitude":"52.9399",
     "Longitude":"-73.5491",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Quebec"
+    "Province/State":"Quebec"
   },
   {
     "Confirmed":"2",
@@ -907,7 +907,7 @@
     "Latitude":"9.082",
     "Longitude":"8.6753",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"6",
@@ -917,7 +917,7 @@
     "Latitude":"55.1694",
     "Longitude":"23.8813",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"5",
@@ -927,7 +927,7 @@
     "Latitude":"-40.9006",
     "Longitude":"174.886",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"27",
@@ -937,7 +937,7 @@
     "Latitude":"53.7098",
     "Longitude":"27.9534",
     "Recovered":"3",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"15",
@@ -947,7 +947,7 @@
     "Latitude":"40.1431",
     "Longitude":"47.5769",
     "Recovered":"3",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"8",
@@ -957,7 +957,7 @@
     "Latitude":"40.0691",
     "Longitude":"45.0382",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"4",
@@ -967,7 +967,7 @@
     "Latitude":"48.0196",
     "Longitude":"66.9237",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"11364",
@@ -977,7 +977,7 @@
     "Latitude":"32.4279",
     "Longitude":"53.688",
     "Recovered":"2959",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"161",
@@ -987,7 +987,7 @@
     "Latitude":"31.0461",
     "Longitude":"34.8516",
     "Recovered":"4",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"3",
@@ -997,7 +997,7 @@
     "Latitude":"-17.6797",
     "Longitude":"149.4068",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"French Polynesia"
+    "Province/State":"French Polynesia"
   },
   {
     "Confirmed":"14",
@@ -1007,7 +1007,7 @@
     "Latitude":"-31.9505",
     "Longitude":"115.8605",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Western Australia"
+    "Province/State":"Western Australia"
   },
   {
     "Confirmed":"1",
@@ -1017,7 +1017,7 @@
     "Latitude":"19.3133",
     "Longitude":"-81.2546",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"701",
@@ -1027,7 +1027,7 @@
     "Latitude":"36.2048",
     "Longitude":"138.2529",
     "Recovered":"118",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"141",
@@ -1037,7 +1037,7 @@
     "Latitude":"49.8175",
     "Longitude":"15.473",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"320",
@@ -1047,7 +1047,7 @@
     "Latitude":"25.3548",
     "Longitude":"51.1839",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"200",
@@ -1057,7 +1057,7 @@
     "Latitude":"1.3521",
     "Longitude":"103.8198",
     "Recovered":"97",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1",
@@ -1067,7 +1067,7 @@
     "Latitude":"16.265",
     "Longitude":"-61.551",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"5",
@@ -1077,7 +1077,7 @@
     "Latitude":"18.7357",
     "Longitude":"-70.1627",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"80",
@@ -1087,7 +1087,7 @@
     "Latitude":"26.8206",
     "Longitude":"30.8025",
     "Recovered":"27",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"3",
@@ -1097,7 +1097,7 @@
     "Latitude":"-16.2902",
     "Longitude":"-63.5887",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"4",
@@ -1107,7 +1107,7 @@
     "Latitude":"53.7609",
     "Longitude":"-98.8139",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Manitoba"
+    "Province/State":"Manitoba"
   },
   {
     "Confirmed":"2",
@@ -1117,7 +1117,7 @@
     "Latitude":"52.9399",
     "Longitude":"-106.4509",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Saskatchewan"
+    "Province/State":"Saskatchewan"
   },
   {
     "Confirmed":"69",
@@ -1127,7 +1127,7 @@
     "Latitude":"-0.7893",
     "Longitude":"113.9213",
     "Recovered":"2",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"7979",
@@ -1137,7 +1137,7 @@
     "Latitude":"35.9078",
     "Longitude":"127.7669",
     "Recovered":"510",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"17",
@@ -1147,7 +1147,7 @@
     "Latitude":"56.8796",
     "Longitude":"24.6032",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"10",
@@ -1157,7 +1157,7 @@
     "Latitude":"14.4974",
     "Longitude":"-14.4524",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1",
@@ -1167,7 +1167,7 @@
     "Latitude":"9.145",
     "Longitude":"40.4897",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1",
@@ -1177,7 +1177,7 @@
     "Latitude":"12.8628",
     "Longitude":"30.2176",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"112",
@@ -1187,7 +1187,7 @@
     "Latitude":"39.3999",
     "Longitude":"-8.2245",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1",
@@ -1197,7 +1197,7 @@
     "Latitude":"42.5063",
     "Longitude":"1.5218",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1",
@@ -1207,7 +1207,7 @@
     "Latitude":"9.9456",
     "Longitude":"-9.6966",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1",
@@ -1217,7 +1217,7 @@
     "Latitude":"17.0608",
     "Longitude":"-61.7964",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"559",
@@ -1227,7 +1227,7 @@
     "Latitude":"50.5039",
     "Longitude":"4.4699",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"45",
@@ -1237,7 +1237,7 @@
     "Latitude":"61.524",
     "Longitude":"105.3188",
     "Recovered":"3",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"82",
@@ -1247,7 +1247,7 @@
     "Latitude":"20.5937",
     "Longitude":"78.9629",
     "Recovered":"4",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"7",
@@ -1257,7 +1257,7 @@
     "Latitude":"31.7917",
     "Longitude":"-7.0926",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"2",
@@ -1267,7 +1267,7 @@
     "Latitude":"12.5211",
     "Longitude":"-69.9683",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"2",
@@ -1277,7 +1277,7 @@
     "Latitude":"37.6489",
     "Longitude":"-122.6655",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Grand Princess"
+    "Province/State":"Grand Princess"
   },
   {
     "Confirmed":"31",
@@ -1287,7 +1287,7 @@
     "Latitude":"-38.4161",
     "Longitude":"-63.6167",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"43",
@@ -1297,7 +1297,7 @@
     "Latitude":"-35.6751",
     "Longitude":"-71.543",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1",
@@ -1307,7 +1307,7 @@
     "Latitude":"31.24",
     "Longitude":"36.51",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1",
@@ -1317,7 +1317,7 @@
     "Latitude":"-0.0236",
     "Longitude":"37.9062",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1",
@@ -1327,7 +1327,7 @@
     "Latitude":"17.9",
     "Longitude":"-62.8333",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Saint Barthelemy"
+    "Province/State":"Saint Barthelemy"
   },
   {
     "Confirmed":"2",
@@ -1337,7 +1337,7 @@
     "Latitude":"18.0708",
     "Longitude":"-63.0501",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"St Martin"
+    "Province/State":"St Martin"
   },
   {
     "Confirmed":"68",
@@ -1347,7 +1347,7 @@
     "Latitude":"51.9194",
     "Longitude":"19.1451",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"3",
@@ -1357,7 +1357,7 @@
     "Latitude":"61.8926",
     "Longitude":"-6.9118",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Faroe Islands"
+    "Province/State":"Faroe Islands"
   },
   {
     "Confirmed":"1",
@@ -1367,7 +1367,7 @@
     "Latitude":"36.1408",
     "Longitude":"-5.3536",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":"Gibraltar"
+    "Province/State":"Gibraltar"
   },
   {
     "Confirmed":"19",
@@ -1377,7 +1377,7 @@
     "Latitude":"47.1625",
     "Longitude":"19.5033",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1",
@@ -1387,7 +1387,7 @@
     "Latitude":"-12.4634",
     "Longitude":"130.8456",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Northern Territory"
+    "Province/State":"Northern Territory"
   },
   {
     "Confirmed":"5",
@@ -1397,7 +1397,7 @@
     "Latitude":"32.3182",
     "Longitude":"-86.9023",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Alabama"
+    "Province/State":"Alabama"
   },
   {
     "Confirmed":"141",
@@ -1407,7 +1407,7 @@
     "Latitude":"46.1512",
     "Longitude":"14.9955",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"155",
@@ -1417,7 +1417,7 @@
     "Latitude":"61.9241",
     "Longitude":"25.7482",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"24",
@@ -1427,7 +1427,7 @@
     "Latitude":"-30.5595",
     "Longitude":"22.9375",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"13",
@@ -1437,7 +1437,7 @@
     "Latitude":"43.9159",
     "Longitude":"17.6791",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"86",
@@ -1447,7 +1447,7 @@
     "Latitude":"23.8859",
     "Longitude":"45.0792",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1",
@@ -1457,7 +1457,7 @@
     "Latitude":"7.54",
     "Longitude":"-5.5471",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"34",
@@ -1467,7 +1467,7 @@
     "Latitude":"49.8153",
     "Longitude":"6.1296",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"23",
@@ -1477,7 +1477,7 @@
     "Latitude":"9.7489",
     "Longitude":"-83.7534",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"29",
@@ -1487,7 +1487,7 @@
     "Latitude":"53.9333",
     "Longitude":"-116.5765",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Alberta"
+    "Province/State":"Alberta"
   },
   {
     "Confirmed":"1",
@@ -1497,7 +1497,7 @@
     "Latitude":"27.5142",
     "Longitude":"90.4336",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"5232",
@@ -1507,7 +1507,7 @@
     "Latitude":"40.4637",
     "Longitude":"-3.7492",
     "Recovered":"193",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"197",
@@ -1517,7 +1517,7 @@
     "Latitude":"4.2105",
     "Longitude":"101.9758",
     "Recovered":"26",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1",
@@ -1527,7 +1527,7 @@
     "Latitude":"41.9029",
     "Longitude":"12.4534",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"35",
@@ -1537,7 +1537,7 @@
     "Latitude":"44.0165",
     "Longitude":"21.0059",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"2",
@@ -1547,7 +1547,7 @@
     "Latitude":"3.848",
     "Longitude":"11.5021",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"32",
@@ -1557,7 +1557,7 @@
     "Latitude":"48.669",
     "Longitude":"19.699",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1",
@@ -1567,7 +1567,7 @@
     "Latitude":"8.6195",
     "Longitude":"0.8248",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"28",
@@ -1577,7 +1577,7 @@
     "Latitude":"-9.19",
     "Longitude":"-75.0152",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"89",
@@ -1587,7 +1587,7 @@
     "Latitude":"45.9432",
     "Longitude":"24.9668",
     "Recovered":"7",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"12",
@@ -1597,7 +1597,7 @@
     "Latitude":"23.6345",
     "Longitude":"-102.5528",
     "Recovered":"4",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"13",
@@ -1607,7 +1607,7 @@
     "Latitude":"4.5709",
     "Longitude":"-74.2973",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"21",
@@ -1617,7 +1617,7 @@
     "Latitude":"37.64894",
     "Longitude":"-122.665479",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Grand Princess"
+    "Province/State":"Grand Princess"
   },
   {
     "Confirmed":"37",
@@ -1627,7 +1627,7 @@
     "Latitude":"4.5353",
     "Longitude":"114.7277",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"3",
@@ -1637,7 +1637,7 @@
     "Latitude":"14.6415",
     "Longitude":"-61.0242",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"5",
@@ -1647,7 +1647,7 @@
     "Latitude":"3.9339",
     "Longitude":"-53.1258",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"12",
@@ -1657,7 +1657,7 @@
     "Latitude":"35.9375",
     "Longitude":"14.3754",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"6",
@@ -1667,7 +1667,7 @@
     "Latitude":"-23.4425",
     "Longitude":"-58.4438",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"6",
@@ -1677,7 +1677,7 @@
     "Latitude":"47.4116",
     "Longitude":"28.3699",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"9",
@@ -1687,7 +1687,7 @@
     "Latitude":"3.2028",
     "Longitude":"73.2207",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"23",
@@ -1697,7 +1697,7 @@
     "Latitude":"42.7339",
     "Longitude":"25.4858",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"16",
@@ -1707,7 +1707,7 @@
     "Latitude":"33.8869",
     "Longitude":"9.5375",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"14",
@@ -1717,7 +1717,7 @@
     "Latitude":"35.1264",
     "Longitude":"33.4299",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1",
@@ -1727,7 +1727,7 @@
     "Latitude":"61.370716",
     "Longitude":"-152.404419",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Alaska"
+    "Province/State":"Alaska"
   },
   {
     "Confirmed":"9",
@@ -1737,7 +1737,7 @@
     "Latitude":"33.729759",
     "Longitude":"-111.431221",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":"Arizona"
+    "Province/State":"Arizona"
   },
   {
     "Confirmed":"6",
@@ -1747,7 +1747,7 @@
     "Latitude":"34.969704",
     "Longitude":"-92.373123",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Arkansas"
+    "Province/State":"Arkansas"
   },
   {
     "Confirmed":"282",
@@ -1757,7 +1757,7 @@
     "Latitude":"36.116203",
     "Longitude":"-119.681564",
     "Recovered":"6",
-    "\u00ef\u00bb\u00bfProvince/State":"California"
+    "Province/State":"California"
   },
   {
     "Confirmed":"49",
@@ -1767,7 +1767,7 @@
     "Latitude":"39.059811",
     "Longitude":"-105.311104",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Colorado"
+    "Province/State":"Colorado"
   },
   {
     "Confirmed":"11",
@@ -1777,7 +1777,7 @@
     "Latitude":"41.597782",
     "Longitude":"-72.755371",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Connecticut"
+    "Province/State":"Connecticut"
   },
   {
     "Confirmed":"4",
@@ -1787,7 +1787,7 @@
     "Latitude":"39.318523",
     "Longitude":"-75.507141",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Delaware"
+    "Province/State":"Delaware"
   },
   {
     "Confirmed":"10",
@@ -1797,7 +1797,7 @@
     "Latitude":"38.897438",
     "Longitude":"-77.026817",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"District of Columbia"
+    "Province/State":"District of Columbia"
   },
   {
     "Confirmed":"50",
@@ -1807,7 +1807,7 @@
     "Latitude":"27.766279",
     "Longitude":"-81.686783",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Florida"
+    "Province/State":"Florida"
   },
   {
     "Confirmed":"42",
@@ -1817,7 +1817,7 @@
     "Latitude":"33.040619",
     "Longitude":"-83.643074",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Georgia"
+    "Province/State":"Georgia"
   },
   {
     "Confirmed":"2",
@@ -1827,7 +1827,7 @@
     "Latitude":"21.094318",
     "Longitude":"-157.498337",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Hawaii"
+    "Province/State":"Hawaii"
   },
   {
     "Confirmed":"1",
@@ -1837,7 +1837,7 @@
     "Latitude":"44.240459",
     "Longitude":"-114.478828",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Idaho"
+    "Province/State":"Idaho"
   },
   {
     "Confirmed":"46",
@@ -1847,7 +1847,7 @@
     "Latitude":"40.349457",
     "Longitude":"-88.986137",
     "Recovered":"2",
-    "\u00ef\u00bb\u00bfProvince/State":"Illinois"
+    "Province/State":"Illinois"
   },
   {
     "Confirmed":"13",
@@ -1857,7 +1857,7 @@
     "Latitude":"39.849426",
     "Longitude":"-86.258278",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Indiana"
+    "Province/State":"Indiana"
   },
   {
     "Confirmed":"17",
@@ -1867,7 +1867,7 @@
     "Latitude":"42.011539",
     "Longitude":"-93.210526",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Iowa"
+    "Province/State":"Iowa"
   },
   {
     "Confirmed":"5",
@@ -1877,7 +1877,7 @@
     "Latitude":"38.5266",
     "Longitude":"-96.726486",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Kansas"
+    "Province/State":"Kansas"
   },
   {
     "Confirmed":"14",
@@ -1887,7 +1887,7 @@
     "Latitude":"37.66814",
     "Longitude":"-84.670067",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Kentucky"
+    "Province/State":"Kentucky"
   },
   {
     "Confirmed":"36",
@@ -1897,7 +1897,7 @@
     "Latitude":"31.169546",
     "Longitude":"-91.867805",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Louisiana"
+    "Province/State":"Louisiana"
   },
   {
     "Confirmed":"1",
@@ -1907,7 +1907,7 @@
     "Latitude":"44.693947",
     "Longitude":"-69.381927",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Maine"
+    "Province/State":"Maine"
   },
   {
     "Confirmed":"18",
@@ -1917,7 +1917,7 @@
     "Latitude":"39.063946",
     "Longitude":"-76.802101",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Maryland"
+    "Province/State":"Maryland"
   },
   {
     "Confirmed":"123",
@@ -1927,7 +1927,7 @@
     "Latitude":"42.230171",
     "Longitude":"-71.530106",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":"Massachusetts"
+    "Province/State":"Massachusetts"
   },
   {
     "Confirmed":"16",
@@ -1937,7 +1937,7 @@
     "Latitude":"43.326618",
     "Longitude":"-84.536095",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Michigan"
+    "Province/State":"Michigan"
   },
   {
     "Confirmed":"14",
@@ -1947,7 +1947,7 @@
     "Latitude":"45.694454",
     "Longitude":"-93.900192",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Minnesota"
+    "Province/State":"Minnesota"
   },
   {
     "Confirmed":"1",
@@ -1957,7 +1957,7 @@
     "Latitude":"32.741646",
     "Longitude":"-89.678696",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Mississippi"
+    "Province/State":"Mississippi"
   },
   {
     "Confirmed":"2",
@@ -1967,7 +1967,7 @@
     "Latitude":"38.456085",
     "Longitude":"-92.288368",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Missouri"
+    "Province/State":"Missouri"
   },
   {
     "Confirmed":"1",
@@ -1977,7 +1977,7 @@
     "Latitude":"46.921925",
     "Longitude":"-110.454353",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Montana"
+    "Province/State":"Montana"
   },
   {
     "Confirmed":"13",
@@ -1987,7 +1987,7 @@
     "Latitude":"41.12537",
     "Longitude":"-98.268082",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Nebraska"
+    "Province/State":"Nebraska"
   },
   {
     "Confirmed":"17",
@@ -1997,7 +1997,7 @@
     "Latitude":"38.313515",
     "Longitude":"-117.055374",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Nevada"
+    "Province/State":"Nevada"
   },
   {
     "Confirmed":"6",
@@ -2007,7 +2007,7 @@
     "Latitude":"43.452492",
     "Longitude":"-71.563896",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"New Hampshire"
+    "Province/State":"New Hampshire"
   },
   {
     "Confirmed":"29",
@@ -2017,7 +2017,7 @@
     "Latitude":"40.298904",
     "Longitude":"-74.521011",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"New Jersey"
+    "Province/State":"New Jersey"
   },
   {
     "Confirmed":"10",
@@ -2027,7 +2027,7 @@
     "Latitude":"34.840515",
     "Longitude":"-106.248482",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"New Mexico"
+    "Province/State":"New Mexico"
   },
   {
     "Confirmed":"421",
@@ -2037,7 +2037,7 @@
     "Latitude":"42.165726",
     "Longitude":"-74.948051",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"New York"
+    "Province/State":"New York"
   },
   {
     "Confirmed":"17",
@@ -2047,7 +2047,7 @@
     "Latitude":"35.630066",
     "Longitude":"-79.806419",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"North Carolina"
+    "Province/State":"North Carolina"
   },
   {
     "Confirmed":"1",
@@ -2057,7 +2057,7 @@
     "Latitude":"47.528912",
     "Longitude":"-99.784012",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"North Dakota"
+    "Province/State":"North Dakota"
   },
   {
     "Confirmed":"13",
@@ -2067,7 +2067,7 @@
     "Latitude":"40.388783",
     "Longitude":"-82.764915",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Ohio"
+    "Province/State":"Ohio"
   },
   {
     "Confirmed":"2",
@@ -2077,7 +2077,7 @@
     "Latitude":"35.565342",
     "Longitude":"-96.928917",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Oklahoma"
+    "Province/State":"Oklahoma"
   },
   {
     "Confirmed":"30",
@@ -2087,7 +2087,7 @@
     "Latitude":"44.572021",
     "Longitude":"-122.070938",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Oregon"
+    "Province/State":"Oregon"
   },
   {
     "Confirmed":"41",
@@ -2097,7 +2097,7 @@
     "Latitude":"40.590752",
     "Longitude":"-77.209755",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Pennsylvania"
+    "Province/State":"Pennsylvania"
   },
   {
     "Confirmed":"14",
@@ -2107,7 +2107,7 @@
     "Latitude":"41.680893",
     "Longitude":"-71.51178",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Rhode Island"
+    "Province/State":"Rhode Island"
   },
   {
     "Confirmed":"13",
@@ -2117,7 +2117,7 @@
     "Latitude":"33.856892",
     "Longitude":"-80.945007",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"South Carolina"
+    "Province/State":"South Carolina"
   },
   {
     "Confirmed":"8",
@@ -2127,7 +2127,7 @@
     "Latitude":"44.299782",
     "Longitude":"-99.438828",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"South Dakota"
+    "Province/State":"South Dakota"
   },
   {
     "Confirmed":"26",
@@ -2137,7 +2137,7 @@
     "Latitude":"35.747845",
     "Longitude":"-86.692345",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Tennessee"
+    "Province/State":"Tennessee"
   },
   {
     "Confirmed":"43",
@@ -2147,7 +2147,7 @@
     "Latitude":"31.054487",
     "Longitude":"-97.563461",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Texas"
+    "Province/State":"Texas"
   },
   {
     "Confirmed":"9",
@@ -2157,7 +2157,7 @@
     "Latitude":"40.150032",
     "Longitude":"-111.862434",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Utah"
+    "Province/State":"Utah"
   },
   {
     "Confirmed":"2",
@@ -2167,7 +2167,7 @@
     "Latitude":"44.045876",
     "Longitude":"-72.710686",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Vermont"
+    "Province/State":"Vermont"
   },
   {
     "Confirmed":"30",
@@ -2177,7 +2177,7 @@
     "Latitude":"37.769337",
     "Longitude":"-78.169968",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Virginia"
+    "Province/State":"Virginia"
   },
   {
     "Confirmed":"568",
@@ -2187,7 +2187,7 @@
     "Latitude":"47.400902",
     "Longitude":"-121.490494",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":"Washington"
+    "Province/State":"Washington"
   },
   {
     "Confirmed":"0",
@@ -2197,7 +2197,7 @@
     "Latitude":"38.491226",
     "Longitude":"-80.954453",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"West Virginia"
+    "Province/State":"West Virginia"
   },
   {
     "Confirmed":"19",
@@ -2207,7 +2207,7 @@
     "Latitude":"44.268543",
     "Longitude":"-89.616508",
     "Recovered":"1",
-    "\u00ef\u00bb\u00bfProvince/State":"Wisconsin"
+    "Province/State":"Wisconsin"
   },
   {
     "Confirmed":"1",
@@ -2217,7 +2217,7 @@
     "Latitude":"42.755966",
     "Longitude":"-107.30249",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":"Wyoming"
+    "Province/State":"Wyoming"
   },
   {
     "Confirmed":"47",
@@ -2227,7 +2227,7 @@
     "Latitude":"14.0583",
     "Longitude":"108.2772",
     "Recovered":"16",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1",
@@ -2237,7 +2237,7 @@
     "Latitude":"46.8625",
     "Longitude":"103.8467",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"8",
@@ -2247,7 +2247,7 @@
     "Latitude":"18.1096",
     "Longitude":"-77.2975",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"7",
@@ -2257,7 +2257,7 @@
     "Latitude":"33",
     "Longitude":"65",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"2",
@@ -2267,7 +2267,7 @@
     "Latitude":"43.7333",
     "Longitude":"7.4167",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1",
@@ -2277,7 +2277,7 @@
     "Latitude":"47.14",
     "Longitude":"9.55",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"1",
@@ -2287,7 +2287,7 @@
     "Latitude":"5",
     "Longitude":"-58.75",
     "Recovered":"0",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   },
   {
     "Confirmed":"50",
@@ -2297,6 +2297,6 @@
     "Latitude":"23.7",
     "Longitude":"121",
     "Recovered":"20",
-    "\u00ef\u00bb\u00bfProvince/State":""
+    "Province/State":""
   }
 ]
