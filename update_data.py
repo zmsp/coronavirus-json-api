@@ -73,14 +73,15 @@ def dumpMetaData(CSV_FILE):
 
     country_meta = {
     }
+    correction = {"Mainland China": "China", "Korea, South": "Korea, Republic of", "Macao": "Macau",
+                          "UK": "United Kingdom", "Republic of Ireland": "Ireland", "Taiwan*":"Taiwan", "Congo (Kinshasa)": "Congo", "occupied Palestinian territory" :"Palestine"}
+
 
     for name in f["Country/Region"].unique():
         try:
             i = name
             tmp = name
 
-            correction = {"Mainland China": "China", "Korea, South": "Korea", "Macao": "Macau",
-                          "UK": "United Kingdom", "Republic of Ireland": "Ireland", "Taiwan*":"Taiwan", "Congo (Kinshasa)": "Congo", "occupied Palestinian territory" :"Palestine"}
 
             if correction.__contains__(name):
                 country = pycountry.countries.search_fuzzy(correction[i])[0]
