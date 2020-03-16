@@ -1,13 +1,13 @@
 [
   {
-    "Confirmed":"67790",
+    "Confirmed":"67794",
     "Country/Region":"China",
-    "Deaths":"3075",
-    "Last Update":"2020-03-14T10:13:09",
+    "Deaths":"3085",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"30.9756",
     "Longitude":"112.2707",
     "Province/State":"Hubei",
-    "Recovered":"52960"
+    "Recovered":"54288"
   },
   {
     "Confirmed":"21157",
@@ -20,74 +20,74 @@
     "Recovered":"1966"
   },
   {
-    "Confirmed":"12729",
+    "Confirmed":"13938",
     "Country/Region":"Iran",
-    "Deaths":"611",
-    "Last Update":"2020-03-14T11:33:06",
+    "Deaths":"724",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"32.4279",
     "Longitude":"53.6880",
     "Province/State":"",
-    "Recovered":"2959"
+    "Recovered":"4590"
   },
   {
-    "Confirmed":"8086",
+    "Confirmed":"8162",
     "Country/Region":"Korea, South",
-    "Deaths":"72",
-    "Last Update":"2020-03-14T01:33:02",
+    "Deaths":"75",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"35.9078",
     "Longitude":"127.7669",
     "Province/State":"",
     "Recovered":"510"
   },
   {
-    "Confirmed":"6391",
+    "Confirmed":"7798",
     "Country/Region":"Spain",
-    "Deaths":"195",
-    "Last Update":"2020-03-14T22:13:11",
+    "Deaths":"289",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"40.4637",
     "Longitude":"-3.7492",
     "Province/State":"",
     "Recovered":"517"
   },
   {
-    "Confirmed":"4585",
+    "Confirmed":"5426",
     "Country/Region":"Germany",
-    "Deaths":"9",
-    "Last Update":"2020-03-14T22:13:11",
+    "Deaths":"11",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"51.1657",
     "Longitude":"10.4515",
     "Province/State":"",
     "Recovered":"46"
   },
   {
-    "Confirmed":"4469",
+    "Confirmed":"4499",
     "Country/Region":"France",
     "Deaths":"91",
-    "Last Update":"2020-03-14T20:13:16",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"46.2276",
     "Longitude":"2.2137",
     "Province/State":"France",
     "Recovered":"12"
   },
   {
-    "Confirmed":"1359",
+    "Confirmed":"2200",
     "Country/Region":"Switzerland",
-    "Deaths":"13",
-    "Last Update":"2020-03-14T11:53:29",
+    "Deaths":"14",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"46.8182",
     "Longitude":"8.2275",
     "Province/State":"",
     "Recovered":"4"
   },
   {
-    "Confirmed":"1356",
+    "Confirmed":"1360",
     "Country/Region":"China",
     "Deaths":"8",
-    "Last Update":"2020-03-14T01:13:11",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"23.3417",
     "Longitude":"113.4244",
     "Province/State":"Guangdong",
-    "Recovered":"1299"
+    "Recovered":"1304"
   },
   {
     "Confirmed":"1273",
@@ -100,14 +100,24 @@
     "Recovered":"1250"
   },
   {
-    "Confirmed":"1227",
+    "Confirmed":"1231",
     "Country/Region":"China",
     "Deaths":"1",
-    "Last Update":"2020-03-14T02:14:15",
+    "Last Update":"2020-03-15T01:33:02",
     "Latitude":"29.1832",
     "Longitude":"120.0934",
     "Province/State":"Zhejiang",
     "Recovered":"1211"
+  },
+  {
+    "Confirmed":"1207",
+    "Country/Region":"Norway",
+    "Deaths":"3",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"60.4720",
+    "Longitude":"8.4689",
+    "Province/State":"",
+    "Recovered":"1"
   },
   {
     "Confirmed":"1140",
@@ -120,12 +130,22 @@
     "Recovered":"18"
   },
   {
-    "Confirmed":"1090",
-    "Country/Region":"Norway",
+    "Confirmed":"1135",
+    "Country/Region":"Netherlands",
+    "Deaths":"20",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"52.1326",
+    "Longitude":"5.2913",
+    "Province/State":"",
+    "Recovered":"2"
+  },
+  {
+    "Confirmed":"1022",
+    "Country/Region":"Sweden",
     "Deaths":"3",
-    "Last Update":"2020-03-14T22:13:11",
-    "Latitude":"60.4720",
-    "Longitude":"8.4689",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"60.1282",
+    "Longitude":"18.6435",
     "Province/State":"",
     "Recovered":"1"
   },
@@ -150,26 +170,6 @@
     "Recovered":"984"
   },
   {
-    "Confirmed":"961",
-    "Country/Region":"Sweden",
-    "Deaths":"2",
-    "Last Update":"2020-03-14T22:13:11",
-    "Latitude":"60.1282",
-    "Longitude":"18.6435",
-    "Province/State":"",
-    "Recovered":"1"
-  },
-  {
-    "Confirmed":"959",
-    "Country/Region":"Netherlands",
-    "Deaths":"12",
-    "Last Update":"2020-03-14T22:13:11",
-    "Latitude":"52.1326",
-    "Longitude":"5.2913",
-    "Province/State":"",
-    "Recovered":"2"
-  },
-  {
     "Confirmed":"935",
     "Country/Region":"China",
     "Deaths":"1",
@@ -180,14 +180,34 @@
     "Recovered":"934"
   },
   {
-    "Confirmed":"827",
+    "Confirmed":"886",
+    "Country/Region":"Belgium",
+    "Deaths":"4",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"50.5039",
+    "Longitude":"4.4699",
+    "Province/State":"",
+    "Recovered":"1"
+  },
+  {
+    "Confirmed":"864",
     "Country/Region":"Denmark",
     "Deaths":"1",
-    "Last Update":"2020-03-14T22:13:32",
+    "Last Update":"2020-03-15T18:20:19",
     "Latitude":"56.2639",
     "Longitude":"9.5018",
     "Province/State":"Denmark",
     "Recovered":"1"
+  },
+  {
+    "Confirmed":"800",
+    "Country/Region":"Austria",
+    "Deaths":"1",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"47.5162",
+    "Longitude":"14.5501",
+    "Province/State":"",
+    "Recovered":"6"
   },
   {
     "Confirmed":"773",
@@ -210,6 +230,16 @@
     "Recovered":"741"
   },
   {
+    "Confirmed":"729",
+    "Country/Region":"US",
+    "Deaths":"3",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"42.1657",
+    "Longitude":"-74.9481",
+    "Province/State":"New York",
+    "Recovered":"0"
+  },
+  {
     "Confirmed":"696",
     "Country/Region":"Cruise Ship",
     "Deaths":"7",
@@ -220,94 +250,84 @@
     "Recovered":"325"
   },
   {
-    "Confirmed":"689",
-    "Country/Region":"Belgium",
-    "Deaths":"4",
-    "Last Update":"2020-03-14T11:53:29",
-    "Latitude":"50.5039",
-    "Longitude":"4.4699",
-    "Province/State":"",
-    "Recovered":"1"
-  },
-  {
-    "Confirmed":"655",
-    "Country/Region":"Austria",
-    "Deaths":"1",
-    "Last Update":"2020-03-14T16:13:55",
-    "Latitude":"47.5162",
-    "Longitude":"14.5501",
-    "Province/State":"",
-    "Recovered":"6"
-  },
-  {
-    "Confirmed":"631",
-    "Country/Region":"China",
-    "Deaths":"0",
-    "Last Update":"2020-03-13T11:09:03",
-    "Latitude":"32.9711",
-    "Longitude":"119.4550",
-    "Province/State":"Jiangsu",
-    "Recovered":"630"
-  },
-  {
-    "Confirmed":"576",
-    "Country/Region":"China",
-    "Deaths":"6",
-    "Last Update":"2020-03-14T23:53:02",
-    "Latitude":"30.0572",
-    "Longitude":"107.8740",
-    "Province/State":"Chongqing",
-    "Recovered":"569"
-  },
-  {
-    "Confirmed":"572",
+    "Confirmed":"642",
     "Country/Region":"US",
-    "Deaths":"37",
-    "Last Update":"2020-03-14T22:13:19",
+    "Deaths":"40",
+    "Last Update":"2020-03-15T02:13:21",
     "Latitude":"47.4009",
     "Longitude":"-121.4905",
     "Province/State":"Washington",
     "Recovered":"1"
   },
   {
+    "Confirmed":"631",
+    "Country/Region":"China",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T01:53:02",
+    "Latitude":"32.9711",
+    "Longitude":"119.4550",
+    "Province/State":"Jiangsu",
+    "Recovered":"631"
+  },
+  {
+    "Confirmed":"576",
+    "Country/Region":"China",
+    "Deaths":"6",
+    "Last Update":"2020-03-15T03:53:04",
+    "Latitude":"30.0572",
+    "Longitude":"107.8740",
+    "Province/State":"Chongqing",
+    "Recovered":"570"
+  },
+  {
     "Confirmed":"539",
     "Country/Region":"China",
     "Deaths":"3",
-    "Last Update":"2020-03-14T04:33:02",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"30.6171",
     "Longitude":"102.7103",
     "Province/State":"Sichuan",
-    "Recovered":"511"
-  },
-  {
-    "Confirmed":"525",
-    "Country/Region":"US",
-    "Deaths":"2",
-    "Last Update":"2020-03-14T22:13:32",
-    "Latitude":"42.1657",
-    "Longitude":"-74.9481",
-    "Province/State":"New York",
-    "Recovered":"0"
+    "Recovered":"516"
   },
   {
     "Confirmed":"482",
     "Country/Region":"China",
     "Deaths":"13",
-    "Last Update":"2020-03-14T00:13:05",
+    "Last Update":"2020-03-15T00:33:02",
     "Latitude":"47.8620",
     "Longitude":"127.7615",
     "Province/State":"Heilongjiang",
-    "Recovered":"447"
+    "Recovered":"453"
   },
   {
-    "Confirmed":"437",
+    "Confirmed":"442",
     "Country/Region":"China",
     "Deaths":"8",
-    "Last Update":"2020-03-14T02:13:47",
+    "Last Update":"2020-03-15T01:13:10",
     "Latitude":"40.1824",
     "Longitude":"116.4142",
     "Province/State":"Beijing",
-    "Recovered":"349"
+    "Recovered":"353"
+  },
+  {
+    "Confirmed":"428",
+    "Country/Region":"Malaysia",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"4.2105",
+    "Longitude":"101.9758",
+    "Province/State":"",
+    "Recovered":"42"
+  },
+  {
+    "Confirmed":"406",
+    "Country/Region":"US",
+    "Deaths":"6",
+    "Last Update":"2020-03-15T18:33:03",
+    "Latitude":"36.1162",
+    "Longitude":"-119.6816",
+    "Province/State":"California",
+    "Recovered":"6"
   },
   {
     "Confirmed":"353",
@@ -318,16 +338,6 @@
     "Longitude":"121.4491",
     "Province/State":"Shanghai",
     "Recovered":"324"
-  },
-  {
-    "Confirmed":"340",
-    "Country/Region":"US",
-    "Deaths":"5",
-    "Last Update":"2020-03-14T22:13:32",
-    "Latitude":"36.1162",
-    "Longitude":"-119.6816",
-    "Province/State":"California",
-    "Recovered":"6"
   },
   {
     "Confirmed":"337",
@@ -380,44 +390,64 @@
     "Recovered":"232"
   },
   {
-    "Confirmed":"238",
-    "Country/Region":"Malaysia",
+    "Confirmed":"245",
+    "Country/Region":"Portugal",
     "Deaths":"0",
-    "Last Update":"2020-03-14T16:13:55",
-    "Latitude":"4.2105",
-    "Longitude":"101.9758",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"39.3999",
+    "Longitude":"-8.2245",
     "Province/State":"",
-    "Recovered":"35"
+    "Recovered":"2"
   },
   {
-    "Confirmed":"228",
-    "Country/Region":"Greece",
-    "Deaths":"3",
-    "Last Update":"2020-03-14T22:33:03",
-    "Latitude":"39.0742",
-    "Longitude":"21.8243",
-    "Province/State":"",
-    "Recovered":"8"
-  },
-  {
-    "Confirmed":"225",
+    "Confirmed":"243",
     "Country/Region":"Finland",
     "Deaths":"0",
-    "Last Update":"2020-03-14T22:33:03",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"61.9241",
     "Longitude":"25.7482",
     "Province/State":"",
     "Recovered":"1"
   },
   {
-    "Confirmed":"212",
+    "Confirmed":"231",
+    "Country/Region":"Czechia",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"49.8175",
+    "Longitude":"15.4730",
+    "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"228",
+    "Country/Region":"Greece",
+    "Deaths":"4",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"39.0742",
+    "Longitude":"21.8243",
+    "Province/State":"",
+    "Recovered":"8"
+  },
+  {
+    "Confirmed":"226",
     "Country/Region":"Singapore",
     "Deaths":"0",
-    "Last Update":"2020-03-14T16:14:30",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"1.3521",
     "Longitude":"103.8198",
     "Province/State":"",
     "Recovered":"105"
+  },
+  {
+    "Confirmed":"219",
+    "Country/Region":"Slovenia",
+    "Deaths":"1",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"46.1512",
+    "Longitude":"14.9955",
+    "Province/State":"",
+    "Recovered":"0"
   },
   {
     "Confirmed":"210",
@@ -430,34 +460,14 @@
     "Recovered":"44"
   },
   {
-    "Confirmed":"193",
+    "Confirmed":"200",
     "Country/Region":"Israel",
     "Deaths":"0",
-    "Last Update":"2020-03-14T20:13:16",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"31.0461",
     "Longitude":"34.8516",
     "Province/State":"",
     "Recovered":"4"
-  },
-  {
-    "Confirmed":"189",
-    "Country/Region":"Czechia",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T20:13:16",
-    "Latitude":"49.8175",
-    "Longitude":"15.4730",
-    "Province/State":"",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"181",
-    "Country/Region":"Slovenia",
-    "Deaths":"1",
-    "Last Update":"2020-03-14T22:33:03",
-    "Latitude":"46.1512",
-    "Longitude":"14.9955",
-    "Province/State":"",
-    "Recovered":"0"
   },
   {
     "Confirmed":"174",
@@ -470,16 +480,6 @@
     "Recovered":"172"
   },
   {
-    "Confirmed":"169",
-    "Country/Region":"Portugal",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T16:14:47",
-    "Latitude":"39.3999",
-    "Longitude":"-8.2245",
-    "Province/State":"",
-    "Recovered":"2"
-  },
-  {
     "Confirmed":"168",
     "Country/Region":"China",
     "Deaths":"6",
@@ -490,24 +490,24 @@
     "Recovered":"160"
   },
   {
-    "Confirmed":"156",
-    "Country/Region":"Iceland",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T14:53:04",
-    "Latitude":"64.9631",
-    "Longitude":"-19.0208",
-    "Province/State":"",
-    "Recovered":"1"
-  },
-  {
-    "Confirmed":"151",
+    "Confirmed":"162",
     "Country/Region":"Brazil",
     "Deaths":"0",
-    "Last Update":"2020-03-13T22:21:58",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"-14.2350",
     "Longitude":"-51.9253",
     "Province/State":"",
     "Recovered":"0"
+  },
+  {
+    "Confirmed":"161",
+    "Country/Region":"Iceland",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"64.9631",
+    "Longitude":"-19.0208",
+    "Province/State":"",
+    "Recovered":"1"
   },
   {
     "Confirmed":"146",
@@ -520,14 +520,24 @@
     "Recovered":"143"
   },
   {
-    "Confirmed":"140",
+    "Confirmed":"145",
     "Country/Region":"China",
     "Deaths":"4",
-    "Last Update":"2020-03-14T12:53:06",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"22.3000",
     "Longitude":"114.2000",
     "Province/State":"Hong Kong",
-    "Recovered":"78"
+    "Recovered":"81"
+  },
+  {
+    "Confirmed":"140",
+    "Country/Region":"Philippines",
+    "Deaths":"11",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"12.8797",
+    "Longitude":"121.7740",
+    "Province/State":"",
+    "Recovered":"2"
   },
   {
     "Confirmed":"138",
@@ -543,11 +553,41 @@
     "Confirmed":"136",
     "Country/Region":"China",
     "Deaths":"3",
-    "Last Update":"2020-03-12T01:53:03",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"39.3054",
     "Longitude":"117.3230",
     "Province/State":"Tianjin",
-    "Recovered":"132"
+    "Recovered":"133"
+  },
+  {
+    "Confirmed":"135",
+    "Country/Region":"Estonia",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"58.5953",
+    "Longitude":"25.0136",
+    "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"134",
+    "Country/Region":"Australia",
+    "Deaths":"2",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"-33.8688",
+    "Longitude":"151.2093",
+    "Province/State":"New South Wales",
+    "Recovered":"4"
+  },
+  {
+    "Confirmed":"133",
+    "Country/Region":"China",
+    "Deaths":"2",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"36.0611",
+    "Longitude":"103.8343",
+    "Province/State":"Gansu",
+    "Recovered":"91"
   },
   {
     "Confirmed":"133",
@@ -560,14 +600,14 @@
     "Recovered":"133"
   },
   {
-    "Confirmed":"129",
-    "Country/Region":"China",
-    "Deaths":"2",
-    "Last Update":"2020-03-14T03:13:08",
-    "Latitude":"36.0611",
-    "Longitude":"103.8343",
-    "Province/State":"Gansu",
-    "Recovered":"89"
+    "Confirmed":"131",
+    "Country/Region":"Romania",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"45.9432",
+    "Longitude":"24.9668",
+    "Province/State":"",
+    "Recovered":"9"
   },
   {
     "Confirmed":"129",
@@ -583,51 +623,81 @@
     "Confirmed":"125",
     "Country/Region":"China",
     "Deaths":"1",
-    "Last Update":"2020-03-14T00:13:05",
+    "Last Update":"2020-03-15T04:13:27",
     "Latitude":"41.2956",
     "Longitude":"122.6085",
     "Province/State":"Liaoning",
-    "Recovered":"113"
+    "Recovered":"114"
   },
   {
-    "Confirmed":"123",
-    "Country/Region":"Romania",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T22:33:03",
-    "Latitude":"45.9432",
-    "Longitude":"24.9668",
-    "Province/State":"",
-    "Recovered":"9"
-  },
-  {
-    "Confirmed":"115",
-    "Country/Region":"Estonia",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T20:33:03",
-    "Latitude":"58.5953",
-    "Longitude":"25.0136",
+    "Confirmed":"119",
+    "Country/Region":"Poland",
+    "Deaths":"3",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"51.9194",
+    "Longitude":"19.1451",
     "Province/State":"",
     "Recovered":"0"
   },
   {
-    "Confirmed":"112",
-    "Country/Region":"Australia",
+    "Confirmed":"117",
+    "Country/Region":"Indonesia",
+    "Deaths":"5",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"-0.7893",
+    "Longitude":"113.9213",
+    "Province/State":"",
+    "Recovered":"8"
+  },
+  {
+    "Confirmed":"115",
+    "Country/Region":"US",
+    "Deaths":"4",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"27.7663",
+    "Longitude":"-81.6868",
+    "Province/State":"Florida",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"114",
+    "Country/Region":"Thailand",
+    "Deaths":"1",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"15.8700",
+    "Longitude":"100.9925",
+    "Province/State":"",
+    "Recovered":"35"
+  },
+  {
+    "Confirmed":"113",
+    "Country/Region":"India",
     "Deaths":"2",
-    "Last Update":"2020-03-14T13:33:04",
-    "Latitude":"-33.8688",
-    "Longitude":"151.2093",
-    "Province/State":"New South Wales",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"20.5937",
+    "Longitude":"78.9629",
+    "Province/State":"",
     "Recovered":"4"
   },
   {
-    "Confirmed":"111",
-    "Country/Region":"Philippines",
-    "Deaths":"8",
-    "Last Update":"2020-03-14T20:33:03",
-    "Latitude":"12.8797",
-    "Longitude":"121.7740",
+    "Confirmed":"112",
+    "Country/Region":"Kuwait",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"29.3117",
+    "Longitude":"47.4818",
     "Province/State":"",
-    "Recovered":"2"
+    "Recovered":"5"
+  },
+  {
+    "Confirmed":"110",
+    "Country/Region":"Egypt",
+    "Deaths":"2",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"26.8206",
+    "Longitude":"30.8025",
+    "Province/State":"",
+    "Recovered":"21"
   },
   {
     "Confirmed":"110",
@@ -640,34 +710,24 @@
     "Recovered":"26"
   },
   {
-    "Confirmed":"109",
-    "Country/Region":"Egypt",
-    "Deaths":"2",
-    "Last Update":"2020-03-14T22:33:03",
-    "Latitude":"26.8206",
-    "Longitude":"30.8025",
+    "Confirmed":"110",
+    "Country/Region":"Lebanon",
+    "Deaths":"3",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"33.8547",
+    "Longitude":"35.8623",
     "Province/State":"",
-    "Recovered":"27"
+    "Recovered":"1"
   },
   {
     "Confirmed":"104",
-    "Country/Region":"Kuwait",
+    "Country/Region":"Canada",
     "Deaths":"0",
-    "Last Update":"2020-03-14T16:14:34",
-    "Latitude":"29.3117",
-    "Longitude":"47.4818",
-    "Province/State":"",
-    "Recovered":"5"
-  },
-  {
-    "Confirmed":"103",
-    "Country/Region":"Poland",
-    "Deaths":"3",
-    "Last Update":"2020-03-14T22:53:02",
-    "Latitude":"51.9194",
-    "Longitude":"19.1451",
-    "Province/State":"",
-    "Recovered":"0"
+    "Last Update":"2020-03-15T01:53:03",
+    "Latitude":"51.2538",
+    "Longitude":"-85.3232",
+    "Province/State":"Ontario",
+    "Recovered":"4"
   },
   {
     "Confirmed":"103",
@@ -680,16 +740,6 @@
     "Recovered":"1"
   },
   {
-    "Confirmed":"102",
-    "Country/Region":"India",
-    "Deaths":"2",
-    "Last Update":"2020-03-14T20:33:03",
-    "Latitude":"20.5937",
-    "Longitude":"78.9629",
-    "Province/State":"",
-    "Recovered":"4"
-  },
-  {
     "Confirmed":"101",
     "Country/Region":"US",
     "Deaths":"1",
@@ -700,14 +750,14 @@
     "Recovered":"0"
   },
   {
-    "Confirmed":"96",
-    "Country/Region":"Indonesia",
-    "Deaths":"5",
-    "Last Update":"2020-03-14T22:53:02",
-    "Latitude":"-0.7893",
-    "Longitude":"113.9213",
-    "Province/State":"",
-    "Recovered":"8"
+    "Confirmed":"99",
+    "Country/Region":"US",
+    "Deaths":"1",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"33.0406",
+    "Longitude":"-83.6431",
+    "Province/State":"Georgia",
+    "Recovered":"0"
   },
   {
     "Confirmed":"93",
@@ -720,64 +770,34 @@
     "Recovered":"91"
   },
   {
-    "Confirmed":"93",
-    "Country/Region":"Lebanon",
-    "Deaths":"3",
-    "Last Update":"2020-03-14T12:13:12",
-    "Latitude":"33.8547",
-    "Longitude":"35.8623",
-    "Province/State":"",
-    "Recovered":"1"
-  },
-  {
-    "Confirmed":"85",
-    "Country/Region":"United Arab Emirates",
-    "Deaths":"0",
-    "Last Update":"2020-03-13T22:21:58",
-    "Latitude":"23.4241",
-    "Longitude":"53.8478",
-    "Province/State":"",
-    "Recovered":"17"
-  },
-  {
-    "Confirmed":"82",
-    "Country/Region":"Thailand",
-    "Deaths":"1",
-    "Last Update":"2020-03-14T12:13:12",
-    "Latitude":"15.8700",
-    "Longitude":"100.9925",
-    "Province/State":"",
-    "Recovered":"35"
-  },
-  {
-    "Confirmed":"80",
+    "Confirmed":"92",
     "Country/Region":"San Marino",
     "Deaths":"5",
-    "Last Update":"2020-03-14T22:53:02",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"43.9424",
     "Longitude":"12.4578",
     "Province/State":"",
     "Recovered":"4"
   },
   {
-    "Confirmed":"79",
-    "Country/Region":"Canada",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T13:13:25",
-    "Latitude":"51.2538",
-    "Longitude":"-85.3232",
-    "Province/State":"Ontario",
-    "Recovered":"4"
-  },
-  {
-    "Confirmed":"77",
+    "Confirmed":"91",
     "Country/Region":"US",
-    "Deaths":"1",
-    "Last Update":"2020-03-14T22:13:32",
+    "Deaths":"2",
+    "Last Update":"2020-03-15T18:20:19",
     "Latitude":"31.1695",
     "Longitude":"-91.8678",
     "Province/State":"Louisiana",
     "Recovered":"0"
+  },
+  {
+    "Confirmed":"86",
+    "Country/Region":"United Arab Emirates",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"23.4241",
+    "Longitude":"53.8478",
+    "Province/State":"",
+    "Recovered":"23"
   },
   {
     "Confirmed":"76",
@@ -788,16 +808,6 @@
     "Longitude":"85.2401",
     "Province/State":"Xinjiang",
     "Recovered":"73"
-  },
-  {
-    "Confirmed":"76",
-    "Country/Region":"US",
-    "Deaths":"3",
-    "Last Update":"2020-03-14T18:53:03",
-    "Latitude":"27.7663",
-    "Longitude":"-81.6868",
-    "Province/State":"Florida",
-    "Recovered":"0"
   },
   {
     "Confirmed":"75",
@@ -820,44 +830,64 @@
     "Recovered":"73"
   },
   {
-    "Confirmed":"69",
+    "Confirmed":"74",
     "Country/Region":"US",
-    "Deaths":"1",
-    "Last Update":"2020-03-14T22:13:32",
+    "Deaths":"2",
+    "Last Update":"2020-03-15T18:20:19",
     "Latitude":"40.2989",
     "Longitude":"-74.5210",
     "Province/State":"New Jersey",
     "Recovered":"0"
   },
   {
-    "Confirmed":"66",
-    "Country/Region":"US",
-    "Deaths":"1",
-    "Last Update":"2020-03-14T17:53:03",
-    "Latitude":"33.0406",
-    "Longitude":"-83.6431",
-    "Province/State":"Georgia",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"64",
+    "Confirmed":"73",
     "Country/Region":"Canada",
     "Deaths":"1",
-    "Last Update":"2020-03-14T00:13:05",
+    "Last Update":"2020-03-15T01:53:02",
     "Latitude":"53.7267",
     "Longitude":"-127.6476",
     "Province/State":"British Columbia",
     "Recovered":"4"
   },
   {
-    "Confirmed":"64",
+    "Confirmed":"66",
     "Country/Region":"US",
     "Deaths":"0",
-    "Last Update":"2020-03-14T22:33:04",
+    "Last Update":"2020-03-15T18:20:19",
     "Latitude":"40.3495",
     "Longitude":"-88.9861",
     "Province/State":"Illinois",
     "Recovered":"2"
+  },
+  {
+    "Confirmed":"63",
+    "Country/Region":"Russia",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"61.5240",
+    "Longitude":"105.3188",
+    "Province/State":"",
+    "Recovered":"8"
+  },
+  {
+    "Confirmed":"63",
+    "Country/Region":"US",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"31.0545",
+    "Longitude":"-97.5635",
+    "Province/State":"Texas",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"61",
+    "Country/Region":"Australia",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"-28.0167",
+    "Longitude":"153.4000",
+    "Province/State":"Queensland",
+    "Recovered":"8"
   },
   {
     "Confirmed":"61",
@@ -871,63 +901,103 @@
   },
   {
     "Confirmed":"59",
-    "Country/Region":"Russia",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T22:53:02",
-    "Latitude":"61.5240",
-    "Longitude":"105.3188",
-    "Province/State":"",
-    "Recovered":"8"
-  },
-  {
-    "Confirmed":"57",
-    "Country/Region":"US",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T22:33:03",
-    "Latitude":"31.0545",
-    "Longitude":"-97.5635",
-    "Province/State":"Texas",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"53",
-    "Country/Region":"Taiwan*",
-    "Deaths":"1",
-    "Last Update":"2020-03-14T07:13:11",
-    "Latitude":"23.7000",
-    "Longitude":"121.0000",
-    "Province/State":"",
-    "Recovered":"20"
-  },
-  {
-    "Confirmed":"53",
-    "Country/Region":"Vietnam",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T12:13:12",
-    "Latitude":"14.0583",
-    "Longitude":"108.2772",
-    "Province/State":"",
-    "Recovered":"16"
-  },
-  {
-    "Confirmed":"51",
     "Country/Region":"Luxembourg",
     "Deaths":"1",
-    "Last Update":"2020-03-14T20:33:03",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"49.8153",
     "Longitude":"6.1296",
     "Province/State":"",
     "Recovered":"0"
   },
   {
-    "Confirmed":"49",
+    "Confirmed":"59",
+    "Country/Region":"Taiwan*",
+    "Deaths":"1",
+    "Last Update":"2020-03-15T06:53:03",
+    "Latitude":"23.7000",
+    "Longitude":"121.0000",
+    "Province/State":"",
+    "Recovered":"20"
+  },
+  {
+    "Confirmed":"57",
     "Country/Region":"Australia",
     "Deaths":"0",
-    "Last Update":"2020-03-14T13:33:04",
+    "Last Update":"2020-03-15T18:20:19",
     "Latitude":"-37.8136",
     "Longitude":"144.9631",
     "Province/State":"Victoria",
     "Recovered":"8"
+  },
+  {
+    "Confirmed":"56",
+    "Country/Region":"Vietnam",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"14.0583",
+    "Longitude":"108.2772",
+    "Province/State":"",
+    "Recovered":"16"
+  },
+  {
+    "Confirmed":"54",
+    "Country/Region":"Slovakia",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"48.6690",
+    "Longitude":"19.6990",
+    "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"53",
+    "Country/Region":"Pakistan",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"30.3753",
+    "Longitude":"69.3451",
+    "Province/State":"",
+    "Recovered":"2"
+  },
+  {
+    "Confirmed":"51",
+    "Country/Region":"South Africa",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"-30.5595",
+    "Longitude":"22.9375",
+    "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"50",
+    "Country/Region":"Brunei",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"4.5353",
+    "Longitude":"114.7277",
+    "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"49",
+    "Country/Region":"Croatia",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"45.1000",
+    "Longitude":"15.2000",
+    "Province/State":"",
+    "Recovered":"1"
+  },
+  {
+    "Confirmed":"48",
+    "Country/Region":"Algeria",
+    "Deaths":"4",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"28.0339",
+    "Longitude":"1.6596",
+    "Province/State":"",
+    "Recovered":"12"
   },
   {
     "Confirmed":"47",
@@ -938,16 +1008,6 @@
     "Longitude":"-77.2098",
     "Province/State":"Pennsylvania",
     "Recovered":"0"
-  },
-  {
-    "Confirmed":"46",
-    "Country/Region":"Australia",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T13:33:04",
-    "Latitude":"-28.0167",
-    "Longitude":"153.4000",
-    "Province/State":"Queensland",
-    "Recovered":"8"
   },
   {
     "Confirmed":"46",
@@ -970,112 +1030,132 @@
     "Recovered":"0"
   },
   {
-    "Confirmed":"44",
-    "Country/Region":"Slovakia",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T20:33:03",
-    "Latitude":"48.6690",
-    "Longitude":"19.6990",
-    "Province/State":"",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"41",
-    "Country/Region":"Bulgaria",
+    "Confirmed":"45",
+    "Country/Region":"Argentina",
     "Deaths":"2",
-    "Last Update":"2020-03-14T20:33:03",
-    "Latitude":"42.7339",
-    "Longitude":"25.4858",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"-38.4161",
+    "Longitude":"-63.6167",
     "Province/State":"",
-    "Recovered":"0"
+    "Recovered":"1"
   },
   {
-    "Confirmed":"41",
+    "Confirmed":"45",
     "Country/Region":"US",
     "Deaths":"1",
-    "Last Update":"2020-03-14T22:33:03",
+    "Last Update":"2020-03-15T18:20:19",
     "Latitude":"37.7693",
     "Longitude":"-78.1700",
     "Province/State":"Virginia",
     "Recovered":"0"
   },
   {
-    "Confirmed":"40",
-    "Country/Region":"Brunei",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T20:33:03",
-    "Latitude":"4.5353",
-    "Longitude":"114.7277",
+    "Confirmed":"43",
+    "Country/Region":"Bulgaria",
+    "Deaths":"2",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"42.7339",
+    "Longitude":"25.4858",
     "Province/State":"",
     "Recovered":"0"
   },
   {
-    "Confirmed":"38",
-    "Country/Region":"Albania",
-    "Deaths":"1",
-    "Last Update":"2020-03-14T12:33:03",
-    "Latitude":"41.1533",
-    "Longitude":"20.1683",
-    "Province/State":"",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"38",
-    "Country/Region":"Croatia",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T20:33:03",
-    "Latitude":"45.1000",
-    "Longitude":"15.2000",
-    "Province/State":"",
-    "Recovered":"1"
-  },
-  {
-    "Confirmed":"38",
-    "Country/Region":"Peru",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T12:33:03",
-    "Latitude":"-9.1900",
-    "Longitude":"-75.0152",
-    "Province/State":"",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"38",
-    "Country/Region":"South Africa",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T16:14:56",
-    "Latitude":"-30.5595",
-    "Longitude":"22.9375",
-    "Province/State":"",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"37",
-    "Country/Region":"Algeria",
-    "Deaths":"3",
-    "Last Update":"2020-03-14T12:33:03",
-    "Latitude":"28.0339",
-    "Longitude":"1.6596",
-    "Province/State":"",
-    "Recovered":"12"
-  },
-  {
-    "Confirmed":"36",
+    "Confirmed":"43",
     "Country/Region":"Panama",
     "Deaths":"1",
-    "Last Update":"2020-03-14T12:33:03",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"8.5380",
     "Longitude":"-80.7821",
     "Province/State":"",
     "Recovered":"0"
   },
   {
+    "Confirmed":"43",
+    "Country/Region":"Peru",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"-9.1900",
+    "Longitude":"-75.0152",
+    "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"42",
+    "Country/Region":"Albania",
+    "Deaths":"1",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"41.1533",
+    "Longitude":"20.1683",
+    "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"41",
+    "Country/Region":"Mexico",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"23.6345",
+    "Longitude":"-102.5528",
+    "Province/State":"",
+    "Recovered":"4"
+  },
+  {
+    "Confirmed":"39",
+    "Country/Region":"Canada",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T01:53:03",
+    "Latitude":"53.9333",
+    "Longitude":"-116.5765",
+    "Province/State":"Alberta",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"36",
+    "Country/Region":"US",
+    "Deaths":"1",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"44.5720",
+    "Longitude":"-122.0709",
+    "Province/State":"Oregon",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"35",
+    "Country/Region":"US",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"45.6945",
+    "Longitude":"-93.9002",
+    "Province/State":"Minnesota",
+    "Recovered":"0"
+  },
+  {
     "Confirmed":"34",
-    "Country/Region":"Argentina",
-    "Deaths":"2",
-    "Last Update":"2020-03-14T20:33:03",
-    "Latitude":"-38.4161",
-    "Longitude":"-63.6167",
+    "Country/Region":"Colombia",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"4.5709",
+    "Longitude":"-74.2973",
+    "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"33",
+    "Country/Region":"US",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"43.3266",
+    "Longitude":"-84.5361",
+    "Province/State":"Michigan",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"32",
+    "Country/Region":"Hungary",
+    "Deaths":"1",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"47.1625",
+    "Longitude":"19.5033",
     "Province/State":"",
     "Recovered":"1"
   },
@@ -1083,10 +1163,10 @@
     "Confirmed":"32",
     "Country/Region":"US",
     "Deaths":"0",
-    "Last Update":"2020-03-14T16:33:03",
-    "Latitude":"44.5720",
-    "Longitude":"-122.0709",
-    "Province/State":"Oregon",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"35.6301",
+    "Longitude":"-79.8064",
+    "Province/State":"North Carolina",
     "Recovered":"0"
   },
   {
@@ -1101,13 +1181,13 @@
   },
   {
     "Confirmed":"31",
-    "Country/Region":"Pakistan",
+    "Country/Region":"US",
     "Deaths":"0",
-    "Last Update":"2020-03-14T20:33:03",
-    "Latitude":"30.3753",
-    "Longitude":"69.3451",
-    "Province/State":"",
-    "Recovered":"2"
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"39.0639",
+    "Longitude":"-76.8021",
+    "Province/State":"Maryland",
+    "Recovered":"0"
   },
   {
     "Confirmed":"30",
@@ -1121,22 +1201,22 @@
   },
   {
     "Confirmed":"30",
-    "Country/Region":"Hungary",
+    "Country/Region":"Latvia",
     "Deaths":"0",
-    "Last Update":"2020-03-14T22:53:02",
-    "Latitude":"47.1625",
-    "Longitude":"19.5033",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"56.8796",
+    "Longitude":"24.6032",
     "Province/State":"",
     "Recovered":"1"
   },
   {
-    "Confirmed":"29",
-    "Country/Region":"Canada",
+    "Confirmed":"30",
+    "Country/Region":"US",
     "Deaths":"0",
-    "Last Update":"2020-03-14T00:13:05",
-    "Latitude":"53.9333",
-    "Longitude":"-116.5765",
-    "Province/State":"Alberta",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"40.3888",
+    "Longitude":"-82.7649",
+    "Province/State":"Ohio",
     "Recovered":"0"
   },
   {
@@ -1150,6 +1230,26 @@
     "Recovered":"0"
   },
   {
+    "Confirmed":"28",
+    "Country/Region":"Morocco",
+    "Deaths":"1",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"31.7917",
+    "Longitude":"-7.0926",
+    "Province/State":"",
+    "Recovered":"1"
+  },
+  {
+    "Confirmed":"28",
+    "Country/Region":"US",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"44.2685",
+    "Longitude":"-89.6165",
+    "Province/State":"Wisconsin",
+    "Recovered":"1"
+  },
+  {
     "Confirmed":"27",
     "Country/Region":"Belarus",
     "Deaths":"0",
@@ -1161,19 +1261,9 @@
   },
   {
     "Confirmed":"27",
-    "Country/Region":"US",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T22:33:03",
-    "Latitude":"44.2685",
-    "Longitude":"-89.6165",
-    "Province/State":"Wisconsin",
-    "Recovered":"1"
-  },
-  {
-    "Confirmed":"26",
     "Country/Region":"Costa Rica",
     "Deaths":"0",
-    "Last Update":"2020-03-14T12:33:03",
+    "Last Update":"2020-03-15T18:20:18",
     "Latitude":"9.7489",
     "Longitude":"-83.7534",
     "Province/State":"",
@@ -1190,84 +1280,64 @@
     "Recovered":"0"
   },
   {
-    "Confirmed":"26",
-    "Country/Region":"Latvia",
+    "Confirmed":"24",
+    "Country/Region":"Canada",
     "Deaths":"0",
-    "Last Update":"2020-03-14T12:33:03",
-    "Latitude":"56.8796",
-    "Longitude":"24.6032",
-    "Province/State":"",
-    "Recovered":"1"
-  },
-  {
-    "Confirmed":"26",
-    "Country/Region":"Mexico",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T20:53:02",
-    "Latitude":"23.6345",
-    "Longitude":"-102.5528",
-    "Province/State":"",
-    "Recovered":"4"
-  },
-  {
-    "Confirmed":"26",
-    "Country/Region":"US",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T22:33:03",
-    "Latitude":"39.0639",
-    "Longitude":"-76.8021",
-    "Province/State":"Maryland",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"26",
-    "Country/Region":"US",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T18:53:03",
-    "Latitude":"40.3888",
-    "Longitude":"-82.7649",
-    "Province/State":"Ohio",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"25",
-    "Country/Region":"US",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T16:53:03",
-    "Latitude":"43.3266",
-    "Longitude":"-84.5361",
-    "Province/State":"Michigan",
+    "Last Update":"2020-03-15T01:53:02",
+    "Latitude":"52.9399",
+    "Longitude":"-73.5491",
+    "Province/State":"Quebec",
     "Recovered":"0"
   },
   {
     "Confirmed":"24",
     "Country/Region":"US",
     "Deaths":"0",
-    "Last Update":"2020-03-14T18:13:23",
-    "Latitude":"35.6301",
-    "Longitude":"-79.8064",
-    "Province/State":"North Carolina",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"22",
-    "Country/Region":"Colombia",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T20:53:02",
-    "Latitude":"4.5709",
-    "Longitude":"-74.2973",
-    "Province/State":"",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"22",
-    "Country/Region":"US",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T22:33:03",
+    "Last Update":"2020-03-15T18:20:19",
     "Latitude":"41.5978",
     "Longitude":"-72.7554",
     "Province/State":"Connecticut",
     "Recovered":"0"
+  },
+  {
+    "Confirmed":"24",
+    "Country/Region":"US",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"40.1500",
+    "Longitude":"-111.8624",
+    "Province/State":"Utah",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"23",
+    "Country/Region":"Armenia",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"40.0691",
+    "Longitude":"45.0382",
+    "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"21",
+    "Country/Region":"Bosnia and Herzegovina",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"43.9159",
+    "Longitude":"17.6791",
+    "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"21",
+    "Country/Region":"Malta",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"35.9375",
+    "Longitude":"14.3754",
+    "Province/State":"",
+    "Recovered":"1"
   },
   {
     "Confirmed":"21",
@@ -1283,20 +1353,40 @@
     "Confirmed":"21",
     "Country/Region":"US",
     "Deaths":"0",
-    "Last Update":"2020-03-14T18:53:03",
-    "Latitude":"45.6945",
-    "Longitude":"-93.9002",
-    "Province/State":"Minnesota",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"21",
-    "Country/Region":"US",
-    "Deaths":"0",
     "Last Update":"2020-03-14T22:33:03",
     "Latitude":"38.3135",
     "Longitude":"-117.0554",
     "Province/State":"Nevada",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"20",
+    "Country/Region":"Australia",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"-34.9285",
+    "Longitude":"138.6007",
+    "Province/State":"South Australia",
+    "Recovered":"3"
+  },
+  {
+    "Confirmed":"20",
+    "Country/Region":"Oman",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"21.4735",
+    "Longitude":"55.9754",
+    "Province/State":"",
+    "Recovered":"9"
+  },
+  {
+    "Confirmed":"20",
+    "Country/Region":"US",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"39.8494",
+    "Longitude":"-86.2583",
+    "Province/State":"Indiana",
     "Recovered":"0"
   },
   {
@@ -1311,52 +1401,12 @@
   },
   {
     "Confirmed":"19",
-    "Country/Region":"Australia",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T13:33:04",
-    "Latitude":"-34.9285",
-    "Longitude":"138.6007",
-    "Province/State":"South Australia",
-    "Recovered":"3"
-  },
-  {
-    "Confirmed":"19",
-    "Country/Region":"Oman",
-    "Deaths":"0",
-    "Last Update":"2020-03-13T23:33:05",
-    "Latitude":"21.4735",
-    "Longitude":"55.9754",
-    "Province/State":"",
-    "Recovered":"9"
-  },
-  {
-    "Confirmed":"19",
     "Country/Region":"US",
     "Deaths":"0",
     "Last Update":"2020-03-14T22:33:03",
     "Latitude":"33.8569",
     "Longitude":"-80.9450",
     "Province/State":"South Carolina",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"18",
-    "Country/Region":"Armenia",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T20:53:02",
-    "Latitude":"40.0691",
-    "Longitude":"45.0382",
-    "Province/State":"",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"18",
-    "Country/Region":"Bosnia and Herzegovina",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T12:33:03",
-    "Latitude":"43.9159",
-    "Longitude":"17.6791",
-    "Province/State":"",
     "Recovered":"0"
   },
   {
@@ -1371,22 +1421,32 @@
   },
   {
     "Confirmed":"18",
-    "Country/Region":"Malta",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T12:33:03",
-    "Latitude":"35.9375",
-    "Longitude":"14.3754",
-    "Province/State":"",
-    "Recovered":"1"
-  },
-  {
-    "Confirmed":"18",
     "Country/Region":"Tunisia",
     "Deaths":"0",
     "Last Update":"2020-03-14T20:53:02",
     "Latitude":"33.8869",
     "Longitude":"9.5375",
     "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"18",
+    "Country/Region":"US",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"42.0115",
+    "Longitude":"-93.2105",
+    "Province/State":"Iowa",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"18",
+    "Country/Region":"US",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T02:53:02",
+    "Latitude":"37.6681",
+    "Longitude":"-84.6701",
+    "Province/State":"Kentucky",
     "Recovered":"0"
   },
   {
@@ -1401,42 +1461,42 @@
   },
   {
     "Confirmed":"17",
-    "Country/Region":"Canada",
+    "Country/Region":"US",
     "Deaths":"0",
-    "Last Update":"2020-03-13T13:33:03",
-    "Latitude":"52.9399",
-    "Longitude":"-73.5491",
-    "Province/State":"Quebec",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"41.1254",
+    "Longitude":"-98.2681",
+    "Province/State":"Nebraska",
     "Recovered":"0"
   },
   {
-    "Confirmed":"17",
-    "Country/Region":"Morocco",
-    "Deaths":"1",
-    "Last Update":"2020-03-14T20:53:02",
-    "Latitude":"31.7917",
-    "Longitude":"-7.0926",
-    "Province/State":"",
-    "Recovered":"1"
-  },
-  {
-    "Confirmed":"17",
-    "Country/Region":"US",
+    "Confirmed":"16",
+    "Country/Region":"Afghanistan",
     "Deaths":"0",
-    "Last Update":"2020-03-13T23:53:03",
-    "Latitude":"42.0115",
-    "Longitude":"-93.2105",
-    "Province/State":"Iowa",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"33.9391",
+    "Longitude":"67.7100",
+    "Province/State":"",
     "Recovered":"0"
   },
   {
     "Confirmed":"16",
     "Country/Region":"US",
     "Deaths":"0",
-    "Last Update":"2020-03-14T16:53:03",
-    "Latitude":"39.8494",
-    "Longitude":"-86.2583",
-    "Province/State":"Indiana",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"34.9697",
+    "Longitude":"-92.3731",
+    "Province/State":"Arkansas",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"16",
+    "Country/Region":"US",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T02:53:03",
+    "Latitude":"38.8974",
+    "Longitude":"-77.0268",
+    "Province/State":"District of Columbia",
     "Recovered":"0"
   },
   {
@@ -1460,24 +1520,34 @@
     "Recovered":"1"
   },
   {
-    "Confirmed":"14",
-    "Country/Region":"US",
+    "Confirmed":"13",
+    "Country/Region":"Maldives",
     "Deaths":"0",
-    "Last Update":"2020-03-13T23:53:03",
-    "Latitude":"37.6681",
-    "Longitude":"-84.6701",
-    "Province/State":"Kentucky",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"3.2028",
+    "Longitude":"73.2207",
+    "Province/State":"",
     "Recovered":"0"
   },
   {
-    "Confirmed":"14",
+    "Confirmed":"13",
     "Country/Region":"US",
     "Deaths":"0",
-    "Last Update":"2020-03-14T16:53:03",
-    "Latitude":"41.1254",
-    "Longitude":"-98.2681",
-    "Province/State":"Nebraska",
+    "Last Update":"2020-03-15T02:53:03",
+    "Latitude":"34.8405",
+    "Longitude":"-106.2485",
+    "Province/State":"New Mexico",
     "Recovered":"0"
+  },
+  {
+    "Confirmed":"12",
+    "Country/Region":"Lithuania",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"55.1694",
+    "Longitude":"23.8813",
+    "Province/State":"",
+    "Recovered":"1"
   },
   {
     "Confirmed":"12",
@@ -1493,6 +1563,16 @@
     "Confirmed":"12",
     "Country/Region":"US",
     "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"32.3182",
+    "Longitude":"-86.9023",
+    "Province/State":"Alabama",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"12",
+    "Country/Region":"US",
+    "Deaths":"0",
     "Last Update":"2020-03-14T18:13:23",
     "Latitude":"33.7298",
     "Longitude":"-111.4312",
@@ -1500,23 +1580,13 @@
     "Recovered":"1"
   },
   {
-    "Confirmed":"12",
-    "Country/Region":"US",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T22:33:03",
-    "Latitude":"34.9697",
-    "Longitude":"-92.3731",
-    "Province/State":"Arkansas",
-    "Recovered":"0"
-  },
-  {
     "Confirmed":"11",
-    "Country/Region":"Afghanistan",
+    "Country/Region":"Denmark",
     "Deaths":"0",
-    "Last Update":"2020-03-14T14:53:04",
-    "Latitude":"33.9391",
-    "Longitude":"67.7100",
-    "Province/State":"",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"61.8926",
+    "Longitude":"-6.9118",
+    "Province/State":"Faroe Islands",
     "Recovered":"0"
   },
   {
@@ -1528,6 +1598,16 @@
     "Longitude":"-70.1627",
     "Province/State":"",
     "Recovered":"0"
+  },
+  {
+    "Confirmed":"11",
+    "Country/Region":"Sri Lanka",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"7.8731",
+    "Longitude":"80.7718",
+    "Province/State":"",
+    "Recovered":"1"
   },
   {
     "Confirmed":"10",
@@ -1551,16 +1631,6 @@
   },
   {
     "Confirmed":"10",
-    "Country/Region":"Maldives",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T16:14:58",
-    "Latitude":"3.2028",
-    "Longitude":"73.2207",
-    "Province/State":"",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"10",
     "Country/Region":"Senegal",
     "Deaths":"0",
     "Last Update":"2020-03-13T23:33:05",
@@ -1568,56 +1638,6 @@
     "Longitude":"-14.4524",
     "Province/State":"",
     "Recovered":"1"
-  },
-  {
-    "Confirmed":"10",
-    "Country/Region":"Sri Lanka",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T16:14:58",
-    "Latitude":"7.8731",
-    "Longitude":"80.7718",
-    "Province/State":"",
-    "Recovered":"1"
-  },
-  {
-    "Confirmed":"10",
-    "Country/Region":"US",
-    "Deaths":"0",
-    "Last Update":"2020-03-11T22:53:03",
-    "Latitude":"38.8974",
-    "Longitude":"-77.0268",
-    "Province/State":"District of Columbia",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"10",
-    "Country/Region":"US",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T00:13:05",
-    "Latitude":"34.8405",
-    "Longitude":"-106.2485",
-    "Province/State":"New Mexico",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"10",
-    "Country/Region":"US",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T18:53:03",
-    "Latitude":"40.1500",
-    "Longitude":"-111.8624",
-    "Province/State":"Utah",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"9",
-    "Country/Region":"Denmark",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T16:33:03",
-    "Latitude":"61.8926",
-    "Longitude":"-6.9118",
-    "Province/State":"Faroe Islands",
-    "Recovered":"0"
   },
   {
     "Confirmed":"9",
@@ -1651,11 +1671,21 @@
   },
   {
     "Confirmed":"8",
-    "Country/Region":"Lithuania",
+    "Country/Region":"Kazakhstan",
     "Deaths":"0",
-    "Last Update":"2020-03-14T14:53:04",
-    "Latitude":"55.1694",
-    "Longitude":"23.8813",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"48.0196",
+    "Longitude":"66.9237",
+    "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"8",
+    "Country/Region":"New Zealand",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"-40.9006",
+    "Longitude":"174.8860",
     "Province/State":"",
     "Recovered":"0"
   },
@@ -1670,6 +1700,16 @@
     "Recovered":"0"
   },
   {
+    "Confirmed":"8",
+    "Country/Region":"Venezuela",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"6.4238",
+    "Longitude":"-66.5897",
+    "Province/State":"",
+    "Recovered":"0"
+  },
+  {
     "Confirmed":"7",
     "Country/Region":"Cambodia",
     "Deaths":"0",
@@ -1678,6 +1718,36 @@
     "Longitude":"104.9910",
     "Province/State":"",
     "Recovered":"1"
+  },
+  {
+    "Confirmed":"7",
+    "Country/Region":"Jordan",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"30.5852",
+    "Longitude":"36.2384",
+    "Province/State":"",
+    "Recovered":"1"
+  },
+  {
+    "Confirmed":"7",
+    "Country/Region":"Reunion",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"-21.1151",
+    "Longitude":"55.5364",
+    "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"7",
+    "Country/Region":"US",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"46.9219",
+    "Longitude":"-110.4544",
+    "Province/State":"Montana",
+    "Recovered":"0"
   },
   {
     "Confirmed":"7",
@@ -1691,21 +1761,21 @@
   },
   {
     "Confirmed":"6",
-    "Country/Region":"Kazakhstan",
+    "Country/Region":"Australia",
     "Deaths":"0",
-    "Last Update":"2020-03-14T12:53:07",
-    "Latitude":"48.0196",
-    "Longitude":"66.9237",
-    "Province/State":"",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"-41.4545",
+    "Longitude":"145.9707",
+    "Province/State":"Tasmania",
     "Recovered":"0"
   },
   {
     "Confirmed":"6",
-    "Country/Region":"New Zealand",
+    "Country/Region":"Ghana",
     "Deaths":"0",
-    "Last Update":"2020-03-14T20:53:02",
-    "Latitude":"-40.9006",
-    "Longitude":"174.8860",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"7.9465",
+    "Longitude":"-1.0232",
     "Province/State":"",
     "Recovered":"0"
   },
@@ -1721,22 +1791,12 @@
   },
   {
     "Confirmed":"6",
-    "Country/Region":"Reunion",
+    "Country/Region":"Turkey",
     "Deaths":"0",
-    "Last Update":"2020-03-14T20:53:02",
-    "Latitude":"-21.1151",
-    "Longitude":"55.5364",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"38.9637",
+    "Longitude":"35.2433",
     "Province/State":"",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"6",
-    "Country/Region":"US",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T16:53:03",
-    "Latitude":"32.3182",
-    "Longitude":"-86.9023",
-    "Province/State":"Alabama",
     "Recovered":"0"
   },
   {
@@ -1753,6 +1813,26 @@
     "Confirmed":"6",
     "Country/Region":"US",
     "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"21.0943",
+    "Longitude":"-157.4983",
+    "Province/State":"Hawaii",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"6",
+    "Country/Region":"US",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"44.6939",
+    "Longitude":"-69.3819",
+    "Province/State":"Maine",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"6",
+    "Country/Region":"US",
+    "Deaths":"0",
     "Last Update":"2020-03-14T16:53:03",
     "Latitude":"32.7416",
     "Longitude":"-89.6787",
@@ -1761,52 +1841,42 @@
   },
   {
     "Confirmed":"5",
-    "Country/Region":"Australia",
+    "Country/Region":"Bangladesh",
     "Deaths":"0",
-    "Last Update":"2020-03-14T01:53:03",
-    "Latitude":"-41.4545",
-    "Longitude":"145.9707",
-    "Province/State":"Tasmania",
+    "Last Update":"2020-03-15T18:20:18",
+    "Latitude":"23.6850",
+    "Longitude":"90.3563",
+    "Province/State":"",
     "Recovered":"0"
   },
   {
     "Confirmed":"5",
     "Country/Region":"France",
     "Deaths":"0",
-    "Last Update":"2020-03-14T16:53:03",
-    "Latitude":"4.0000",
-    "Longitude":"-53.0000",
-    "Province/State":"Fench Guiana",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"5",
-    "Country/Region":"French Guiana",
-    "Deaths":"0",
-    "Last Update":"2020-03-07T03:23:05",
+    "Last Update":"2020-03-15T06:53:03",
     "Latitude":"3.9339",
     "Longitude":"-53.1258",
-    "Province/State":"",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"5",
-    "Country/Region":"Turkey",
-    "Deaths":"0",
-    "Last Update":"2020-03-13T23:33:06",
-    "Latitude":"38.9637",
-    "Longitude":"35.2433",
-    "Province/State":"",
+    "Province/State":"French Guiana",
     "Recovered":"0"
   },
   {
     "Confirmed":"5",
     "Country/Region":"US",
     "Deaths":"0",
-    "Last Update":"2020-03-14T16:53:03",
-    "Latitude":"46.9219",
-    "Longitude":"-110.4544",
-    "Province/State":"Montana",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"44.2405",
+    "Longitude":"-114.4788",
+    "Province/State":"Idaho",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"5",
+    "Country/Region":"US",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"38.4561",
+    "Longitude":"-92.2884",
+    "Province/State":"Missouri",
     "Recovered":"0"
   },
   {
@@ -1841,32 +1911,22 @@
   },
   {
     "Confirmed":"4",
+    "Country/Region":"Guyana",
+    "Deaths":"1",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"4.8604",
+    "Longitude":"-58.9302",
+    "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"4",
     "Country/Region":"Liechtenstein",
     "Deaths":"0",
     "Last Update":"2020-03-14T20:53:02",
     "Latitude":"47.1660",
     "Longitude":"9.5554",
     "Province/State":"",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"4",
-    "Country/Region":"US",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T19:53:03",
-    "Latitude":"21.0943",
-    "Longitude":"-157.4983",
-    "Province/State":"Hawaii",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"4",
-    "Country/Region":"US",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T16:53:03",
-    "Latitude":"38.4561",
-    "Longitude":"-92.2884",
-    "Province/State":"Missouri",
     "Recovered":"0"
   },
   {
@@ -1891,31 +1951,21 @@
   },
   {
     "Confirmed":"3",
-    "Country/Region":"Bangladesh",
-    "Deaths":"0",
-    "Last Update":"2020-03-13T22:22:02",
-    "Latitude":"23.6850",
-    "Longitude":"90.3563",
-    "Province/State":"",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"3",
     "Country/Region":"France",
     "Deaths":"0",
-    "Last Update":"2020-03-14T16:53:03",
+    "Last Update":"2020-03-15T18:20:19",
     "Latitude":"-17.6797",
-    "Longitude":"149.4068",
+    "Longitude":"-149.4068",
     "Province/State":"French Polynesia",
     "Recovered":"0"
   },
   {
     "Confirmed":"3",
-    "Country/Region":"Ghana",
+    "Country/Region":"Honduras",
     "Deaths":"0",
-    "Last Update":"2020-03-14T23:13:05",
-    "Latitude":"7.9465",
-    "Longitude":"-1.0232",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"15.2000",
+    "Longitude":"-86.2419",
     "Province/State":"",
     "Recovered":"0"
   },
@@ -1923,10 +1973,10 @@
     "Confirmed":"3",
     "Country/Region":"US",
     "Deaths":"0",
-    "Last Update":"2020-03-14T16:53:03",
-    "Latitude":"44.6939",
-    "Longitude":"-69.3819",
-    "Province/State":"Maine",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"13.4443",
+    "Longitude":"144.7937",
+    "Province/State":"Guam",
     "Recovered":"0"
   },
   {
@@ -1941,12 +1991,32 @@
   },
   {
     "Confirmed":"3",
+    "Country/Region":"US",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T02:53:03",
+    "Latitude":"42.7560",
+    "Longitude":"-107.3025",
+    "Province/State":"Wyoming",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"3",
     "Country/Region":"Ukraine",
     "Deaths":"1",
     "Last Update":"2020-03-13T22:22:02",
     "Latitude":"48.3794",
     "Longitude":"31.1656",
     "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"3",
+    "Country/Region":"United Kingdom",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"49.3723",
+    "Longitude":"-2.3644",
+    "Province/State":"Channel Islands",
     "Recovered":"0"
   },
   {
@@ -1983,6 +2053,16 @@
     "Confirmed":"2",
     "Country/Region":"Canada",
     "Deaths":"0",
+    "Last Update":"2020-03-15T01:53:02",
+    "Latitude":"46.5653",
+    "Longitude":"-66.4619",
+    "Province/State":"New Brunswick",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"2",
+    "Country/Region":"Canada",
+    "Deaths":"0",
     "Last Update":"2020-03-14T00:13:05",
     "Latitude":"52.9399",
     "Longitude":"-106.4509",
@@ -2011,21 +2091,21 @@
   },
   {
     "Confirmed":"2",
-    "Country/Region":"Honduras",
-    "Deaths":"0",
-    "Last Update":"2020-03-13T22:22:02",
-    "Latitude":"15.2000",
-    "Longitude":"-86.2419",
-    "Province/State":"",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"2",
     "Country/Region":"Jersey",
     "Deaths":"0",
     "Last Update":"2020-03-14T16:33:03",
     "Latitude":"49.1900",
     "Longitude":"-2.1100",
+    "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"2",
+    "Country/Region":"Kosovo",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"42.6026",
+    "Longitude":"20.9030",
     "Province/State":"",
     "Recovered":"0"
   },
@@ -2063,7 +2143,7 @@
     "Confirmed":"2",
     "Country/Region":"Seychelles",
     "Deaths":"0",
-    "Last Update":"2020-03-14T23:13:06",
+    "Last Update":"2020-03-15T07:33:03",
     "Latitude":"-4.6796",
     "Longitude":"55.4920",
     "Province/State":"",
@@ -2076,46 +2156,6 @@
     "Last Update":"2020-03-14T16:15:01",
     "Latitude":"10.6918",
     "Longitude":"-61.2225",
-    "Province/State":"",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"2",
-    "Country/Region":"US",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T22:33:03",
-    "Latitude":"44.2405",
-    "Longitude":"-114.4788",
-    "Province/State":"Idaho",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"2",
-    "Country/Region":"US",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T16:53:03",
-    "Latitude":"42.7560",
-    "Longitude":"-107.3025",
-    "Province/State":"Wyoming",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"2",
-    "Country/Region":"United Kingdom",
-    "Deaths":"0",
-    "Last Update":"2020-03-11T20:53:02",
-    "Latitude":"49.3723",
-    "Longitude":"-2.3644",
-    "Province/State":"Channel Islands",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"2",
-    "Country/Region":"Venezuela",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T12:53:07",
-    "Latitude":"6.4238",
-    "Longitude":"-66.5897",
     "Province/State":"",
     "Recovered":"0"
   },
@@ -2133,7 +2173,7 @@
     "Confirmed":"1",
     "Country/Region":"Antigua and Barbuda",
     "Deaths":"0",
-    "Last Update":"2020-03-13T22:22:06",
+    "Last Update":"2020-03-15T18:20:19",
     "Latitude":"17.0608",
     "Longitude":"-61.7964",
     "Province/State":"",
@@ -2173,10 +2213,20 @@
     "Confirmed":"1",
     "Country/Region":"Canada",
     "Deaths":"0",
-    "Last Update":"2020-03-11T23:13:06",
-    "Latitude":"46.5653",
-    "Longitude":"-66.4619",
-    "Province/State":"New Brunswick",
+    "Last Update":"2020-03-15T02:13:21",
+    "Latitude":"53.1355",
+    "Longitude":"-57.6604",
+    "Province/State":"Newfoundland and Labrador",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"1",
+    "Country/Region":"Canada",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T02:13:21",
+    "Latitude":"46.5107",
+    "Longitude":"-63.4168",
+    "Province/State":"Prince Edward Island",
     "Recovered":"0"
   },
   {
@@ -2191,6 +2241,16 @@
   },
   {
     "Confirmed":"1",
+    "Country/Region":"Central African Republic",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"6.6111",
+    "Longitude":"20.9394",
+    "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"1",
     "Country/Region":"China",
     "Deaths":"0",
     "Last Update":"2020-03-11T02:18:14",
@@ -2198,6 +2258,16 @@
     "Longitude":"88.0924",
     "Province/State":"Tibet",
     "Recovered":"1"
+  },
+  {
+    "Confirmed":"1",
+    "Country/Region":"Congo (Brazzaville)",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"-4.0383",
+    "Longitude":"21.7587",
+    "Province/State":"",
+    "Recovered":"0"
   },
   {
     "Confirmed":"1",
@@ -2221,9 +2291,19 @@
   },
   {
     "Confirmed":"1",
+    "Country/Region":"Equatorial Guinea",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T06:41:54",
+    "Latitude":"1.5000",
+    "Longitude":"10.0000",
+    "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"1",
     "Country/Region":"Eswatini",
     "Deaths":"0",
-    "Last Update":"2020-03-14T13:13:25",
+    "Last Update":"2020-03-15T06:41:54",
     "Latitude":"-26.5225",
     "Longitude":"31.4659",
     "Province/State":"",
@@ -2237,6 +2317,16 @@
     "Latitude":"9.1450",
     "Longitude":"40.4897",
     "Province/State":"",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"1",
+    "Country/Region":"France",
+    "Deaths":"0",
+    "Last Update":"2020-03-14T20:53:03",
+    "Latitude":"-12.8275",
+    "Longitude":"45.1662",
+    "Province/State":"Mayotte",
     "Recovered":"0"
   },
   {
@@ -2293,19 +2383,9 @@
     "Confirmed":"1",
     "Country/Region":"Guinea",
     "Deaths":"0",
-    "Last Update":"2020-03-13T15:33:33",
+    "Last Update":"2020-03-15T06:41:54",
     "Latitude":"9.9456",
     "Longitude":"-9.6966",
-    "Province/State":"",
-    "Recovered":"0"
-  },
-  {
-    "Confirmed":"1",
-    "Country/Region":"Guyana",
-    "Deaths":"1",
-    "Last Update":"2020-03-14T23:33:02",
-    "Latitude":"4.8604",
-    "Longitude":"-58.9302",
     "Province/State":"",
     "Recovered":"0"
   },
@@ -2321,16 +2401,6 @@
   },
   {
     "Confirmed":"1",
-    "Country/Region":"Jordan",
-    "Deaths":"0",
-    "Last Update":"2020-03-14T12:53:07",
-    "Latitude":"30.5852",
-    "Longitude":"36.2384",
-    "Province/State":"",
-    "Recovered":"1"
-  },
-  {
-    "Confirmed":"1",
     "Country/Region":"Kenya",
     "Deaths":"0",
     "Last Update":"2020-03-13T22:22:03",
@@ -2343,9 +2413,9 @@
     "Confirmed":"1",
     "Country/Region":"Mauritania",
     "Deaths":"0",
-    "Last Update":"2020-03-14T12:53:07",
+    "Last Update":"2020-03-15T18:20:19",
     "Latitude":"21.0079",
-    "Longitude":"10.9408",
+    "Longitude":"-10.9408",
     "Province/State":"",
     "Recovered":"0"
   },
@@ -2373,7 +2443,7 @@
     "Confirmed":"1",
     "Country/Region":"Rwanda",
     "Deaths":"0",
-    "Last Update":"2020-03-14T12:53:07",
+    "Last Update":"2020-03-15T06:41:54",
     "Latitude":"-1.9403",
     "Longitude":"29.8739",
     "Province/State":"",
@@ -2433,6 +2503,16 @@
     "Confirmed":"1",
     "Country/Region":"US",
     "Deaths":"0",
+    "Last Update":"2020-03-13T14:53:03",
+    "Latitude":"61.3707",
+    "Longitude":"-152.4044",
+    "Province/State":"Alaska",
+    "Recovered":"0"
+  },
+  {
+    "Confirmed":"1",
+    "Country/Region":"US",
+    "Deaths":"0",
     "Last Update":"2020-03-12T09:33:03",
     "Latitude":"47.5289",
     "Longitude":"-99.7840",
@@ -2458,6 +2538,16 @@
     "Longitude":"-5.3536",
     "Province/State":"Gibraltar",
     "Recovered":"1"
+  },
+  {
+    "Confirmed":"1",
+    "Country/Region":"Uzbekistan",
+    "Deaths":"0",
+    "Last Update":"2020-03-15T18:20:19",
+    "Latitude":"41.3775",
+    "Longitude":"64.5853",
+    "Province/State":"",
+    "Recovered":"0"
   },
   {
     "Confirmed":"0",

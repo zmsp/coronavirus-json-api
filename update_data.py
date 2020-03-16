@@ -65,7 +65,6 @@ def dumpMetaData(CSV_FILE):
         elif np.issubdtype(f[i].dtype, np.datetime64):
             max = f[i].max().__str__()
             min = f[i].min().__str__()
-            mean = f[i].mean().__str__()
         elif np.issubdtype(f[i].dtype, np.object):
             unique = f[i].fillna("NaN").unique().tolist()
 
@@ -169,11 +168,9 @@ def dumpTimeSeries(CSV_FILE):
     agg.loc[0] = "!summary"
 
     f = {'Province/State': 'nunique',
-         'Lat': 'mean',
-         'Long': 'mean',
          }
     my_data[my_data.columns[4:]] = my_data[my_data.columns[4:]].fillna(0).astype(np.int64)
-
+    my_data[my_data.columns[2:4]] =  my_data[my_data.columns[2:4]].fillna(0).astype(np.long)
     for i in my_data.columns[4:]:
         my_data[i] = pd.to_numeric(my_data[i], downcast='integer')
         agg[i].loc[0] = my_data[i].sum()
@@ -258,7 +255,8 @@ def dumpRecordData(CSV_FILE):
 
     my_data["Last Update"] = pd.to_datetime(my_data["Last Update"])
     agg = pd.DataFrame(columns=my_data.columns)
-    agg.loc[0] = "!summary"
+    agg =agg.append(pd.Series(), ignore_index=True)
+    agg.loc[0]["Country/Region"] = "!summary"
 
 
     operations = {'Province/State': 'nunique',
@@ -281,6 +279,7 @@ def dumpRecordData(CSV_FILE):
     if "Lat" in my_data.columns:
         agg.loc[0]["Lat"] = my_data["Lat"].mean()
         agg.loc[0]["Long"] = my_data["Long"].mean()
+    agg.loc[0]["Last Update"] = my_data["Last Update"].max()
     my_data.loc[-1] =agg.loc[0]
     my_data["Last Update"] = my_data["Last Update"].dt.strftime('%Y-%m-%d %H:%M:%S')
 
