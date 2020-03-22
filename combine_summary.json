@@ -1,11 +1,11 @@
 {
- "confirmed": "307764",
- "deaths": "13055",
- "recovered": "95797",
- "active_case": "198912",
- "new_case": "2776",
- "new_deaths": "51",
- "serious_case": "9300",
- "updated": "21 March, 2020  23:33:55",
+ "confirmed": "308243",
+ "deaths": "13068",
+ "recovered": "95827",
+ "active_case": "199348",
+ "new_case": "3255",
+ "new_deaths": "61",
+ "serious_case": "9299",
+ "updated": "22 March, 2020  00:34:00",
  "country": "183"
 }
