@@ -1,4 +1,4 @@
-# Novel Coronavirus JSON data (Updated: 20 March, 2020  22:31:28) 
+# Novel Coronavirus JSON data (Updated: 21 March, 2020  20:31:44) 
 This repository tracks Novel Coronavirus data and converts it into a JSON to be consumed by other applications. 
 The data is updated from Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) repository. 
 You can visit https://github.com/CSSEGISandData/COVID-19 for more information. 
