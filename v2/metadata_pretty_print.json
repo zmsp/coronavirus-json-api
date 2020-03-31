@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"70065",
-      "mean":"107.05830903790087",
+      "max":"75528",
+      "mean":"122.1808665309683",
       "median":"0.0",
       "min":"-6",
-      "std":"1903.5492335515612",
-      "total":"367210",
+      "std":"2119.1121513310363",
+      "total":"420180",
       "unique":[]
     },
     "Admin2":{
@@ -1909,7 +1909,7 @@
         "Aleutians East, Alaska, US",
         "Aleutians West, Alaska, US",
         "Alexander, Illinois, US",
-        "Alexander,North Carolina,US",
+        "Alexander, North Carolina, US",
         "Alexandria, Virginia, US",
         "Alfalfa, Oklahoma, US",
         "Alger, Michigan, US",
@@ -2125,7 +2125,7 @@
         "Bowie, Texas, US",
         "Bowman, North Dakota, US",
         "Box Butte, Nebraska, US",
-        "Box Elder, Utah, US",
+        "Box Elder,Utah,US",
         "Boyd, Kentucky, US",
         "Boyd, Nebraska, US",
         "Boyle, Kentucky, US",
@@ -2270,7 +2270,7 @@
         "Carroll, Arkansas, US",
         "Carroll, Georgia, US",
         "Carroll, Illinois, US",
-        "Carroll,Indiana,US",
+        "Carroll, Indiana, US",
         "Carroll, Iowa, US",
         "Carroll, Kentucky, US",
         "Carroll, Maryland, US",
@@ -3085,7 +3085,7 @@
         "Harper, Kansas, US",
         "Harper, Oklahoma, US",
         "Harris, Georgia, US",
-        "Harris, Texas, US",
+        "Harris,Texas,US",
         "Harrison, Indiana, US",
         "Harrison, Iowa, US",
         "Harrison, Kentucky, US",
@@ -4732,7 +4732,9 @@
         "Unassigned, Alaska, US",
         "Unassigned, Arizona, US",
         "Unassigned, Arkansas, US",
+        "Unassigned, California, US",
         "Unassigned, Colorado, US",
+        "Unassigned, Connecticut, US",
         "Unassigned, Florida, US",
         "Unassigned, Georgia, US",
         "Unassigned, Hawaii, US",
@@ -4743,9 +4745,15 @@
         "Unassigned, Maryland, US",
         "Unassigned, Massachusetts, US",
         "Unassigned,Michigan,US",
+        "Unassigned, Minnesota, US",
+        "Unassigned, Mississippi, US",
+        "Unassigned, Nebraska, US",
         "Unassigned, Nevada, US",
+        "Unassigned, New Hampshire, US",
         "Unassigned, New Jersey, US",
         "Unassigned, New York, US",
+        "Unassigned, North Carolina, US",
+        "Unassigned, North Dakota, US",
         "Unassigned, Rhode Island, US",
         "Unassigned, Tennessee, US",
         "Unassigned, Vermont, US",
@@ -4895,7 +4903,7 @@
         "Wayne, Indiana, US",
         "Wayne, Iowa, US",
         "Wayne, Kentucky, US",
-        "Wayne, Michigan, US",
+        "Wayne,Michigan,US",
         "Wayne, Mississippi, US",
         "Wayne, Missouri, US",
         "Wayne, Nebraska, US",
@@ -5152,6 +5160,7 @@
         "Bhutan",
         "Bolivia",
         "Bosnia and Herzegovina",
+        "Botswana",
         "Brazil",
         "Brunei",
         "Bulgaria",
@@ -5307,12 +5316,12 @@
       ]
     },
     "Confirmed":{
-      "max":"92472",
-      "mean":"192.6256559766764",
-      "median":"1.0",
+      "max":"101739",
+      "mean":"227.49781913346902",
+      "median":"2.0",
       "min":"0",
-      "std":"2779.114084276046",
-      "total":"660706",
+      "std":"3142.090661911463",
+      "total":"782365",
       "unique":[]
     },
     "Country/Region":{
@@ -5352,6 +5361,7 @@
         "Bhutan",
         "Bolivia",
         "Bosnia and Herzegovina",
+        "Botswana",
         "Brazil",
         "Brunei",
         "Bulgaria",
@@ -5503,12 +5513,12 @@
       ]
     },
     "Deaths":{
-      "max":"10023",
-      "mean":"8.936443148688047",
+      "max":"11591",
+      "mean":"10.92817679558011",
       "median":"0.0",
       "min":"0",
-      "std":"216.0222695068609",
-      "total":"30652",
+      "std":"255.75520676645576",
+      "total":"37582",
       "unique":[]
     },
     "FIPS":{
@@ -5521,7 +5531,7 @@
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-03-28 23:11:06",
+      "max":"2020-03-30 22:58:55",
       "mean":"",
       "median":"",
       "min":"2020-02-23 11:19:02",
@@ -5531,20 +5541,20 @@
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.88926694547522",
-      "median":"38.074726729999995",
+      "mean":"36.78623268244548",
+      "median":"38.05095369",
       "min":"-42.8821",
-      "std":"10.024525863142527",
-      "total":"126530.18562298",
+      "std":"10.217825311079231",
+      "total":"126507.85419493",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-82.83929458604666",
-      "median":"-89.07315762500002",
+      "mean":"-82.61535123179414",
+      "median":"-89.02452658",
       "min":"-170.132",
-      "std":"39.10542787835064",
-      "total":"-284138.78043014003",
+      "std":"39.300282407818486",
+      "total":"-284114.19288614",
       "unique":[]
     },
     "Province/State":{
@@ -5694,12 +5704,12 @@
       ]
     },
     "Recovered":{
-      "max":"62098",
-      "mean":"40.64577259475219",
+      "max":"62889",
+      "mean":"47.85286420471067",
       "median":"0.0",
       "min":"0",
-      "std":"1137.2510009664077",
-      "total":"139415",
+      "std":"1200.9184510636376",
+      "total":"164566",
       "unique":[]
     }
   },
@@ -5827,6 +5837,11 @@
       "alpha_2":"BA",
       "alpha_3":"BIH",
       "name":"Bosnia and Herzegovina"
+    },
+    "Botswana":{
+      "alpha_2":"BW",
+      "alpha_3":"BWA",
+      "name":"Botswana"
     },
     "Brazil":{
       "alpha_2":"BR",
@@ -6605,7 +6620,7 @@
     }
   },
   "data_meta":{
-    "md5":"2419b35318795af72e8b8c23fbfe0265",
-    "updated":"28 March, 2020  21:33:20"
+    "md5":"5705f458d18c164845c29f702df3ebee",
+    "updated":"30 March, 2020  23:38:51"
   }
 }
