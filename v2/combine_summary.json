@@ -1,11 +1,11 @@
 {
- "confirmed": "862761",
- "deaths": "42534",
- "recovered": "179127",
- "active_case": "641100",
- "new_case": "4444",
- "new_deaths": "232",
- "serious_case": "33191",
- "updated": "01 April, 2020  05:43:39",
+ "confirmed": "872910",
+ "deaths": "43271",
+ "recovered": "184588",
+ "active_case": "645051",
+ "new_case": "14593",
+ "new_deaths": "969",
+ "serious_case": "33444",
+ "updated": "01 April, 2020  06:43:40",
  "country": "197"
 }
