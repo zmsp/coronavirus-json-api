@@ -1,5 +1,8 @@
 {
     "csse_covid_19_daily_reports.csv": "1868297bc7048127c017a8fad0aff497",
+    "time_series_19-covid-Confirmed.csv": "a80a1586eb5f87526f1bc95ded180788",
+    "time_series_19-covid-Deaths.csv": "21acc24e17f3e5693f80ad8384d4f6ea",
+    "time_series_19-covid-Recovered.csv": "919dd7de8aeb35e297822c3656ae2a60"
     "time_series_19-covid-Confirmed.csv": "6cb875b80d51f9a26eb05db7f9779011",
     "time_series_19-covid-Deaths.csv": "6cb875b80d51f9a26eb05db7f9779011",
     "time_series_19-covid-Recovered.csv": "6cb875b80d51f9a26eb05db7f9779011"
