@@ -1,15 +1,15 @@
 {
- "confirmed": "1431689",
- "new_case": "772",
- "deaths": "82078",
- "new_deaths": "44",
+ "confirmed": "1431704",
+ "new_case": "787",
+ "deaths": "82080",
+ "new_deaths": "46",
  "recovered": "302150",
- "active_case": "1047461",
+ "active_case": "1047474",
  "serious_case": "47894",
  "case_per_1m": "98386",
  "death_per_1m": "3670",
- "total_test": "10243511",
- "test_per_1m": "942721",
- "updated": "07 April, 2020  22:41:28",
+ "total_test": "10246651",
+ "test_per_1m": "942777",
+ "updated": "07 April, 2020  23:41:21",
  "country": "203"
 }
