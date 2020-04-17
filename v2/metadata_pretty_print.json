@@ -2,10 +2,10 @@
   "columns_meta":{
     "Active":{
       "max":"111669",
-      "mean":"482.16272189349115",
+      "mean":"482.32127589608683",
       "median":"15.0",
       "min":"-54703",
-      "std":"4691.3610388381885",
+      "std":"4692.124431074058",
       "total":"1466739",
       "unique":[]
     },
@@ -4158,7 +4158,6 @@
         "Unassigned, New Jersey, US",
         "Unassigned, New Mexico, US",
         "Unassigned, New York, US",
-        "Unassigned, Northern Mariana Islands, US",
         "Unassigned, Ohio, US",
         "Unassigned, Oklahoma, US",
         "Unassigned, Oregon, US",
@@ -4704,10 +4703,10 @@
     },
     "Confirmed":{
       "max":"184948",
-      "mean":"707.6420118343195",
+      "mean":"707.8747122657021",
       "median":"16.0",
       "min":"0",
-      "std":"7131.5563434655205",
+      "std":"7132.717651531488",
       "total":"2152647",
       "unique":[]
     },
@@ -4908,10 +4907,10 @@
     },
     "Deaths":{
       "max":"22170",
-      "mean":"47.271860618014465",
+      "mean":"47.28740545873068",
       "median":"0.0",
       "min":"0",
-      "std":"726.2735114768811",
+      "std":"726.3924488452174",
       "total":"143801",
       "unique":[]
     },
@@ -4939,7 +4938,7 @@
       "median":"37.843679495",
       "min":"-51.7963",
       "std":"9.926477893920504",
-      "total":"109300.97628850999",
+      "total":"109300.97628851",
       "unique":[]
     },
     "Longitude":{
@@ -5010,7 +5009,6 @@
         "Connecticut",
         "Hawaii",
         "Delaware",
-        "Northern Mariana Islands",
         "Alberta",
         "Anguilla",
         "Anhui",
@@ -5063,6 +5061,7 @@
         "New South Wales",
         "Newfoundland and Labrador",
         "Ningxia",
+        "Northern Mariana Islands",
         "Northern Territory",
         "Northwest Territories",
         "Nova Scotia",
@@ -5101,10 +5100,10 @@
     },
     "Recovered":{
       "max":"77000",
-      "mean":"178.20742932281394",
+      "mean":"178.26603091088458",
       "median":"0.0",
       "min":"0",
-      "std":"2861.789097156494",
+      "std":"2862.257921950791",
       "total":"542107",
       "unique":[]
     }
@@ -6051,7 +6050,7 @@
     }
   },
   "data_meta":{
-    "md5":"035b8e5be91fc8b63a1a0f63d9e03fba",
-    "updated":"16 April, 2020  23:38:13"
+    "md5":"f8df3741f4675875de7edd4a516a0923",
+    "updated":"17 April, 2020  14:38:01"
   }
 }

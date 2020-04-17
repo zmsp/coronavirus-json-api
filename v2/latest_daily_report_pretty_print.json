@@ -35000,20 +35000,6 @@
     "Recovered":"0"
   },
   {
-    "Active":"6",
-    "Admin2":"Unassigned",
-    "Combined_Key":"Unassigned, Northern Mariana Islands, US",
-    "Confirmed":"7",
-    "Country/Region":"US",
-    "Deaths":"1",
-    "FIPS":"",
-    "Last Update":"2020-04-16 23:30:51",
-    "Latitude":"",
-    "Longitude":"",
-    "Province/State":"Northern Mariana Islands",
-    "Recovered":"0"
-  },
-  {
     "Active":"-16",
     "Admin2":"Unassigned",
     "Combined_Key":"Unassigned, Ohio, US",
@@ -39564,12 +39550,12 @@
     "Recovered":"75"
   },
   {
-    "Active":"5",
+    "Active":"11",
     "Admin2":"",
     "Combined_Key":"Northern Mariana Islands, US",
-    "Confirmed":"6",
+    "Confirmed":"13",
     "Country/Region":"US",
-    "Deaths":"1",
+    "Deaths":"2",
     "FIPS":"69",
     "Last Update":"2020-04-16 23:30:51",
     "Latitude":"15.0979",
