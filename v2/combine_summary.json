@@ -3,14 +3,14 @@
  "new_case": "1927",
  "deaths": "154266",
  "new_deaths": "121",
- "recovered": "570801",
- "active_case": "1525377",
+ "recovered": "570805",
+ "active_case": "1525373",
  "serious_case": "57136",
  "case_per_1m": "138862",
  "death_per_1m": "5924",
  "total_test": "19187437",
  "test_per_1m": "1530664",
  "empty": "0",
- "updated": "18 April, 2020  00:11:17",
+ "updated": "18 April, 2020  01:11:16",
  "country": "205"
 }
