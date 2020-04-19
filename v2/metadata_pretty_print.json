@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"114150",
-      "mean":"498.53070607553366",
+      "max":"122370",
+      "mean":"512.915165411071",
       "median":"16.0",
-      "min":"-58545",
-      "std":"4815.854214314209",
-      "total":"1518026",
+      "min":"-64840",
+      "std":"4962.9225518087205",
+      "total":"1565930",
       "unique":[]
     },
     "Admin2":{
@@ -427,6 +427,7 @@
         "Davis",
         "Davison",
         "Dawson",
+        "Day",
         "De Soto",
         "De Witt",
         "DeKalb",
@@ -801,6 +802,7 @@
         "Kit Carson",
         "Kitsap",
         "Kittitas",
+        "Kittson",
         "Klamath",
         "Kleberg",
         "Klickitat",
@@ -1238,6 +1240,7 @@
         "Ray",
         "Red Lake",
         "Red River",
+        "Red Willow",
         "Redwood",
         "Reeves",
         "Reno",
@@ -1946,6 +1949,7 @@
         "Butler, Kansas, US",
         "Butler, Kentucky, US",
         "Butler, Missouri, US",
+        "Butler, Nebraska, US",
         "Butler, Ohio, US",
         "Butler, Pennsylvania, US",
         "Butte, California, US",
@@ -2306,6 +2310,7 @@
         "Dawson, Georgia, US",
         "Dawson, Nebraska, US",
         "Dawson, Texas, US",
+        "Day, South Dakota, US",
         "De Soto, Louisiana, US",
         "De Witt, Illinois, US",
         "DeKalb, Alabama, US",
@@ -2642,6 +2647,7 @@
         "Grundy, Illinois, US",
         "Grundy, Iowa, US",
         "Grundy, Tennessee, US",
+        "Guadalupe, New Mexico, US",
         "Guadalupe, Texas, US",
         "Guernsey, Ohio, US",
         "Guilford, North Carolina, US",
@@ -2658,6 +2664,7 @@
         "Hall, Nebraska, US",
         "Hamblen, Tennessee, US",
         "Hamilton, Florida, US",
+        "Hamilton, Illinois, US",
         "Hamilton, Indiana, US",
         "Hamilton, Iowa, US",
         "Hamilton, Kansas, US",
@@ -2774,6 +2781,7 @@
         "Houston, Georgia, US",
         "Houston, Minnesota, US",
         "Houston, Tennessee, US",
+        "Houston, Texas, US",
         "Howard, Arkansas, US",
         "Howard, Indiana, US",
         "Howard, Iowa, US",
@@ -2958,6 +2966,7 @@
         "Kit Carson, Colorado, US",
         "Kitsap, Washington, US",
         "Kittitas, Washington, US",
+        "Kittson, Minnesota, US",
         "Klamath, Oregon, US",
         "Kleberg, Texas, US",
         "Klickitat, Washington, US",
@@ -3746,6 +3755,7 @@
         "Red Lake, Minnesota, US",
         "Red River, Louisiana, US",
         "Red River, Texas, US",
+        "Red Willow, Nebraska, US",
         "Redwood, Minnesota, US",
         "Reeves, Texas, US",
         "Reno, Kansas, US",
@@ -4304,6 +4314,7 @@
         "Waupaca, Wisconsin, US",
         "Waushara, Wisconsin, US",
         "Wayne, Georgia, US",
+        "Wayne, Illinois, US",
         "Wayne, Indiana, US",
         "Wayne, Kentucky, US",
         "Wayne, Michigan, US",
@@ -4708,12 +4719,12 @@
       ]
     },
     "Confirmed":{
-      "max":"190839",
-      "mean":"735.6949096880131",
-      "median":"17.0",
+      "max":"191726",
+      "mean":"759.1742548313134",
+      "median":"18.0",
       "min":"0",
-      "std":"7339.371868108833",
-      "total":"2240191",
+      "std":"7496.11244727432",
+      "total":"2317759",
       "unique":[]
     },
     "Country/Region":{
@@ -4912,25 +4923,25 @@
       ]
     },
     "Deaths":{
-      "max":"22745",
-      "mean":"50.51625615763547",
+      "max":"23227",
+      "mean":"52.24697019325254",
       "median":"0.0",
       "min":"0",
-      "std":"762.7546033313682",
-      "total":"153822",
+      "std":"779.5716864703066",
+      "total":"159510",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31204.153347732183",
-      "median":"29120.0",
+      "mean":"31205.280689160085",
+      "median":"29122.0",
       "min":"66.0",
-      "std":"17240.188801654673",
-      "total":"86685138.0",
+      "std":"17225.18557350926",
+      "total":"86937912.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-04-17 23:38:48",
+      "max":"2020-04-18 22:40:18",
       "mean":"",
       "median":"",
       "min":"2020-02-23 11:19:02",
@@ -4940,20 +4951,20 @@
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.66015539736771",
-      "median":"37.839621655",
+      "mean":"36.66849201301603",
+      "median":"37.848421724999994",
       "min":"-51.7963",
-      "std":"9.925733668090945",
-      "total":"109467.22401653999",
+      "std":"9.91738882085348",
+      "total":"109785.46508697",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-80.96855507261553",
-      "median":"-87.490390305",
+      "mean":"-81.00911211894122",
+      "median":"-87.56381214999999",
       "min":"-164.0353804",
-      "std":"40.204783288497666",
-      "total":"-241772.10544682998",
+      "std":"40.15955725244817",
+      "total":"-242541.28168411",
       "unique":[]
     },
     "Province/State":{
@@ -5105,12 +5116,12 @@
       ]
     },
     "Recovered":{
-      "max":"83114",
-      "mean":"186.647947454844",
+      "max":"85400",
+      "mean":"194.01211922698985",
       "median":"0.0",
       "min":"0",
-      "std":"2967.400895138762",
-      "total":"568343",
+      "std":"3060.045542097194",
+      "total":"592319",
       "unique":[]
     }
   },
@@ -6056,7 +6067,7 @@
     }
   },
   "data_meta":{
-    "md5":"5fb61e50c35b4f08ccdd425f662bdeec",
-    "updated":"17 April, 2020  20:07:23"
+    "md5":"e0d0e47bbdeac19280c28b643b7e2cb0",
+    "updated":"18 April, 2020  22:07:04"
   }
 }
