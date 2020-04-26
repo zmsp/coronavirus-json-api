@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"133827",
-      "mean":"581.9798593350383",
-      "median":"20.0",
-      "min":"-99079",
-      "std":"5583.523656670778",
-      "total":"1820433",
+      "max":"137987",
+      "mean":"598.9837268666241",
+      "median":"21.0",
+      "min":"-100372",
+      "std":"5688.204207173999",
+      "total":"1877215",
       "unique":[]
     },
     "Admin2":{
@@ -874,6 +874,7 @@
         "Leelanau",
         "Leflore",
         "Lehigh",
+        "Lemhi",
         "Lenawee",
         "Lenoir",
         "Leon",
@@ -1174,6 +1175,7 @@
         "Peach",
         "Pearl River",
         "Pecos",
+        "Pembina",
         "Pemiscot",
         "Pend Oreille",
         "Pender",
@@ -2875,6 +2877,7 @@
         "Huron, Ohio, US",
         "Hutchinson, South Dakota, US",
         "Hutchinson, Texas, US",
+        "Hyde, North Carolina, US",
         "Hyde, South Dakota, US",
         "Iberia, Louisiana, US",
         "Iberville, Louisiana, US",
@@ -3142,6 +3145,7 @@
         "Leelanau, Michigan, US",
         "Leflore, Mississippi, US",
         "Lehigh, Pennsylvania, US",
+        "Lemhi, Idaho, US",
         "Lenawee, Michigan, US",
         "Lenoir, North Carolina, US",
         "Leon, Florida, US",
@@ -3263,6 +3267,7 @@
         "Madison, Montana, US",
         "Madison, Nebraska, US",
         "Madison, New York, US",
+        "Madison, North Carolina, US",
         "Madison, Ohio, US",
         "Madison, Tennessee, US",
         "Madison, Texas, US",
@@ -3363,6 +3368,7 @@
         "McMinn, Tennessee, US",
         "McNairy, Tennessee, US",
         "McPherson, Kansas, US",
+        "McPherson, South Dakota, US",
         "Meade, Kansas, US",
         "Meade, Kentucky, US",
         "Meade, South Dakota, US",
@@ -3683,6 +3689,7 @@
         "Peach, Georgia, US",
         "Pearl River, Mississippi, US",
         "Pecos, Texas, US",
+        "Pembina, North Dakota, US",
         "Pemiscot, Missouri, US",
         "Pend Oreille, Washington, US",
         "Pender, North Carolina, US",
@@ -4302,6 +4309,7 @@
         "Union, Louisiana, US",
         "Union, Mississippi, US",
         "Union, New Jersey, US",
+        "Union, New Mexico, US",
         "Union, North Carolina, US",
         "Union, Ohio, US",
         "Union, Oregon, US",
@@ -4830,12 +4838,12 @@
       ]
     },
     "Confirmed":{
-      "max":"219764",
-      "mean":"898.718989769821",
+      "max":"223759",
+      "mean":"924.2967453733248",
       "median":"22.0",
       "min":"0",
-      "std":"8455.29044699293",
-      "total":"2811193",
+      "std":"8630.977146737752",
+      "total":"2896746",
       "unique":[]
     },
     "Country/Region":{
@@ -5034,25 +5042,25 @@
       ]
     },
     "Deaths":{
-      "max":"25969",
-      "mean":"63.03037084398977",
+      "max":"26384",
+      "mean":"64.72431397574984",
       "median":"1.0",
       "min":"0",
-      "std":"898.3020261901681",
-      "total":"197159",
+      "std":"917.7754537644188",
+      "total":"202846",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31342.47969187675",
-      "median":"29140.0",
+      "mean":"31349.967155835082",
+      "median":"29144.0",
       "min":"66.0",
-      "std":"17333.144741911976",
-      "total":"89514122.0",
+      "std":"17320.775991676346",
+      "total":"89723606.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-04-25 06:31:19",
+      "max":"2020-04-26 02:31:18",
       "mean":"",
       "median":"",
       "min":"2020-02-23 11:19:02",
@@ -5062,20 +5070,20 @@
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.71430875660026",
+      "mean":"36.72309165091265",
       "median":"37.854778735",
       "min":"-51.7963",
-      "std":"9.833358389349566",
-      "total":"112419.21341271",
+      "std":"9.828665029359652",
+      "total":"112666.445185",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.42099627166884",
-      "median":"-87.91502091000001",
+      "mean":"-81.44854346787157",
+      "median":"-87.944396465",
       "min":"-164.0353804",
-      "std":"39.82030868059907",
-      "total":"-249311.09058385",
+      "std":"39.79013785400399",
+      "total":"-249884.13135943",
       "unique":[]
     },
     "Province/State":{
@@ -5227,11 +5235,11 @@
     },
     "Recovered":{
       "max":"109800",
-      "mean":"253.70875959079285",
+      "mean":"260.58870453095085",
       "median":"0.0",
       "min":"0",
-      "std":"3874.3285724535167",
-      "total":"793601",
+      "std":"3947.1828414612355",
+      "total":"816685",
       "unique":[]
     }
   },
@@ -6177,7 +6185,7 @@
     }
   },
   "data_meta":{
-    "md5":"8a5ba2a4e16fbc43f7d4aa1601a2c4e4",
-    "updated":"25 April, 2020  13:26:33"
+    "md5":"2416c8cb1aad2ce0f54765640fdd5c1f",
+    "updated":"25 April, 2020  23:23:29"
   }
 }
