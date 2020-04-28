@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"137987",
-      "mean":"598.9837268666241",
+      "max":"140978",
+      "mean":"604.45544239338",
       "median":"21.0",
-      "min":"-100372",
-      "std":"5688.204207173999",
-      "total":"1877215",
+      "min":"-106988",
+      "std":"5709.022199143721",
+      "total":"1899199",
       "unique":[]
     },
     "Admin2":{
@@ -73,6 +73,7 @@
         "Arlington",
         "Armstrong",
         "Aroostook",
+        "Arthur",
         "Ascension",
         "Ashe",
         "Ashland",
@@ -434,6 +435,7 @@
         "Daviess",
         "Davis",
         "Davison",
+        "Dawes",
         "Dawson",
         "Day",
         "De Soto",
@@ -662,6 +664,7 @@
         "Hampshire",
         "Hampton",
         "Hancock",
+        "Hand",
         "Hanover",
         "Hansford",
         "Haralson",
@@ -1262,6 +1265,7 @@
         "Randall",
         "Randolph",
         "Rankin",
+        "Ransom",
         "Rapides",
         "Rappahannock",
         "Ravalli",
@@ -1781,6 +1785,7 @@
         "Armstrong, Pennsylvania, US",
         "Armstrong, Texas, US",
         "Aroostook, Maine, US",
+        "Arthur, Nebraska, US",
         "Ascension, Louisiana, US",
         "Ashe, North Carolina, US",
         "Ashland, Ohio, US",
@@ -2360,6 +2365,7 @@
         "Daviess, Missouri, US",
         "Davis, Utah, US",
         "Davison, South Dakota, US",
+        "Dawes, Nebraska, US",
         "Dawson, Georgia, US",
         "Dawson, Nebraska, US",
         "Dawson, Texas, US",
@@ -2479,6 +2485,7 @@
         "Elmore, Alabama, US",
         "Elmore, Idaho, US",
         "Emanuel, Georgia, US",
+        "Emmet, Iowa, US",
         "Emmet, Michigan, US",
         "Emmons, North Dakota, US",
         "Emporia, Virginia, US",
@@ -2630,6 +2637,7 @@
         "Giles, Virginia, US",
         "Gillespie, Texas, US",
         "Gilmer, Georgia, US",
+        "Gilmer, West Virginia, US",
         "Gilpin, Colorado, US",
         "Glacier, Montana, US",
         "Glades, Florida, US",
@@ -2753,6 +2761,7 @@
         "Hancock, Ohio, US",
         "Hancock, Tennessee, US",
         "Hancock, West Virginia, US",
+        "Hand, South Dakota, US",
         "Hanover, Virginia, US",
         "Hansford, Texas, US",
         "Haralson, Georgia, US",
@@ -2953,6 +2962,7 @@
         "Jefferson, Mississippi, US",
         "Jefferson, Missouri, US",
         "Jefferson, Montana, US",
+        "Jefferson, Nebraska, US",
         "Jefferson, New York, US",
         "Jefferson, Ohio, US",
         "Jefferson, Oklahoma, US",
@@ -3845,6 +3855,7 @@
         "Randolph, North Carolina, US",
         "Randolph, West Virginia, US",
         "Rankin, Mississippi, US",
+        "Ransom, North Dakota, US",
         "Rapides, Louisiana, US",
         "Rappahannock, Virginia, US",
         "Ravalli, Montana, US",
@@ -3944,6 +3955,7 @@
         "San Francisco, California, US",
         "San Jacinto, Texas, US",
         "San Joaquin, California, US",
+        "San Juan, Colorado, US",
         "San Juan, New Mexico, US",
         "San Juan, Utah, US",
         "San Juan, Washington, US",
@@ -4838,12 +4850,12 @@
       ]
     },
     "Confirmed":{
-      "max":"223759",
-      "mean":"924.2967453733248",
-      "median":"22.0",
+      "max":"226629",
+      "mean":"945.7272437937619",
+      "median":"23.0",
       "min":"0",
-      "std":"8630.977146737752",
-      "total":"2896746",
+      "std":"8771.041949237155",
+      "total":"2971475",
       "unique":[]
     },
     "Country/Region":{
@@ -5042,25 +5054,25 @@
       ]
     },
     "Deaths":{
-      "max":"26384",
-      "mean":"64.72431397574984",
+      "max":"26644",
+      "mean":"65.73647358370465",
       "median":"1.0",
       "min":"0",
-      "std":"917.7754537644188",
-      "total":"202846",
+      "std":"928.5432459668916",
+      "total":"206544",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31349.967155835082",
-      "median":"29144.0",
+      "mean":"31352.640418118466",
+      "median":"29148.0",
       "min":"66.0",
-      "std":"17320.775991676346",
-      "total":"89723606.0",
+      "std":"17311.383165712443",
+      "total":"89982078.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-04-26 02:31:18",
+      "max":"2020-04-27 02:31:20",
       "mean":"",
       "median":"",
       "min":"2020-02-23 11:19:02",
@@ -5070,20 +5082,20 @@
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.72309165091265",
-      "median":"37.854778735",
+      "mean":"36.73666404128738",
+      "median":"37.87739999",
       "min":"-51.7963",
-      "std":"9.828665029359652",
-      "total":"112666.445185",
+      "std":"9.820458298124441",
+      "total":"113001.97859099999",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.44854346787157",
-      "median":"-87.944396465",
+      "mean":"-81.4908898013394",
+      "median":"-87.96208597",
       "min":"-164.0353804",
-      "std":"39.79013785400399",
-      "total":"-249884.13135943",
+      "std":"39.74879815736844",
+      "total":"-250665.97702892",
       "unique":[]
     },
     "Province/State":{
@@ -5234,12 +5246,12 @@
       ]
     },
     "Recovered":{
-      "max":"109800",
-      "mean":"260.58870453095085",
+      "max":"117727",
+      "mean":"275.535646085296",
       "median":"0.0",
       "min":"0",
-      "std":"3947.1828414612355",
-      "total":"816685",
+      "std":"4229.310722489322",
+      "total":"865733",
       "unique":[]
     }
   },
@@ -6185,7 +6197,7 @@
     }
   },
   "data_meta":{
-    "md5":"2416c8cb1aad2ce0f54765640fdd5c1f",
-    "updated":"25 April, 2020  23:23:29"
+    "md5":"fe7d0ce7ae5fd4124781eedba2f25b9b",
+    "updated":"27 April, 2020  21:23:44"
   }
 }
