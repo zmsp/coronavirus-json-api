@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"140978",
-      "mean":"604.45544239338",
+      "max":"142974",
+      "mean":"614.4130710659898",
       "median":"21.0",
-      "min":"-106988",
-      "std":"5709.022199143721",
-      "total":"1899199",
+      "min":"-111424",
+      "std":"5810.999920624103",
+      "total":"1936630",
       "unique":[]
     },
     "Admin2":{
@@ -390,6 +390,7 @@
         "Coryell",
         "Coshocton",
         "Costilla",
+        "Cottle",
         "Cotton",
         "Cottonwood",
         "Covington",
@@ -1217,6 +1218,7 @@
         "Pleasants",
         "Plumas",
         "Plymouth",
+        "Pocahontas",
         "Poinsett",
         "Pointe Coupee",
         "Polk",
@@ -1251,6 +1253,7 @@
         "Prowers",
         "Pueblo",
         "Pulaski",
+        "Pushmataha",
         "Putnam",
         "Quay",
         "Queen Anne's",
@@ -1396,6 +1399,7 @@
         "Simpson",
         "Sioux",
         "Siskiyou",
+        "Sitka",
         "Skagit",
         "Skamania",
         "Slope",
@@ -2030,6 +2034,7 @@
         "Camden, Georgia, US",
         "Camden, Missouri, US",
         "Camden, New Jersey, US",
+        "Camden, North Carolina, US",
         "Cameron, Louisiana, US",
         "Cameron, Pennsylvania, US",
         "Cameron, Texas, US",
@@ -2286,6 +2291,7 @@
         "Coryell, Texas, US",
         "Coshocton, Ohio, US",
         "Costilla, Colorado, US",
+        "Cottle, Texas, US",
         "Cotton, Oklahoma, US",
         "Cottonwood, Minnesota, US",
         "Covington, Alabama, US",
@@ -3543,6 +3549,7 @@
         "Nelson, Kentucky, US",
         "Nelson, North Dakota, US",
         "Nelson, Virginia, US",
+        "Nemaha, Kansas, US",
         "Nemaha, Nebraska, US",
         "Neosho, Kansas, US",
         "Neshoba, Mississippi, US",
@@ -3771,6 +3778,8 @@
         "Plumas, California, US",
         "Plymouth, Iowa, US",
         "Plymouth, Massachusetts, US",
+        "Pocahontas, Iowa, US",
+        "Pocahontas, West Virginia, US",
         "Poinsett, Arkansas, US",
         "Pointe Coupee, Louisiana, US",
         "Polk, Arkansas, US",
@@ -3826,6 +3835,7 @@
         "Pulaski, Kentucky, US",
         "Pulaski, Missouri, US",
         "Pulaski, Virginia, US",
+        "Pushmataha, Oklahoma, US",
         "Putnam, Florida, US",
         "Putnam, Georgia, US",
         "Putnam, Indiana, US",
@@ -4050,6 +4060,7 @@
         "Sioux, Iowa, US",
         "Sioux, North Dakota, US",
         "Siskiyou, California, US",
+        "Sitka, Alaska, US",
         "Skagit, Washington, US",
         "Skamania, Washington, US",
         "Slope, North Dakota, US",
@@ -4337,6 +4348,7 @@
         "Val Verde, Texas, US",
         "Valencia, New Mexico, US",
         "Valley, Idaho, US",
+        "Valley, Nebraska, US",
         "Van Buren, Arkansas, US",
         "Van Buren, Iowa, US",
         "Van Buren, Michigan, US",
@@ -4601,6 +4613,7 @@
         "Fujian, China",
         "Gansu, China",
         "Gibraltar, United Kingdom",
+        "Grand Princess, Canada",
         "Grand Princess, US",
         "Greenland, Denmark",
         "Guadeloupe, France",
@@ -4632,6 +4645,7 @@
         "Ningxia, China",
         "Northern Mariana Islands, US",
         "Northwest Territories, Canada",
+        "Nova Scotia, Canada",
         "Ontario, Canada",
         "Prince Edward Island, Canada",
         "Puerto Rico, US",
@@ -4850,12 +4864,12 @@
       ]
     },
     "Confirmed":{
-      "max":"226629",
-      "mean":"945.7272437937619",
-      "median":"23.0",
+      "max":"229422",
+      "mean":"965.0266497461929",
+      "median":"24.0",
       "min":"0",
-      "std":"8771.041949237155",
-      "total":"2971475",
+      "std":"8911.69675367372",
+      "total":"3041764",
       "unique":[]
     },
     "Country/Region":{
@@ -5054,25 +5068,25 @@
       ]
     },
     "Deaths":{
-      "max":"26644",
-      "mean":"65.73647358370465",
+      "max":"26977",
+      "mean":"66.99460659898477",
       "median":"1.0",
       "min":"0",
-      "std":"928.5432459668916",
-      "total":"206544",
+      "std":"941.876278732682",
+      "total":"211167",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31352.640418118466",
-      "median":"29148.0",
+      "mean":"31353.053161918",
+      "median":"29150.0",
       "min":"66.0",
-      "std":"17311.383165712443",
-      "total":"89982078.0",
+      "std":"17307.68934380246",
+      "total":"90234087.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-04-27 02:31:20",
+      "max":"2020-04-28 02:31:20",
       "mean":"",
       "median":"",
       "min":"2020-02-23 11:19:02",
@@ -5082,20 +5096,20 @@
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.73666404128738",
-      "median":"37.87739999",
+      "mean":"36.74915611724473",
+      "median":"37.8865336",
       "min":"-51.7963",
-      "std":"9.820458298124441",
-      "total":"113001.97859099999",
+      "std":"9.815485216509467",
+      "total":"113371.1466217",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.4908898013394",
-      "median":"-87.96208597",
+      "mean":"-81.52561966762075",
+      "median":"-87.97862712",
       "min":"-164.0353804",
-      "std":"39.74879815736844",
-      "total":"-250665.97702892",
+      "std":"39.70903599919574",
+      "total":"-251506.53667461002",
       "unique":[]
     },
     "Province/State":{
@@ -5209,6 +5223,7 @@
         "Ningxia",
         "Northern Mariana Islands",
         "Northwest Territories",
+        "Nova Scotia",
         "Ontario",
         "Prince Edward Island",
         "Puerto Rico",
@@ -5246,12 +5261,12 @@
       ]
     },
     "Recovered":{
-      "max":"117727",
-      "mean":"275.535646085296",
+      "max":"120832",
+      "mean":"283.61897208121826",
       "median":"0.0",
       "min":"0",
-      "std":"4229.310722489322",
-      "total":"865733",
+      "std":"4341.237453119629",
+      "total":"893967",
       "unique":[]
     }
   },
@@ -6197,7 +6212,7 @@
     }
   },
   "data_meta":{
-    "md5":"fe7d0ce7ae5fd4124781eedba2f25b9b",
-    "updated":"27 April, 2020  21:23:44"
+    "md5":"eec8eb4b16f2a789c97b259c0f550de1",
+    "updated":"27 April, 2020  23:23:28"
   }
 }
