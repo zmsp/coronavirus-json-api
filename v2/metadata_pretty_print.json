@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"144656",
-      "mean":"623.0120139108442",
-      "median":"22.0",
-      "min":"-115936",
-      "std":"5899.3461510021",
-      "total":"1970587",
+      "max":"149409",
+      "mean":"640.3503305004722",
+      "median":"23.0",
+      "min":"-128259",
+      "std":"6045.269815902858",
+      "total":"2034393",
       "unique":[]
     },
     "Admin2":{
@@ -542,6 +542,7 @@
         "Fayette",
         "Federal Correctional Institution (FCI)",
         "Fentress",
+        "Fergus",
         "Ferry",
         "Fillmore",
         "Finney",
@@ -568,6 +569,7 @@
         "Fremont",
         "Fresno",
         "Frio",
+        "Frontier",
         "Fulton",
         "Furnas",
         "Gadsden",
@@ -582,6 +584,7 @@
         "Garrard",
         "Garrett",
         "Garvin",
+        "Garza",
         "Gasconade",
         "Gaston",
         "Gates",
@@ -603,6 +606,7 @@
         "Glacier",
         "Glades",
         "Gladwin",
+        "Glasscock",
         "Glenn",
         "Gloucester",
         "Glynn",
@@ -711,6 +715,7 @@
         "Hillsdale",
         "Hinds",
         "Hinsdale",
+        "Hitchcock",
         "Hocking",
         "Hockley",
         "Hoke",
@@ -894,6 +899,7 @@
         "Limestone",
         "Lincoln",
         "Linn",
+        "Lipscomb",
         "Litchfield",
         "Live Oak",
         "Livingston",
@@ -1399,6 +1405,7 @@
         "Sherman",
         "Shiawassee",
         "Sibley",
+        "Sierra",
         "Silver Bow",
         "Simpson",
         "Sioux",
@@ -1485,6 +1492,7 @@
         "Sussex",
         "Sutter",
         "Suwannee",
+        "Swain",
         "Sweetwater",
         "Swift",
         "Swisher",
@@ -2377,6 +2385,7 @@
         "Daviess, Indiana, US",
         "Daviess, Kentucky, US",
         "Daviess, Missouri, US",
+        "Davis, Iowa, US",
         "Davis, Utah, US",
         "Davison, South Dakota, US",
         "Dawes, Nebraska, US",
@@ -2492,6 +2501,7 @@
         "El Paso, Texas, US",
         "Elbert, Colorado, US",
         "Elbert, Georgia, US",
+        "Elk, Kansas, US",
         "Elk, Pennsylvania, US",
         "Elkhart, Indiana, US",
         "Elko, Nevada, US",
@@ -2547,6 +2557,7 @@
         "Fayette, West Virginia, US",
         "Federal Correctional Institution (FCI), Michigan, US",
         "Fentress, Tennessee, US",
+        "Fergus, Montana, US",
         "Ferry, Washington, US",
         "Fillmore, Minnesota, US",
         "Fillmore, Nebraska, US",
@@ -2607,6 +2618,7 @@
         "Fremont, Wyoming, US",
         "Fresno, California, US",
         "Frio, Texas, US",
+        "Frontier, Nebraska, US",
         "Fulton, Arkansas, US",
         "Fulton, Georgia, US",
         "Fulton, Illinois, US",
@@ -2632,6 +2644,7 @@
         "Garrard, Kentucky, US",
         "Garrett, Maryland, US",
         "Garvin, Oklahoma, US",
+        "Garza, Texas, US",
         "Gasconade, Missouri, US",
         "Gaston, North Carolina, US",
         "Gates, North Carolina, US",
@@ -2657,6 +2670,7 @@
         "Glacier, Montana, US",
         "Glades, Florida, US",
         "Gladwin, Michigan, US",
+        "Glasscock, Texas, US",
         "Glenn, California, US",
         "Gloucester, New Jersey, US",
         "Gloucester, Virginia, US",
@@ -2794,6 +2808,7 @@
         "Harford, Maryland, US",
         "Harnett, North Carolina, US",
         "Harney, Oregon, US",
+        "Harper, Kansas, US",
         "Harper, Oklahoma, US",
         "Harris, Georgia, US",
         "Harris, Texas, US",
@@ -2857,6 +2872,7 @@
         "Hillsdale, Michigan, US",
         "Hinds, Mississippi, US",
         "Hinsdale, Colorado, US",
+        "Hitchcock, Nebraska, US",
         "Hocking, Ohio, US",
         "Hockley, Texas, US",
         "Hoke, North Carolina, US",
@@ -3223,6 +3239,7 @@
         "Linn, Kansas, US",
         "Linn, Missouri, US",
         "Linn, Oregon, US",
+        "Lipscomb, Texas, US",
         "Litchfield, Connecticut, US",
         "Live Oak, Texas, US",
         "Livingston, Illinois, US",
@@ -4069,6 +4086,7 @@
         "Sherman, Texas, US",
         "Shiawassee, Michigan, US",
         "Sibley, Minnesota, US",
+        "Sierra, New Mexico, US",
         "Silver Bow, Montana, US",
         "Simpson, Kentucky, US",
         "Simpson, Mississippi, US",
@@ -4196,6 +4214,7 @@
         "Sussex, Virginia, US",
         "Sutter, California, US",
         "Suwannee, Florida, US",
+        "Swain, North Carolina, US",
         "Sweetwater, Wyoming, US",
         "Swift, Minnesota, US",
         "Swisher, Texas, US",
@@ -4440,6 +4459,7 @@
         "Washington, Illinois, US",
         "Washington, Indiana, US",
         "Washington, Iowa, US",
+        "Washington, Kansas, US",
         "Washington, Kentucky, US",
         "Washington, Louisiana, US",
         "Washington, Maine, US",
@@ -4732,6 +4752,7 @@
         "Chad",
         "Chile",
         "Colombia",
+        "Comoros",
         "Congo (Brazzaville)",
         "Congo (Kinshasa)",
         "Costa Rica",
@@ -4858,6 +4879,7 @@
         "Switzerland",
         "Syria",
         "Taiwan*",
+        "Tajikistan",
         "Tanzania",
         "Thailand",
         "Timor-Leste",
@@ -4881,12 +4903,12 @@
       ]
     },
     "Confirmed":{
-      "max":"232128",
-      "mean":"985.2665191274107",
-      "median":"24.0",
+      "max":"213435",
+      "mean":"1025.1325149512118",
+      "median":"26.0",
       "min":"0",
-      "std":"9054.53710455914",
-      "total":"3116398",
+      "std":"9166.328265314844",
+      "total":"3256846",
       "unique":[]
     },
     "Country/Region":{
@@ -4940,6 +4962,7 @@
         "Chad",
         "Chile",
         "Colombia",
+        "Comoros",
         "Congo (Brazzaville)",
         "Congo (Kinshasa)",
         "Costa Rica",
@@ -5063,6 +5086,7 @@
         "Switzerland",
         "Syria",
         "Taiwan*",
+        "Tajikistan",
         "Tanzania",
         "Thailand",
         "Timor-Leste",
@@ -5085,48 +5109,48 @@
       ]
     },
     "Deaths":{
-      "max":"27359",
-      "mean":"68.65412582990831",
+      "max":"27967",
+      "mean":"73.46175637393767",
       "median":"1.0",
       "min":"0",
-      "std":"956.4347117702715",
-      "total":"217153",
+      "std":"1017.1239075579766",
+      "total":"233388",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31355.967462789893",
-      "median":"29151.0",
+      "mean":"31360.153740089623",
+      "median":"29157.0",
       "min":"66.0",
-      "std":"17293.75097675151",
-      "total":"90587390.0",
+      "std":"17272.24098046893",
+      "total":"90975806.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-04-29 02:32:29",
+      "max":"2020-05-01 02:32:28",
       "mean":"",
       "median":"",
-      "min":"2020-04-29 02:32:29",
+      "min":"2020-05-01 02:32:28",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.759550943824294",
-      "median":"37.88912801",
+      "mean":"36.74851304372991",
+      "median":"37.886944514999996",
       "min":"-51.7963",
-      "std":"9.802634915078334",
-      "total":"113807.56972208",
+      "std":"9.822556266787771",
+      "total":"114287.875566",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.58153693483204",
-      "median":"-88.00389884500001",
+      "mean":"-81.55951036705788",
+      "median":"-88.063953045",
       "min":"-164.0353804",
-      "std":"39.65643891512746",
-      "total":"-252576.43835024",
+      "std":"39.74186544518223",
+      "total":"-253650.07724155",
       "unique":[]
     },
     "Province/State":{
@@ -5278,12 +5302,12 @@
       ]
     },
     "Recovered":{
-      "max":"123903",
-      "mean":"293.60037938665823",
+      "max":"153947",
+      "mean":"319.4060434372049",
       "median":"0.0",
       "min":"0",
-      "std":"4467.476031637695",
-      "total":"928658",
+      "std":"4865.67395528174",
+      "total":"1014753",
       "unique":[]
     }
   },
@@ -5491,6 +5515,11 @@
       "alpha_2":"CO",
       "alpha_3":"COL",
       "name":"Colombia"
+    },
+    "Comoros":{
+      "alpha_2":"KM",
+      "alpha_3":"COM",
+      "name":"Comoros"
     },
     "Congo (Brazzaville)":{
       "alpha_2":"XX",
@@ -6122,6 +6151,11 @@
       "alpha_3":"TWN",
       "name":"Taiwan, Province of China"
     },
+    "Tajikistan":{
+      "alpha_2":"TJ",
+      "alpha_3":"TJK",
+      "name":"Tajikistan"
+    },
     "Tanzania":{
       "alpha_2":"TZ",
       "alpha_3":"TZA",
@@ -6229,7 +6263,7 @@
     }
   },
   "data_meta":{
-    "md5":"a08d0fe0e08540d8e759bae3a439965b",
-    "updated":"28 April, 2020  23:23:31"
+    "md5":"e9e1070f4152665115481dee9ed00696",
+    "updated":"30 April, 2020  23:12:10"
   }
 }
