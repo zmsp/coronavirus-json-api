@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"149409",
-      "mean":"640.3503305004722",
-      "median":"23.0",
-      "min":"-128259",
-      "std":"6045.269815902858",
-      "total":"2034393",
+      "max":"151291",
+      "mean":"652.5956712672522",
+      "median":"24.0",
+      "min":"-135340",
+      "std":"6179.210282271188",
+      "total":"2080475",
       "unique":[]
     },
     "Admin2":{
@@ -199,6 +199,7 @@
         "Breckinridge",
         "Bremer",
         "Brevard",
+        "Brewster",
         "Bristol",
         "Broadwater",
         "Brooke",
@@ -794,6 +795,7 @@
         "Juniata",
         "Kalamazoo",
         "Kalkaska",
+        "Kanabec",
         "Kanawha",
         "Kandiyohi",
         "Kane",
@@ -1333,6 +1335,7 @@
         "Rutherford",
         "Rutland",
         "Sabine",
+        "Sac",
         "Sacramento",
         "Sagadahoc",
         "Saginaw",
@@ -1963,6 +1966,7 @@
         "Breckinridge, Kentucky, US",
         "Bremer, Iowa, US",
         "Brevard, Florida, US",
+        "Brewster, Texas, US",
         "Bristol, Massachusetts, US",
         "Bristol, Rhode Island, US",
         "Bristol, Virginia, US",
@@ -1974,6 +1978,7 @@
         "Broome, New York, US",
         "Broomfield, Colorado, US",
         "Broward, Florida, US",
+        "Brown, Illinois, US",
         "Brown, Indiana, US",
         "Brown, Minnesota, US",
         "Brown, Ohio, US",
@@ -2035,6 +2040,7 @@
         "Calhoun, Florida, US",
         "Calhoun, Georgia, US",
         "Calhoun, Illinois, US",
+        "Calhoun, Iowa, US",
         "Calhoun, Michigan, US",
         "Calhoun, Mississippi, US",
         "Calhoun, South Carolina, US",
@@ -2408,6 +2414,7 @@
         "Dearborn, Indiana, US",
         "Decatur, Georgia, US",
         "Decatur, Indiana, US",
+        "Decatur, Iowa, US",
         "Decatur, Tennessee, US",
         "Deer Lodge, Montana, US",
         "Defiance, Ohio, US",
@@ -2428,6 +2435,7 @@
         "Desha, Arkansas, US",
         "Deuel, South Dakota, US",
         "Dewey, Oklahoma, US",
+        "Dewey, South Dakota, US",
         "Dickens, Texas, US",
         "Dickenson, Virginia, US",
         "Dickinson, Iowa, US",
@@ -2569,6 +2577,7 @@
         "Florence, Wisconsin, US",
         "Floyd, Georgia, US",
         "Floyd, Indiana, US",
+        "Floyd, Iowa, US",
         "Floyd, Kentucky, US",
         "Floyd, Texas, US",
         "Floyd, Virginia, US",
@@ -3043,6 +3052,7 @@
         "Juniata, Pennsylvania, US",
         "Kalamazoo, Michigan, US",
         "Kalkaska, Michigan, US",
+        "Kanabec, Minnesota, US",
         "Kanawha, West Virginia, US",
         "Kandiyohi, Minnesota, US",
         "Kane, Illinois, US",
@@ -3234,6 +3244,7 @@
         "Lincoln, Tennessee, US",
         "Lincoln, Washington, US",
         "Lincoln, West Virginia, US",
+        "Lincoln, Wisconsin, US",
         "Lincoln, Wyoming, US",
         "Linn, Iowa, US",
         "Linn, Kansas, US",
@@ -3623,6 +3634,7 @@
         "Northampton, Virginia, US",
         "Northumberland, Pennsylvania, US",
         "Northumberland, Virginia, US",
+        "Norton, Kansas, US",
         "Norton, Virginia, US",
         "Nottoway, Virginia, US",
         "Nowata, Oklahoma, US",
@@ -3910,6 +3922,7 @@
         "Reno, Kansas, US",
         "Rensselaer, New York, US",
         "Renville, Minnesota, US",
+        "Renville, North Dakota, US",
         "Republic, Kansas, US",
         "Reynolds, Missouri, US",
         "Rhea, Tennessee, US",
@@ -3976,6 +3989,7 @@
         "Rutland, Vermont, US",
         "Sabine, Louisiana, US",
         "Sabine, Texas, US",
+        "Sac, Iowa, US",
         "Sacramento, California, US",
         "Sagadahoc, Maine, US",
         "Saginaw, Michigan, US",
@@ -4324,7 +4338,6 @@
         "Unassigned, Kentucky, US",
         "Unassigned, Louisiana, US",
         "Unassigned, Maine, US",
-        "Unassigned, Maryland, US",
         "Unassigned, Massachusetts, US",
         "Unassigned, Michigan, US",
         "Unassigned, Minnesota, US",
@@ -4491,6 +4504,7 @@
         "Wayne, Georgia, US",
         "Wayne, Illinois, US",
         "Wayne, Indiana, US",
+        "Wayne, Iowa, US",
         "Wayne, Kentucky, US",
         "Wayne, Michigan, US",
         "Wayne, Mississippi, US",
@@ -4904,11 +4918,11 @@
     },
     "Confirmed":{
       "max":"213435",
-      "mean":"1025.1325149512118",
-      "median":"26.0",
+      "mean":"1048.8635508155583",
+      "median":"27.0",
       "min":"0",
-      "std":"9166.328265314844",
-      "total":"3256846",
+      "std":"9301.764103658747",
+      "total":"3343777",
       "unique":[]
     },
     "Country/Region":{
@@ -5109,48 +5123,48 @@
       ]
     },
     "Deaths":{
-      "max":"27967",
-      "mean":"73.46175637393767",
+      "max":"28236",
+      "mean":"74.85884567126725",
       "median":"1.0",
       "min":"0",
-      "std":"1017.1239075579766",
-      "total":"233388",
+      "std":"1029.4993062712451",
+      "total":"238650",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31360.153740089623",
-      "median":"29157.0",
+      "mean":"31329.914835164836",
+      "median":"29150.0",
       "min":"66.0",
-      "std":"17272.24098046893",
-      "total":"90975806.0",
+      "std":"17227.208281328858",
+      "total":"91232712.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-01 02:32:28",
+      "max":"2020-05-02 02:32:27",
       "mean":"",
       "median":"",
-      "min":"2020-05-01 02:32:28",
+      "min":"2020-05-02 02:32:27",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.74851304372991",
-      "median":"37.886944514999996",
+      "mean":"36.76870604764254",
+      "median":"37.921945775",
       "min":"-51.7963",
-      "std":"9.822556266787771",
-      "total":"114287.875566",
+      "std":"9.813030236335447",
+      "total":"114791.90028074",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.55951036705788",
-      "median":"-88.063953045",
+      "mean":"-81.6140904267585",
+      "median":"-88.09247061000002",
       "min":"-164.0353804",
-      "std":"39.74186544518223",
-      "total":"-253650.07724155",
+      "std":"39.676020255432114",
+      "total":"-254799.19031234",
       "unique":[]
     },
     "Province/State":{
@@ -5302,12 +5316,12 @@
       ]
     },
     "Recovered":{
-      "max":"153947",
-      "mean":"319.4060434372049",
+      "max":"164015",
+      "mean":"330.4037013801757",
       "median":"0.0",
       "min":"0",
-      "std":"4865.67395528174",
-      "total":"1014753",
+      "std":"5033.0538970930675",
+      "total":"1053327",
       "unique":[]
     }
   },
@@ -6263,7 +6277,7 @@
     }
   },
   "data_meta":{
-    "md5":"e9e1070f4152665115481dee9ed00696",
-    "updated":"30 April, 2020  23:12:10"
+    "md5":"efc7d02df1cec058aac9b10664a4b2d2",
+    "updated":"01 May, 2020  23:11:45"
   }
 }
