@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"151291",
-      "mean":"652.5956712672522",
-      "median":"24.0",
-      "min":"-135340",
-      "std":"6179.210282271188",
-      "total":"2080475",
+      "max":"154129",
+      "mean":"663.3862781954887",
+      "median":"25.0",
+      "min":"-148276",
+      "std":"6368.8664191986845",
+      "total":"2117529",
       "unique":[]
     },
     "Admin2":{
@@ -200,6 +200,7 @@
         "Bremer",
         "Brevard",
         "Brewster",
+        "Briscoe",
         "Bristol",
         "Broadwater",
         "Brooke",
@@ -725,6 +726,7 @@
         "Honolulu",
         "Hood",
         "Hood River",
+        "Hooker",
         "Hopewell",
         "Hopkins",
         "Horry",
@@ -807,6 +809,7 @@
         "Kay",
         "Kearney",
         "Kearny",
+        "Keith",
         "Kemper",
         "Kenai Peninsula",
         "Kendall",
@@ -1428,7 +1431,6 @@
         "Southampton",
         "Southeast Fairbanks",
         "Southeast Utah",
-        "Southwest",
         "Southwest Utah",
         "Spalding",
         "Spartanburg",
@@ -1967,6 +1969,7 @@
         "Bremer, Iowa, US",
         "Brevard, Florida, US",
         "Brewster, Texas, US",
+        "Briscoe, Texas, US",
         "Bristol, Massachusetts, US",
         "Bristol, Rhode Island, US",
         "Bristol, Virginia, US",
@@ -2710,6 +2713,7 @@
         "Grant, Kansas, US",
         "Grant, Kentucky, US",
         "Grant, Louisiana, US",
+        "Grant, Minnesota, US",
         "Grant, New Mexico, US",
         "Grant, North Dakota, US",
         "Grant, Oklahoma, US",
@@ -2892,6 +2896,7 @@
         "Honolulu, Hawaii, US",
         "Hood, Texas, US",
         "Hood River, Oregon, US",
+        "Hooker, Nebraska, US",
         "Hopewell, Virginia, US",
         "Hopkins, Kentucky, US",
         "Hopkins, Texas, US",
@@ -3064,6 +3069,7 @@
         "Kay, Oklahoma, US",
         "Kearney, Nebraska, US",
         "Kearny, Kansas, US",
+        "Keith, Nebraska, US",
         "Kemper, Mississippi, US",
         "Kenai Peninsula, Alaska, US",
         "Kendall, Illinois, US",
@@ -4128,7 +4134,6 @@
         "Southampton, Virginia, US",
         "Southeast Fairbanks, Alaska, US",
         "Southeast Utah, Utah, US",
-        "Southwest, Utah, US",
         "Southwest Utah, Utah, US",
         "Spalding, Georgia, US",
         "Spartanburg, South Carolina, US",
@@ -4338,6 +4343,7 @@
         "Unassigned, Kentucky, US",
         "Unassigned, Louisiana, US",
         "Unassigned, Maine, US",
+        "Unassigned, Maryland, US",
         "Unassigned, Massachusetts, US",
         "Unassigned, Michigan, US",
         "Unassigned, Minnesota, US",
@@ -4917,12 +4923,12 @@
       ]
     },
     "Confirmed":{
-      "max":"213435",
-      "mean":"1048.8635508155583",
-      "median":"27.0",
+      "max":"216582",
+      "mean":"1073.7290100250627",
+      "median":"28.0",
       "min":"0",
-      "std":"9301.764103658747",
-      "total":"3343777",
+      "std":"9472.789355539691",
+      "total":"3427343",
       "unique":[]
     },
     "Country/Region":{
@@ -5123,48 +5129,48 @@
       ]
     },
     "Deaths":{
-      "max":"28236",
-      "mean":"74.85884567126725",
+      "max":"28710",
+      "mean":"76.38095238095238",
       "median":"1.0",
       "min":"0",
-      "std":"1029.4993062712451",
-      "total":"238650",
+      "std":"1045.7042700893996",
+      "total":"243808",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31329.914835164836",
-      "median":"29150.0",
+      "mean":"31354.139184093245",
+      "median":"29155.0",
       "min":"66.0",
-      "std":"17227.208281328858",
-      "total":"91232712.0",
+      "std":"17249.660393999944",
+      "total":"91460024.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-02 02:32:27",
+      "max":"2020-05-03 02:32:28",
       "mean":"",
       "median":"",
-      "min":"2020-05-02 02:32:27",
+      "min":"2020-05-03 02:32:28",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.76870604764254",
-      "median":"37.921945775",
+      "mean":"36.773985912952654",
+      "median":"37.929116480000005",
       "min":"-51.7963",
-      "std":"9.813030236335447",
-      "total":"114791.90028074",
+      "std":"9.808951084882361",
+      "total":"114955.47996389",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.6140904267585",
-      "median":"-88.09247061000002",
+      "mean":"-81.63762240845489",
+      "median":"-88.13240414",
       "min":"-164.0353804",
-      "std":"39.676020255432114",
-      "total":"-254799.19031234",
+      "std":"39.65615743591797",
+      "total":"-255199.20764883",
       "unique":[]
     },
     "Province/State":{
@@ -5316,12 +5322,12 @@
       ]
     },
     "Recovered":{
-      "max":"164015",
-      "mean":"330.4037013801757",
+      "max":"175382",
+      "mean":"342.453634085213",
       "median":"0.0",
       "min":"0",
-      "std":"5033.0538970930675",
-      "total":"1053327",
+      "std":"5239.735144086466",
+      "total":"1093112",
       "unique":[]
     }
   },
@@ -6277,7 +6283,7 @@
     }
   },
   "data_meta":{
-    "md5":"efc7d02df1cec058aac9b10664a4b2d2",
-    "updated":"01 May, 2020  23:11:45"
+    "md5":"51e59af861f12d1f205a07a3421ebf84",
+    "updated":"02 May, 2020  23:11:38"
   }
 }
