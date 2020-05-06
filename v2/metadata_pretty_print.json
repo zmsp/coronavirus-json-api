@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"161850",
-      "mean":"686.9109653233364",
+      "max":"165563",
+      "mean":"696.681209099408",
       "median":"26.0",
-      "min":"-157172",
-      "std":"6627.039185970069",
-      "total":"2198802",
+      "min":"-160761",
+      "std":"6740.059197370885",
+      "total":"2235650",
       "unique":[]
     },
     "Admin2":{
@@ -98,6 +98,7 @@
         "Avoyelles",
         "Baca",
         "Bacon",
+        "Bailey",
         "Baker",
         "Baldwin",
         "Ballard",
@@ -358,6 +359,7 @@
         "Codington",
         "Coffee",
         "Coffey",
+        "Coke",
         "Colbert",
         "Cole",
         "Coleman",
@@ -366,6 +368,7 @@
         "Colleton",
         "Collier",
         "Collin",
+        "Collingsworth",
         "Colonial Heights",
         "Colorado",
         "Colquitt",
@@ -517,6 +520,7 @@
         "Elkhart",
         "Elko",
         "Ellis",
+        "Ellsworth",
         "Elmore",
         "Emanuel",
         "Emmet",
@@ -1840,6 +1844,7 @@
         "Avoyelles, Louisiana, US",
         "Baca, Colorado, US",
         "Bacon, Georgia, US",
+        "Bailey, Texas, US",
         "Baker, Florida, US",
         "Baker, Georgia, US",
         "Baldwin, Alabama, US",
@@ -1947,6 +1952,7 @@
         "Boone, Iowa, US",
         "Boone, Kentucky, US",
         "Boone, Missouri, US",
+        "Boone, Nebraska, US",
         "Boone, West Virginia, US",
         "Bosque, Texas, US",
         "Bossier, Louisiana, US",
@@ -2278,6 +2284,7 @@
         "Coffee, Georgia, US",
         "Coffee, Tennessee, US",
         "Coffey, Kansas, US",
+        "Coke, Texas, US",
         "Colbert, Alabama, US",
         "Cole, Missouri, US",
         "Coleman, Texas, US",
@@ -2287,6 +2294,7 @@
         "Colleton, South Carolina, US",
         "Collier, Florida, US",
         "Collin, Texas, US",
+        "Collingsworth, Texas, US",
         "Colonial Heights, Virginia, US",
         "Colorado, Texas, US",
         "Colquitt, Georgia, US",
@@ -2526,6 +2534,7 @@
         "Elko, Nevada, US",
         "Ellis, Kansas, US",
         "Ellis, Texas, US",
+        "Ellsworth, Kansas, US",
         "Elmore, Alabama, US",
         "Elmore, Idaho, US",
         "Emanuel, Georgia, US",
@@ -3189,6 +3198,7 @@
         "Lawrence, Indiana, US",
         "Lawrence, Kentucky, US",
         "Lawrence, Mississippi, US",
+        "Lawrence, Missouri, US",
         "Lawrence, Ohio, US",
         "Lawrence, Pennsylvania, US",
         "Lawrence, South Dakota, US",
@@ -3857,6 +3867,7 @@
         "Pontotoc, Mississippi, US",
         "Pontotoc, Oklahoma, US",
         "Pope, Arkansas, US",
+        "Pope, Minnesota, US",
         "Poquoson, Virginia, US",
         "Portage, Ohio, US",
         "Portage, Wisconsin, US",
@@ -4221,6 +4232,7 @@
         "Suffolk, New York, US",
         "Suffolk, Virginia, US",
         "Sullivan, Indiana, US",
+        "Sullivan, Missouri, US",
         "Sullivan, New Hampshire, US",
         "Sullivan, New York, US",
         "Sullivan, Pennsylvania, US",
@@ -4937,12 +4949,12 @@
       ]
     },
     "Confirmed":{
-      "max":"218011",
-      "mean":"1119.3548890971572",
-      "median":"29.0",
+      "max":"219329",
+      "mean":"1141.3808039887815",
+      "median":"30.0",
       "min":"0",
-      "std":"9768.438306621196",
-      "total":"3583055",
+      "std":"9925.004091135572",
+      "total":"3662691",
       "unique":[]
     },
     "Country/Region":{
@@ -5143,48 +5155,48 @@
       ]
     },
     "Deaths":{
-      "max":"29079",
-      "mean":"78.5807560137457",
+      "max":"29427",
+      "mean":"80.1617326269866",
       "median":"1.0",
       "min":"0",
-      "std":"1064.7164921022654",
-      "total":"251537",
+      "std":"1077.6141188910833",
+      "total":"257239",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31359.61141490089",
-      "median":"29158.0",
+      "mean":"31369.77266530334",
+      "median":"29160.0",
       "min":"66.0",
-      "std":"17238.32578240219",
-      "total":"91758223.0",
+      "std":"17224.62280715443",
+      "total":"92038913.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-05 02:32:34",
+      "max":"2020-05-06 02:32:31",
       "mean":"",
       "median":"",
-      "min":"2020-05-05 02:32:34",
+      "min":"2020-05-06 02:32:31",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.7738375104051",
+      "mean":"36.77703142545021",
       "median":"37.92465657",
       "min":"-51.7963",
-      "std":"9.797375775155624",
-      "total":"115285.98059512",
+      "std":"9.787367251294535",
+      "total":"115590.20977019",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.66911795348645",
-      "median":"-88.17657461",
+      "mean":"-81.71014173185493",
+      "median":"-88.20689944",
       "min":"-164.0353804",
-      "std":"39.60584261238526",
-      "total":"-256032.68478418002",
+      "std":"39.56405880162692",
+      "total":"-256814.97546322003",
       "unique":[]
     },
     "Province/State":{
@@ -5336,12 +5348,12 @@
       ]
     },
     "Recovered":{
-      "max":"187180",
-      "mean":"363.2377382068104",
+      "max":"189791",
+      "mean":"373.58429417263943",
       "median":"0.0",
       "min":"0",
-      "std":"5501.06623352695",
-      "total":"1162724",
+      "std":"5610.442286382648",
+      "total":"1198832",
       "unique":[]
     }
   },
@@ -6297,7 +6309,7 @@
     }
   },
   "data_meta":{
-    "md5":"687a1869b905c73977add1c7ea8e7d55",
-    "updated":"05 May, 2020  20:11:46"
+    "md5":"142980a1132f172d667bd00fee4fbc88",
+    "updated":"05 May, 2020  23:11:31"
   }
 }
