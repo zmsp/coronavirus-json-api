@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"154129",
-      "mean":"663.3862781954887",
-      "median":"25.0",
-      "min":"-148276",
-      "std":"6368.8664191986845",
-      "total":"2117529",
+      "max":"161850",
+      "mean":"686.9109653233364",
+      "median":"26.0",
+      "min":"-157172",
+      "std":"6627.039185970069",
+      "total":"2198802",
       "unique":[]
     },
     "Admin2":{
@@ -441,6 +441,7 @@
         "Dawes",
         "Dawson",
         "Day",
+        "De Baca",
         "De Soto",
         "De Witt",
         "DeKalb",
@@ -1292,6 +1293,7 @@
         "Red Willow",
         "Redwood",
         "Reeves",
+        "Refugio",
         "Reno",
         "Rensselaer",
         "Renville",
@@ -1307,6 +1309,7 @@
         "Rio Blanco",
         "Rio Grande",
         "Ripley",
+        "Ritchie",
         "Riverside",
         "Roane",
         "Roanoke",
@@ -1503,6 +1506,7 @@
         "Swisher",
         "Switzerland",
         "Talbot",
+        "Taliaferro",
         "Talladega",
         "Tallahatchie",
         "Tallapoosa",
@@ -1701,6 +1705,7 @@
         "Yakima",
         "Yalobusha",
         "Yamhill",
+        "Yancey",
         "Yankton",
         "Yates",
         "Yavapai",
@@ -1921,6 +1926,7 @@
         "Blackford, Indiana, US",
         "Bladen, North Carolina, US",
         "Blaine, Idaho, US",
+        "Blaine, Oklahoma, US",
         "Blair, Pennsylvania, US",
         "Blanco, Texas, US",
         "Bland, Virginia, US",
@@ -1983,6 +1989,7 @@
         "Broward, Florida, US",
         "Brown, Illinois, US",
         "Brown, Indiana, US",
+        "Brown, Kansas, US",
         "Brown, Minnesota, US",
         "Brown, Ohio, US",
         "Brown, South Dakota, US",
@@ -2402,6 +2409,7 @@
         "Dawson, Nebraska, US",
         "Dawson, Texas, US",
         "Day, South Dakota, US",
+        "De Baca, New Mexico, US",
         "De Soto, Louisiana, US",
         "De Witt, Illinois, US",
         "DeKalb, Alabama, US",
@@ -2893,6 +2901,7 @@
         "Holmes, Mississippi, US",
         "Holmes, Ohio, US",
         "Holt, Missouri, US",
+        "Holt, Nebraska, US",
         "Honolulu, Hawaii, US",
         "Hood, Texas, US",
         "Hood River, Oregon, US",
@@ -3510,6 +3519,7 @@
         "Monroe, Georgia, US",
         "Monroe, Illinois, US",
         "Monroe, Indiana, US",
+        "Monroe, Iowa, US",
         "Monroe, Kentucky, US",
         "Monroe, Michigan, US",
         "Monroe, Mississippi, US",
@@ -3925,6 +3935,7 @@
         "Red Willow, Nebraska, US",
         "Redwood, Minnesota, US",
         "Reeves, Texas, US",
+        "Refugio, Texas, US",
         "Reno, Kansas, US",
         "Rensselaer, New York, US",
         "Renville, Minnesota, US",
@@ -3951,6 +3962,7 @@
         "Rio Grande, Colorado, US",
         "Ripley, Indiana, US",
         "Ripley, Missouri, US",
+        "Ritchie, West Virginia, US",
         "Riverside, California, US",
         "Roane, Tennessee, US",
         "Roane, West Virginia, US",
@@ -4240,6 +4252,7 @@
         "Switzerland, Indiana, US",
         "Talbot, Georgia, US",
         "Talbot, Maryland, US",
+        "Taliaferro, Georgia, US",
         "Talladega, Alabama, US",
         "Tallahatchie, Mississippi, US",
         "Tallapoosa, Alabama, US",
@@ -4627,6 +4640,7 @@
         "Yakima, Washington, US",
         "Yalobusha, Mississippi, US",
         "Yamhill, Oregon, US",
+        "Yancey, North Carolina, US",
         "Yankton, South Dakota, US",
         "Yates, New York, US",
         "Yavapai, Arizona, US",
@@ -4923,12 +4937,12 @@
       ]
     },
     "Confirmed":{
-      "max":"216582",
-      "mean":"1073.7290100250627",
-      "median":"28.0",
+      "max":"218011",
+      "mean":"1119.3548890971572",
+      "median":"29.0",
       "min":"0",
-      "std":"9472.789355539691",
-      "total":"3427343",
+      "std":"9768.438306621196",
+      "total":"3583055",
       "unique":[]
     },
     "Country/Region":{
@@ -5129,48 +5143,48 @@
       ]
     },
     "Deaths":{
-      "max":"28710",
-      "mean":"76.38095238095238",
+      "max":"29079",
+      "mean":"78.5807560137457",
       "median":"1.0",
       "min":"0",
-      "std":"1045.7042700893996",
-      "total":"243808",
+      "std":"1064.7164921022654",
+      "total":"251537",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31354.139184093245",
-      "median":"29155.0",
+      "mean":"31359.61141490089",
+      "median":"29158.0",
       "min":"66.0",
-      "std":"17249.660393999944",
-      "total":"91460024.0",
+      "std":"17238.32578240219",
+      "total":"91758223.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-03 02:32:28",
+      "max":"2020-05-05 02:32:34",
       "mean":"",
       "median":"",
-      "min":"2020-05-03 02:32:28",
+      "min":"2020-05-05 02:32:34",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.773985912952654",
-      "median":"37.929116480000005",
+      "mean":"36.7738375104051",
+      "median":"37.92465657",
       "min":"-51.7963",
-      "std":"9.808951084882361",
-      "total":"114955.47996389",
+      "std":"9.797375775155624",
+      "total":"115285.98059512",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.63762240845489",
-      "median":"-88.13240414",
+      "mean":"-81.66911795348645",
+      "median":"-88.17657461",
       "min":"-164.0353804",
-      "std":"39.65615743591797",
-      "total":"-255199.20764883",
+      "std":"39.60584261238526",
+      "total":"-256032.68478418002",
       "unique":[]
     },
     "Province/State":{
@@ -5322,12 +5336,12 @@
       ]
     },
     "Recovered":{
-      "max":"175382",
-      "mean":"342.453634085213",
+      "max":"187180",
+      "mean":"363.2377382068104",
       "median":"0.0",
       "min":"0",
-      "std":"5239.735144086466",
-      "total":"1093112",
+      "std":"5501.06623352695",
+      "total":"1162724",
       "unique":[]
     }
   },
@@ -6283,7 +6297,7 @@
     }
   },
   "data_meta":{
-    "md5":"51e59af861f12d1f205a07a3421ebf84",
-    "updated":"02 May, 2020  23:11:38"
+    "md5":"687a1869b905c73977add1c7ea8e7d55",
+    "updated":"05 May, 2020  20:11:46"
   }
 }
