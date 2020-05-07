@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"165563",
-      "mean":"696.681209099408",
-      "median":"26.0",
-      "min":"-160761",
-      "std":"6740.059197370885",
-      "total":"2235650",
+      "max":"171025",
+      "mean":"705.4297263681592",
+      "median":"27.0",
+      "min":"-167345",
+      "std":"6893.405430862989",
+      "total":"2268662",
       "unique":[]
     },
     "Admin2":{
@@ -1167,6 +1167,7 @@
         "Out of CO",
         "Out of GA",
         "Out of HI",
+        "Out of IL",
         "Out of MI",
         "Out of OK",
         "Out of TN",
@@ -1726,6 +1727,7 @@
         "Yuma",
         "Zapata",
         "Zavala",
+        "Ziebach",
         "NaN"
       ]
     },
@@ -1847,6 +1849,7 @@
         "Bailey, Texas, US",
         "Baker, Florida, US",
         "Baker, Georgia, US",
+        "Baker, Oregon, US",
         "Baldwin, Alabama, US",
         "Baldwin, Georgia, US",
         "Ballard, Kentucky, US",
@@ -2606,6 +2609,7 @@
         "Ford, Illinois, US",
         "Ford, Kansas, US",
         "Forest, Pennsylvania, US",
+        "Forest, Wisconsin, US",
         "Forrest, Mississippi, US",
         "Forsyth, Georgia, US",
         "Forsyth, North Carolina, US",
@@ -2735,6 +2739,7 @@
         "Grant, North Dakota, US",
         "Grant, Oklahoma, US",
         "Grant, Oregon, US",
+        "Grant, South Dakota, US",
         "Grant, Washington, US",
         "Grant, West Virginia, US",
         "Grant, Wisconsin, US",
@@ -3449,6 +3454,7 @@
         "McMinn, Tennessee, US",
         "McNairy, Tennessee, US",
         "McPherson, Kansas, US",
+        "McPherson, Nebraska, US",
         "McPherson, South Dakota, US",
         "Meade, Kansas, US",
         "Meade, Kentucky, US",
@@ -3738,6 +3744,7 @@
         "Out of CO, Colorado, US",
         "Out of GA, Georgia, US",
         "Out of HI, Hawaii, US",
+        "Out of IL, Illinois, US",
         "Out of MI, Michigan, US",
         "Out of OK, Oklahoma, US",
         "Out of TN, Tennessee, US",
@@ -4295,6 +4302,7 @@
         "Texas, Missouri, US",
         "Texas, Oklahoma, US",
         "Thomas, Georgia, US",
+        "Thomas, Nebraska, US",
         "Thurston, Nebraska, US",
         "Thurston, Washington, US",
         "Tift, Georgia, US",
@@ -4674,6 +4682,7 @@
         "Yuma, Colorado, US",
         "Zapata, Texas, US",
         "Zavala, Texas, US",
+        "Ziebach, South Dakota, US",
         "Alberta, Canada",
         "Anguilla, United Kingdom",
         "Anhui, China",
@@ -4949,12 +4958,12 @@
       ]
     },
     "Confirmed":{
-      "max":"219329",
-      "mean":"1141.3808039887815",
-      "median":"30.0",
+      "max":"220325",
+      "mean":"1167.7055348258707",
+      "median":"31.0",
       "min":"0",
-      "std":"9925.004091135572",
-      "total":"3662691",
+      "std":"10136.177324606948",
+      "total":"3755341",
       "unique":[]
     },
     "Country/Region":{
@@ -5155,48 +5164,48 @@
       ]
     },
     "Deaths":{
-      "max":"29427",
-      "mean":"80.1617326269866",
+      "max":"30076",
+      "mean":"82.03700248756219",
       "median":"1.0",
       "min":"0",
-      "std":"1077.6141188910833",
-      "total":"257239",
+      "std":"1093.416876357969",
+      "total":"263831",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31369.77266530334",
-      "median":"29160.0",
+      "mean":"31407.49676980619",
+      "median":"29167.0",
       "min":"66.0",
-      "std":"17224.62280715443",
-      "total":"92038913.0",
+      "std":"17238.167479129268",
+      "total":"92369448.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-06 02:32:31",
+      "max":"2020-05-07 02:32:28",
       "mean":"",
       "median":"",
-      "min":"2020-05-06 02:32:31",
+      "min":"2020-05-07 02:32:28",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.77703142545021",
-      "median":"37.92465657",
+      "mean":"36.79079659730391",
+      "median":"37.937575",
       "min":"-51.7963",
-      "std":"9.787367251294535",
-      "total":"115590.20977019",
+      "std":"9.783369162266984",
+      "total":"115854.21848491",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.71014173185493",
-      "median":"-88.20689944",
+      "mean":"-81.74705379002857",
+      "median":"-88.21854195",
       "min":"-164.0353804",
-      "std":"39.56405880162692",
-      "total":"-256814.97546322003",
+      "std":"39.537159259007645",
+      "total":"-257421.4723848",
       "unique":[]
     },
     "Province/State":{
@@ -5244,13 +5253,13 @@
         "New Jersey",
         "South Dakota",
         "Alabama",
+        "Oregon",
         "West Virginia",
         "North Dakota",
         "Massachusetts",
         "Utah",
         "Montana",
         "New Hampshire",
-        "Oregon",
         "New Mexico",
         "Rhode Island",
         "Nevada",
@@ -5348,12 +5357,12 @@
       ]
     },
     "Recovered":{
-      "max":"189791",
-      "mean":"373.58429417263943",
+      "max":"189910",
+      "mean":"387.25528606965173",
       "median":"0.0",
       "min":"0",
-      "std":"5610.442286382648",
-      "total":"1198832",
+      "std":"5747.730495424089",
+      "total":"1245413",
       "unique":[]
     }
   },
@@ -6309,7 +6318,7 @@
     }
   },
   "data_meta":{
-    "md5":"142980a1132f172d667bd00fee4fbc88",
-    "updated":"05 May, 2020  23:11:31"
+    "md5":"6dce2e74c231145a5345641c87d3288c",
+    "updated":"06 May, 2020  23:50:30"
   }
 }
