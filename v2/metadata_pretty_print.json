@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"171025",
-      "mean":"705.4297263681592",
-      "median":"27.0",
-      "min":"-167345",
-      "std":"6893.405430862989",
-      "total":"2268662",
+      "max":"176100",
+      "mean":"718.6295376977971",
+      "median":"28.0",
+      "min":"-170303",
+      "std":"7028.823214329371",
+      "total":"2316143",
       "unique":[]
     },
     "Admin2":{
@@ -143,6 +143,7 @@
         "Beltrami",
         "Ben Hill",
         "Bennington",
+        "Benson",
         "Benton",
         "Benzie",
         "Bergen",
@@ -613,6 +614,7 @@
         "Glacier",
         "Glades",
         "Gladwin",
+        "Glascock",
         "Glasscock",
         "Glenn",
         "Gloucester",
@@ -686,6 +688,7 @@
         "Harding",
         "Hardy",
         "Harford",
+        "Harlan",
         "Harnett",
         "Harney",
         "Harper",
@@ -1406,6 +1409,7 @@
         "Sequoyah",
         "Sevier",
         "Seward",
+        "Shackelford",
         "Sharkey",
         "Sharp",
         "Shasta",
@@ -1553,6 +1557,7 @@
         "Toombs",
         "Torrance",
         "Towns",
+        "Traill",
         "Transylvania",
         "Traverse",
         "Travis",
@@ -1902,6 +1907,7 @@
         "Beltrami, Minnesota, US",
         "Ben Hill, Georgia, US",
         "Bennington, Vermont, US",
+        "Benson, North Dakota, US",
         "Benton, Arkansas, US",
         "Benton, Indiana, US",
         "Benton, Iowa, US",
@@ -2703,6 +2709,7 @@
         "Glacier, Montana, US",
         "Glades, Florida, US",
         "Gladwin, Michigan, US",
+        "Glascock, Georgia, US",
         "Glasscock, Texas, US",
         "Glenn, California, US",
         "Gloucester, New Jersey, US",
@@ -2841,6 +2848,7 @@
         "Harding, New Mexico, US",
         "Hardy, West Virginia, US",
         "Harford, Maryland, US",
+        "Harlan, Kentucky, US",
         "Harnett, North Carolina, US",
         "Harney, Oregon, US",
         "Harper, Kansas, US",
@@ -3165,6 +3173,7 @@
         "Lake, Illinois, US",
         "Lake, Indiana, US",
         "Lake, Michigan, US",
+        "Lake, Minnesota, US",
         "Lake, Montana, US",
         "Lake, Ohio, US",
         "Lake, South Dakota, US",
@@ -4111,6 +4120,7 @@
         "Sevier, Tennessee, US",
         "Seward, Kansas, US",
         "Seward, Nebraska, US",
+        "Shackelford, Texas, US",
         "Sharkey, Mississippi, US",
         "Sharp, Arkansas, US",
         "Shasta, California, US",
@@ -4221,6 +4231,7 @@
         "Steuben, Indiana, US",
         "Steuben, New York, US",
         "Stevens, Kansas, US",
+        "Stevens, Minnesota, US",
         "Stevens, Washington, US",
         "Stewart, Georgia, US",
         "Stewart, Tennessee, US",
@@ -4327,6 +4338,7 @@
         "Toombs, Georgia, US",
         "Torrance, New Mexico, US",
         "Towns, Georgia, US",
+        "Traill, North Dakota, US",
         "Transylvania, North Carolina, US",
         "Traverse, Minnesota, US",
         "Travis, Texas, US",
@@ -4958,12 +4970,12 @@
       ]
     },
     "Confirmed":{
-      "max":"220325",
-      "mean":"1167.7055348258707",
+      "max":"221447",
+      "mean":"1193.2106732857585",
       "median":"31.0",
       "min":"0",
-      "std":"10136.177324606948",
-      "total":"3755341",
+      "std":"10331.079894345496",
+      "total":"3845718",
       "unique":[]
     },
     "Country/Region":{
@@ -5164,48 +5176,48 @@
       ]
     },
     "Deaths":{
-      "max":"30076",
-      "mean":"82.03700248756219",
+      "max":"30615",
+      "mean":"83.63853552590754",
       "median":"1.0",
       "min":"0",
-      "std":"1093.416876357969",
-      "total":"263831",
+      "std":"1107.4714005936235",
+      "total":"269567",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31407.49676980619",
-      "median":"29167.0",
+      "mean":"31405.159769335143",
+      "median":"29166.0",
       "min":"66.0",
-      "std":"17238.167479129268",
-      "total":"92369448.0",
+      "std":"17226.10643381938",
+      "total":"92582411.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-07 02:32:28",
+      "max":"2020-05-08 02:32:32",
       "mean":"",
       "median":"",
-      "min":"2020-05-07 02:32:28",
+      "min":"2020-05-08 02:32:32",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.79079659730391",
-      "median":"37.937575",
+      "mean":"36.80158145402091",
+      "median":"37.938283945",
       "min":"-51.7963",
-      "std":"9.783369162266984",
-      "total":"115854.21848491",
+      "std":"9.780044130728793",
+      "total":"116145.79106889",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.74705379002857",
-      "median":"-88.21854195",
+      "mean":"-81.77142838505387",
+      "median":"-88.22354663",
       "min":"-164.0353804",
-      "std":"39.537159259007645",
-      "total":"-257421.4723848",
+      "std":"39.49791345645942",
+      "total":"-258070.62798323002",
       "unique":[]
     },
     "Province/State":{
@@ -5357,12 +5369,12 @@
       ]
     },
     "Recovered":{
-      "max":"189910",
-      "mean":"387.25528606965173",
+      "max":"195036",
+      "mean":"398.61650636053366",
       "median":"0.0",
       "min":"0",
-      "std":"5747.730495424089",
-      "total":"1245413",
+      "std":"5888.486779561724",
+      "total":"1284741",
       "unique":[]
     }
   },
@@ -6318,7 +6330,7 @@
     }
   },
   "data_meta":{
-    "md5":"6dce2e74c231145a5345641c87d3288c",
-    "updated":"06 May, 2020  23:50:30"
+    "md5":"ecb77a93e421b1770171bd8c6c689cfa",
+    "updated":"07 May, 2020  23:50:33"
   }
 }
