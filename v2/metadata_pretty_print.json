@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"176100",
-      "mean":"718.6295376977971",
+      "max":"180123",
+      "mean":"730.9795665634675",
       "median":"28.0",
-      "min":"-170303",
-      "std":"7028.823214329371",
-      "total":"2316143",
+      "min":"-179045",
+      "std":"7214.842036900091",
+      "total":"2361064",
       "unique":[]
     },
     "Admin2":{
@@ -382,6 +382,7 @@
         "Concho",
         "Concordia",
         "Conecuh",
+        "Conejos",
         "Contra Costa",
         "Converse",
         "Conway",
@@ -832,6 +833,7 @@
         "Ketchikan Gateway",
         "Kewaunee",
         "Kimball",
+        "Kimble",
         "King",
         "King George",
         "King William",
@@ -1184,6 +1186,7 @@
         "Pacific",
         "Page",
         "Palm Beach",
+        "Palo Alto",
         "Palo Pinto",
         "Pamlico",
         "Panola",
@@ -2195,6 +2198,7 @@
         "Chester, Tennessee, US",
         "Chesterfield, South Carolina, US",
         "Chesterfield, Virginia, US",
+        "Cheyenne, Colorado, US",
         "Cheyenne, Kansas, US",
         "Cheyenne, Nebraska, US",
         "Chickasaw, Iowa, US",
@@ -2260,6 +2264,7 @@
         "Clay, South Dakota, US",
         "Clay, Tennessee, US",
         "Clay, Texas, US",
+        "Clay, West Virginia, US",
         "Clayton, Georgia, US",
         "Clayton, Iowa, US",
         "Clear Creek, Colorado, US",
@@ -2324,6 +2329,7 @@
         "Concho, Texas, US",
         "Concordia, Louisiana, US",
         "Conecuh, Alabama, US",
+        "Conejos, Colorado, US",
         "Contra Costa, California, US",
         "Converse, Wyoming, US",
         "Conway, Arkansas, US",
@@ -2654,6 +2660,7 @@
         "Freestone, Texas, US",
         "Fremont, Colorado, US",
         "Fremont, Idaho, US",
+        "Fremont, Iowa, US",
         "Fremont, Wyoming, US",
         "Fresno, California, US",
         "Frio, Texas, US",
@@ -3119,6 +3126,7 @@
         "Ketchikan Gateway, Alaska, US",
         "Kewaunee, Wisconsin, US",
         "Kimball, Nebraska, US",
+        "Kimble, Texas, US",
         "King, Washington, US",
         "King George, Virginia, US",
         "King William, Virginia, US",
@@ -3769,6 +3777,7 @@
         "Page, Iowa, US",
         "Page, Virginia, US",
         "Palm Beach, Florida, US",
+        "Palo Alto, Iowa, US",
         "Palo Pinto, Texas, US",
         "Pamlico, North Carolina, US",
         "Panola, Mississippi, US",
@@ -3883,6 +3892,7 @@
         "Pontotoc, Mississippi, US",
         "Pontotoc, Oklahoma, US",
         "Pope, Arkansas, US",
+        "Pope, Illinois, US",
         "Pope, Minnesota, US",
         "Poquoson, Virginia, US",
         "Portage, Ohio, US",
@@ -4970,12 +4980,12 @@
       ]
     },
     "Confirmed":{
-      "max":"221447",
-      "mean":"1193.2106732857585",
-      "median":"31.0",
+      "max":"222857",
+      "mean":"1219.2148606811145",
+      "median":"32.0",
       "min":"0",
-      "std":"10331.079894345496",
-      "total":"3845718",
+      "std":"10532.452712932834",
+      "total":"3938064",
       "unique":[]
     },
     "Country/Region":{
@@ -5176,48 +5186,48 @@
       ]
     },
     "Deaths":{
-      "max":"30615",
-      "mean":"83.63853552590754",
+      "max":"31241",
+      "mean":"85.1077399380805",
       "median":"1.0",
       "min":"0",
-      "std":"1107.4714005936235",
-      "total":"269567",
+      "std":"1120.435979839966",
+      "total":"274898",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31405.159769335143",
-      "median":"29166.0",
+      "mean":"31389.54314720812",
+      "median":"29163.0",
       "min":"66.0",
-      "std":"17226.10643381938",
-      "total":"92582411.0",
+      "std":"17229.221303437742",
+      "total":"92756100.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-08 02:32:32",
+      "max":"2020-05-09 02:32:35",
       "mean":"",
       "median":"",
-      "min":"2020-05-08 02:32:32",
+      "min":"2020-05-09 02:32:35",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.80158145402091",
-      "median":"37.938283945",
+      "mean":"36.80430313873854",
+      "median":"37.93899289",
       "min":"-51.7963",
-      "std":"9.780044130728793",
-      "total":"116145.79106889",
+      "std":"9.770867544240739",
+      "total":"116412.01082783",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.77142838505387",
-      "median":"-88.22354663",
+      "mean":"-81.80179865079988",
+      "median":"-88.22974712",
       "min":"-164.0353804",
-      "std":"39.49791345645942",
-      "total":"-258070.62798323002",
+      "std":"39.46120249160084",
+      "total":"-258739.08913248",
       "unique":[]
     },
     "Province/State":{
@@ -5369,12 +5379,12 @@
       ]
     },
     "Recovered":{
-      "max":"195036",
-      "mean":"398.61650636053366",
+      "max":"198993",
+      "mean":"409.3034055727554",
       "median":"0.0",
       "min":"0",
-      "std":"5888.486779561724",
-      "total":"1284741",
+      "std":"5999.757489438439",
+      "total":"1322050",
       "unique":[]
     }
   },
@@ -6330,7 +6340,7 @@
     }
   },
   "data_meta":{
-    "md5":"ecb77a93e421b1770171bd8c6c689cfa",
-    "updated":"07 May, 2020  23:50:33"
+    "md5":"e2773511499cd9df941acb096c6569c3",
+    "updated":"08 May, 2020  23:50:30"
   }
 }
