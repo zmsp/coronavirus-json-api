@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"180123",
-      "mean":"730.9795665634675",
-      "median":"28.0",
-      "min":"-179045",
-      "std":"7214.842036900091",
-      "total":"2361064",
+      "max":"183673",
+      "mean":"737.6785272277227",
+      "median":"29.0",
+      "min":"-197431",
+      "std":"7453.660147072047",
+      "total":"2384177",
       "unique":[]
     },
     "Admin2":{
@@ -866,6 +866,7 @@
         "Labette",
         "Lac qui Parle",
         "Lackawanna",
+        "Laclede",
         "Lafayette",
         "Lafourche",
         "Lake",
@@ -3168,6 +3169,7 @@
         "Labette, Kansas, US",
         "Lac qui Parle, Minnesota, US",
         "Lackawanna, Pennsylvania, US",
+        "Laclede, Missouri, US",
         "Lafayette, Arkansas, US",
         "Lafayette, Florida, US",
         "Lafayette, Louisiana, US",
@@ -4357,6 +4359,7 @@
         "TriCounty, Utah, US",
         "Trigg, Kentucky, US",
         "Trimble, Kentucky, US",
+        "Trinity, California, US",
         "Trinity, Texas, US",
         "Troup, Georgia, US",
         "Trousdale, Tennessee, US",
@@ -4980,12 +4983,12 @@
       ]
     },
     "Confirmed":{
-      "max":"222857",
-      "mean":"1219.2148606811145",
-      "median":"32.0",
+      "max":"223578",
+      "mean":"1245.0522896039604",
+      "median":"33.0",
       "min":"0",
-      "std":"10532.452712932834",
-      "total":"3938064",
+      "std":"10719.592691633232",
+      "total":"4024009",
       "unique":[]
     },
     "Country/Region":{
@@ -5186,48 +5189,48 @@
       ]
     },
     "Deaths":{
-      "max":"31241",
-      "mean":"85.1077399380805",
+      "max":"31587",
+      "mean":"86.42048267326733",
       "median":"1.0",
       "min":"0",
-      "std":"1120.435979839966",
-      "total":"274898",
+      "std":"1130.8557351704453",
+      "total":"279311",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31389.54314720812",
-      "median":"29163.0",
+      "mean":"31380.219817382484",
+      "median":"29161.0",
       "min":"66.0",
-      "std":"17229.221303437742",
-      "total":"92756100.0",
+      "std":"17229.71784555948",
+      "total":"92791310.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-09 02:32:35",
+      "max":"2020-05-10 02:32:30",
       "mean":"",
       "median":"",
-      "min":"2020-05-09 02:32:35",
+      "min":"2020-05-10 02:32:30",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.80430313873854",
+      "mean":"36.80578798509321",
       "median":"37.93899289",
       "min":"-51.7963",
-      "std":"9.770867544240739",
-      "total":"116412.01082783",
+      "std":"9.76802978723133",
+      "total":"116490.31897282001",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.80179865079988",
-      "median":"-88.22974712",
+      "mean":"-81.81825993515956",
+      "median":"-88.23917219",
       "min":"-164.0353804",
-      "std":"39.46120249160084",
-      "total":"-258739.08913248",
+      "std":"39.45602770694163",
+      "total":"-258954.79269478002",
       "unique":[]
     },
     "Province/State":{
@@ -5379,12 +5382,12 @@
       ]
     },
     "Recovered":{
-      "max":"198993",
-      "mean":"409.3034055727554",
+      "max":"212534",
+      "mean":"425.6262376237624",
       "median":"0.0",
       "min":"0",
-      "std":"5999.757489438439",
-      "total":"1322050",
+      "std":"6232.328739014054",
+      "total":"1375624",
       "unique":[]
     }
   },
@@ -6340,7 +6343,7 @@
     }
   },
   "data_meta":{
-    "md5":"e2773511499cd9df941acb096c6569c3",
-    "updated":"08 May, 2020  23:50:30"
+    "md5":"a0d76fbcf273777309a2f7802f1fae95",
+    "updated":"09 May, 2020  23:50:41"
   }
 }
