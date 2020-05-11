@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"183673",
-      "mean":"737.6785272277227",
+      "max":"187328",
+      "mean":"748.1713048855906",
       "median":"29.0",
-      "min":"-197431",
-      "std":"7453.660147072047",
-      "total":"2384177",
+      "min":"-206593",
+      "std":"7639.539380115345",
+      "total":"2419586",
       "unique":[]
     },
     "Admin2":{
@@ -144,6 +144,7 @@
         "Ben Hill",
         "Bennington",
         "Benson",
+        "Bent",
         "Benton",
         "Benzie",
         "Bergen",
@@ -1227,6 +1228,7 @@
         "Piatt",
         "Pickaway",
         "Pickens",
+        "Pickett",
         "Pierce",
         "Pike",
         "Pima",
@@ -1912,6 +1914,7 @@
         "Ben Hill, Georgia, US",
         "Bennington, Vermont, US",
         "Benson, North Dakota, US",
+        "Bent, Colorado, US",
         "Benton, Arkansas, US",
         "Benton, Indiana, US",
         "Benton, Iowa, US",
@@ -3840,6 +3843,7 @@
         "Pickens, Alabama, US",
         "Pickens, Georgia, US",
         "Pickens, South Carolina, US",
+        "Pickett, Tennessee, US",
         "Pierce, Georgia, US",
         "Pierce, Nebraska, US",
         "Pierce, North Dakota, US",
@@ -4983,12 +4987,12 @@
       ]
     },
     "Confirmed":{
-      "max":"223578",
-      "mean":"1245.0522896039604",
-      "median":"33.0",
+      "max":"224350",
+      "mean":"1268.3051948051948",
+      "median":"33.5",
       "min":"0",
-      "std":"10719.592691633232",
-      "total":"4024009",
+      "std":"10894.035737735065",
+      "total":"4101699",
       "unique":[]
     },
     "Country/Region":{
@@ -5189,48 +5193,48 @@
       ]
     },
     "Deaths":{
-      "max":"31587",
-      "mean":"86.42048267326733",
+      "max":"31855",
+      "mean":"87.41774891774892",
       "median":"1.0",
       "min":"0",
-      "std":"1130.8557351704453",
-      "total":"279311",
+      "std":"1138.0598552056422",
+      "total":"282709",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31380.219817382484",
+      "mean":"31377.64717810071",
       "median":"29161.0",
       "min":"66.0",
-      "std":"17229.71784555948",
-      "total":"92791310.0",
+      "std":"17231.686227468817",
+      "total":"92846458.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-10 02:32:30",
+      "max":"2020-05-11 02:32:30",
       "mean":"",
       "median":"",
-      "min":"2020-05-10 02:32:30",
+      "min":"2020-05-11 02:32:30",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.80578798509321",
+      "mean":"36.80607192328387",
       "median":"37.93899289",
       "min":"-51.7963",
-      "std":"9.76802978723133",
-      "total":"116490.31897282001",
+      "std":"9.76496636359166",
+      "total":"116564.82978104",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.81825993515956",
+      "mean":"-81.82600010965582",
       "median":"-88.23917219",
       "min":"-164.0353804",
-      "std":"39.45602770694163",
-      "total":"-258954.79269478002",
+      "std":"39.44541369840746",
+      "total":"-259142.94234727998",
       "unique":[]
     },
     "Province/State":{
@@ -5382,12 +5386,12 @@
       ]
     },
     "Recovered":{
-      "max":"212534",
-      "mean":"425.6262376237624",
+      "max":"216169",
+      "mean":"435.67717996289423",
       "median":"0.0",
       "min":"0",
-      "std":"6232.328739014054",
-      "total":"1375624",
+      "std":"6342.376722510991",
+      "total":"1408980",
       "unique":[]
     }
   },
@@ -6343,7 +6347,7 @@
     }
   },
   "data_meta":{
-    "md5":"a0d76fbcf273777309a2f7802f1fae95",
-    "updated":"09 May, 2020  23:50:41"
+    "md5":"614a0a6ef75ec11f1905eb1d28b5c53d",
+    "updated":"10 May, 2020  23:50:30"
   }
 }
