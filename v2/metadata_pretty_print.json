@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"190995",
-      "mean":"758.1901669758813",
-      "median":"30.0",
-      "min":"-215711",
-      "std":"7819.311250871008",
-      "total":"2451987",
+      "max":"193771",
+      "mean":"765.2576459684893",
+      "median":"31.0",
+      "min":"-229725",
+      "std":"8031.287677380048",
+      "total":"2477139",
       "unique":[]
     },
     "Admin2":{
@@ -760,6 +760,7 @@
         "Hyde",
         "Iberia",
         "Iberville",
+        "Ida",
         "Idaho",
         "Imperial",
         "Independence",
@@ -2688,6 +2689,7 @@
         "Gallia, Ohio, US",
         "Galveston, Texas, US",
         "Garfield, Colorado, US",
+        "Garfield, Nebraska, US",
         "Garfield, Oklahoma, US",
         "Garfield, Washington, US",
         "Garland, Arkansas, US",
@@ -2979,6 +2981,7 @@
         "Hyde, South Dakota, US",
         "Iberia, Louisiana, US",
         "Iberville, Louisiana, US",
+        "Ida, Iowa, US",
         "Idaho, Idaho, US",
         "Imperial, California, US",
         "Independence, Arkansas, US",
@@ -3526,6 +3529,7 @@
         "Miller, Georgia, US",
         "Miller, Missouri, US",
         "Mills, Iowa, US",
+        "Mills, Texas, US",
         "Milwaukee, Wisconsin, US",
         "Miner, South Dakota, US",
         "Mineral, Colorado, US",
@@ -4987,12 +4991,12 @@
       ]
     },
     "Confirmed":{
-      "max":"227436",
-      "mean":"1291.7452071737787",
-      "median":"34.0",
+      "max":"232243",
+      "mean":"1316.6373185047885",
+      "median":"35.0",
       "min":"0",
-      "std":"11089.139062281061",
-      "total":"4177504",
+      "std":"11281.438950572392",
+      "total":"4261955",
       "unique":[]
     },
     "Country/Region":{
@@ -5193,48 +5197,48 @@
       ]
     },
     "Deaths":{
-      "max":"32065",
-      "mean":"88.5374149659864",
+      "max":"32692",
+      "mean":"90.19586036453506",
       "median":"1.0",
       "min":"0",
-      "std":"1148.1424204436778",
-      "total":"286330",
+      "std":"1163.2698723814153",
+      "total":"291964",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31377.64717810071",
-      "median":"29161.0",
+      "mean":"31379.12052667117",
+      "median":"29162.0",
       "min":"66.0",
-      "std":"17231.686227468817",
-      "total":"92846458.0",
+      "std":"17227.253257372206",
+      "total":"92944955.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-12 03:32:27",
+      "max":"2020-05-13 03:32:26",
       "mean":"",
       "median":"",
-      "min":"2020-05-12 03:32:27",
+      "min":"2020-05-13 03:32:26",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.80607192328387",
-      "median":"37.93899289",
+      "mean":"36.80776864448265",
+      "median":"37.93995011",
       "min":"-51.7963",
-      "std":"9.76496636359166",
-      "total":"116564.82978104",
+      "std":"9.761724105504758",
+      "total":"116680.62660301",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.82600010965582",
-      "median":"-88.23917219",
+      "mean":"-81.84102200003154",
+      "median":"-88.25288004999999",
       "min":"-164.0353804",
-      "std":"39.44541369840746",
-      "total":"-259142.94234727998",
+      "std":"39.429789222416304",
+      "total":"-259436.03974009998",
       "unique":[]
     },
     "Province/State":{
@@ -5386,12 +5390,12 @@
       ]
     },
     "Recovered":{
-      "max":"232733",
-      "mean":"450.2810760667904",
+      "max":"230287",
+      "mean":"461.3574297188755",
       "median":"0.0",
       "min":"0",
-      "std":"6587.474816563803",
-      "total":"1456209",
+      "std":"6649.2300679658365",
+      "total":"1493414",
       "unique":[]
     }
   },
@@ -6347,7 +6351,7 @@
     }
   },
   "data_meta":{
-    "md5":"0fa44324d345c5ed1ed043857e6cab34",
-    "updated":"12 May, 2020  22:50:45"
+    "md5":"8008d9b7aa154a3a37b5778b7f62b30a",
+    "updated":"12 May, 2020  23:50:33"
   }
 }
