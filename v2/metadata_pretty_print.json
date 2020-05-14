@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"193771",
-      "mean":"765.2576459684893",
-      "median":"31.0",
-      "min":"-229725",
-      "std":"8031.287677380048",
-      "total":"2477139",
+      "max":"196519",
+      "mean":"773.7807965421426",
+      "median":"32.0",
+      "min":"-238428",
+      "std":"8195.749974790535",
+      "total":"2506276",
       "unique":[]
     },
     "Admin2":{
@@ -1316,6 +1316,7 @@
         "Reynolds",
         "Rhea",
         "Rice",
+        "Richardson",
         "Richland",
         "Richmond",
         "Richmond City",
@@ -2540,6 +2541,7 @@
         "Edgecombe, North Carolina, US",
         "Edgefield, South Carolina, US",
         "Edmonson, Kentucky, US",
+        "Edwards, Illinois, US",
         "Edwards, Kansas, US",
         "Effingham, Georgia, US",
         "Effingham, Illinois, US",
@@ -2689,7 +2691,6 @@
         "Gallia, Ohio, US",
         "Galveston, Texas, US",
         "Garfield, Colorado, US",
-        "Garfield, Nebraska, US",
         "Garfield, Oklahoma, US",
         "Garfield, Washington, US",
         "Garland, Arkansas, US",
@@ -3992,6 +3993,7 @@
         "Rhea, Tennessee, US",
         "Rice, Kansas, US",
         "Rice, Minnesota, US",
+        "Richardson, Nebraska, US",
         "Richland, Illinois, US",
         "Richland, Louisiana, US",
         "Richland, Montana, US",
@@ -4900,6 +4902,7 @@
         "Laos",
         "Latvia",
         "Lebanon",
+        "Lesotho",
         "Liberia",
         "Libya",
         "Liechtenstein",
@@ -4991,12 +4994,12 @@
       ]
     },
     "Confirmed":{
-      "max":"232243",
-      "mean":"1316.6373185047885",
-      "median":"35.0",
+      "max":"242271",
+      "mean":"1342.0864464340846",
+      "median":"36.0",
       "min":"0",
-      "std":"11281.438950572392",
-      "total":"4261955",
+      "std":"11486.31435312101",
+      "total":"4347018",
       "unique":[]
     },
     "Country/Region":{
@@ -5108,6 +5111,7 @@
         "Laos",
         "Latvia",
         "Lebanon",
+        "Lesotho",
         "Liberia",
         "Libya",
         "Liechtenstein",
@@ -5197,48 +5201,48 @@
       ]
     },
     "Deaths":{
-      "max":"32692",
-      "mean":"90.19586036453506",
+      "max":"33186",
+      "mean":"91.75578882371101",
       "median":"1.0",
       "min":"0",
-      "std":"1163.2698723814153",
-      "total":"291964",
+      "std":"1175.4122956656638",
+      "total":"297197",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31379.12052667117",
-      "median":"29162.0",
+      "mean":"31374.309146135674",
+      "median":"29161.0",
       "min":"66.0",
-      "std":"17227.253257372206",
-      "total":"92944955.0",
+      "std":"17226.356865428785",
+      "total":"92962078.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-13 03:32:26",
+      "max":"2020-05-14 03:32:28",
       "mean":"",
       "median":"",
-      "min":"2020-05-13 03:32:26",
+      "min":"2020-05-14 03:32:28",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.80776864448265",
+      "mean":"36.78677194175284",
       "median":"37.93995011",
       "min":"-51.7963",
-      "std":"9.761724105504758",
-      "total":"116680.62660301",
+      "std":"9.82944140872636",
+      "total":"116687.64059924",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.84102200003154",
-      "median":"-88.25288004999999",
+      "mean":"-81.80724772157",
+      "median":"-88.239643995",
       "min":"-164.0353804",
-      "std":"39.429789222416304",
-      "total":"-259436.03974009998",
+      "std":"39.46552576476175",
+      "total":"-259492.58977282",
       "unique":[]
     },
     "Province/State":{
@@ -5390,12 +5394,12 @@
       ]
     },
     "Recovered":{
-      "max":"230287",
-      "mean":"461.3574297188755",
+      "max":"243430",
+      "mean":"478.09416486569927",
       "median":"0.0",
       "min":"0",
-      "std":"6649.2300679658365",
-      "total":"1493414",
+      "std":"6889.297060404477",
+      "total":"1548547",
       "unique":[]
     }
   },
@@ -5904,6 +5908,11 @@
       "alpha_3":"LBN",
       "name":"Lebanon"
     },
+    "Lesotho":{
+      "alpha_2":"LS",
+      "alpha_3":"LSO",
+      "name":"Lesotho"
+    },
     "Liberia":{
       "alpha_2":"LR",
       "alpha_3":"LBR",
@@ -6351,7 +6360,7 @@
     }
   },
   "data_meta":{
-    "md5":"8008d9b7aa154a3a37b5778b7f62b30a",
-    "updated":"12 May, 2020  23:50:33"
+    "md5":"4c434f04888f9437cfccc0ab178aa5a0",
+    "updated":"14 May, 2020  00:20:33"
   }
 }
