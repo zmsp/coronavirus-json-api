@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"202713",
-      "mean":"786.4481818181819",
-      "median":"34.0",
-      "min":"-253082",
-      "std":"8324.700341169979",
-      "total":"2595279",
+      "max":"206340",
+      "mean":"796.1074455205811",
+      "median":"35.0",
+      "min":"-267127",
+      "std":"8563.098883906849",
+      "total":"2630339",
       "unique":[]
     },
     "Admin2":{
@@ -923,6 +923,7 @@
         "Linn",
         "Lipscomb",
         "Litchfield",
+        "Little River",
         "Live Oak",
         "Livingston",
         "Llano",
@@ -955,6 +956,7 @@
         "Macoupin",
         "Madera",
         "Madison",
+        "Magoffin",
         "Mahaska",
         "Mahnomen",
         "Mahoning",
@@ -1130,6 +1132,7 @@
         "Nottoway",
         "Nowata",
         "Noxubee",
+        "Nuckolls",
         "Nueces",
         "Nye",
         "O'Brien",
@@ -2087,6 +2090,7 @@
         "Calhoun, Mississippi, US",
         "Calhoun, South Carolina, US",
         "Calhoun, Texas, US",
+        "Calhoun, West Virginia, US",
         "Callahan, Texas, US",
         "Callaway, Missouri, US",
         "Calloway, Kentucky, US",
@@ -3319,6 +3323,7 @@
         "Linn, Oregon, US",
         "Lipscomb, Texas, US",
         "Litchfield, Connecticut, US",
+        "Little River, Arkansas, US",
         "Live Oak, Texas, US",
         "Livingston, Illinois, US",
         "Livingston, Kentucky, US",
@@ -3394,6 +3399,7 @@
         "Madison, Tennessee, US",
         "Madison, Texas, US",
         "Madison, Virginia, US",
+        "Magoffin, Kentucky, US",
         "Mahaska, Iowa, US",
         "Mahnomen, Minnesota, US",
         "Mahoning, Ohio, US",
@@ -3709,6 +3715,7 @@
         "Nottoway, Virginia, US",
         "Nowata, Oklahoma, US",
         "Noxubee, Mississippi, US",
+        "Nuckolls, Nebraska, US",
         "Nueces, Texas, US",
         "Nye, Nevada, US",
         "O'Brien, Iowa, US",
@@ -3956,6 +3963,7 @@
         "Pushmataha, Oklahoma, US",
         "Putnam, Florida, US",
         "Putnam, Georgia, US",
+        "Putnam, Illinois, US",
         "Putnam, Indiana, US",
         "Putnam, New York, US",
         "Putnam, Ohio, US",
@@ -4264,7 +4272,6 @@
         "Steuben, Indiana, US",
         "Steuben, New York, US",
         "Stevens, Kansas, US",
-        "Stevens, Minnesota, US",
         "Stevens, Washington, US",
         "Stewart, Georgia, US",
         "Stewart, Tennessee, US",
@@ -5061,12 +5068,12 @@
       ]
     },
     "Confirmed":{
-      "max":"262843",
-      "mean":"1376.468787878788",
-      "median":"39.0",
+      "max":"272043",
+      "mean":"1402.5629539951574",
+      "median":"41.0",
       "min":"0",
-      "std":"10354.782241408338",
-      "total":"4542347",
+      "std":"10596.645032717257",
+      "total":"4634068",
       "unique":[]
     },
     "Country/Region":{
@@ -5268,48 +5275,48 @@
       ]
     },
     "Deaths":{
-      "max":"33998",
-      "mean":"93.23212121212121",
+      "max":"34466",
+      "mean":"94.36470944309927",
       "median":"1.0",
       "min":"0",
-      "std":"997.2882131021443",
-      "total":"307666",
+      "std":"1007.1341215651496",
+      "total":"311781",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31395.48906092225",
+      "mean":"31387.35462184874",
       "median":"29165.0",
       "min":"66.0",
-      "std":"17222.18022621528",
-      "total":"93275998.0",
+      "std":"17225.178200196904",
+      "total":"93377380.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-16 02:32:19",
+      "max":"2020-05-17 02:32:32",
       "mean":"",
       "median":"",
-      "min":"2020-05-16 02:32:19",
+      "min":"2020-05-17 02:32:32",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.914894664144754",
+      "mean":"36.91439640672846",
       "median":"38.02658833",
       "min":"-51.7963",
-      "std":"9.812154332625854",
-      "total":"119345.85444918",
+      "std":"9.80559140234312",
+      "total":"119491.90116858",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-80.401609368661",
+      "mean":"-80.41030448707785",
       "median":"-88.05720863",
       "min":"-164.0353804",
-      "std":"40.68154117680822",
-      "total":"-259938.403088881",
+      "std":"40.657704031059815",
+      "total":"-260288.15562467102",
       "unique":[]
     },
     "Province/State":{
@@ -5518,12 +5525,12 @@
       ]
     },
     "Recovered":{
-      "max":"250747",
-      "mean":"496.0809090909091",
+      "max":"268376",
+      "mean":"512.4688256658595",
       "median":"0.0",
       "min":"0",
-      "std":"5922.471755105841",
-      "total":"1637067",
+      "std":"6218.496034290441",
+      "total":"1693197",
       "unique":[]
     }
   },
@@ -6484,7 +6491,7 @@
     }
   },
   "data_meta":{
-    "md5":"9f4691055f9d0fd97fd97cd90c45ba36",
-    "updated":"16 May, 2020  00:11:59"
+    "md5":"bc7e5f65a91dd04d345ae5ace56b4bcc",
+    "updated":"16 May, 2020  23:11:40"
   }
 }
