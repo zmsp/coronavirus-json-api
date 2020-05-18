@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"206340",
-      "mean":"796.1074455205811",
+      "max":"211748",
+      "mean":"804.9313577260357",
       "median":"35.0",
-      "min":"-267127",
-      "std":"8563.098883906849",
-      "total":"2630339",
+      "min":"-274829",
+      "std":"8730.230598495627",
+      "total":"2661908",
       "unique":[]
     },
     "Admin2":{
@@ -1773,6 +1773,7 @@
         "Adams, Idaho, US",
         "Adams, Illinois, US",
         "Adams, Indiana, US",
+        "Adams, Iowa, US",
         "Adams, Mississippi, US",
         "Adams, Nebraska, US",
         "Adams, Ohio, US",
@@ -3354,6 +3355,7 @@
         "Lowndes, Georgia, US",
         "Lowndes, Mississippi, US",
         "Lubbock, Texas, US",
+        "Lucas, Iowa, US",
         "Lucas, Ohio, US",
         "Luce, Michigan, US",
         "Lumpkin, Georgia, US",
@@ -4265,6 +4267,7 @@
         "Ste. Genevieve, Missouri, US",
         "Stearns, Minnesota, US",
         "Steele, Minnesota, US",
+        "Steele, North Dakota, US",
         "Stephens, Georgia, US",
         "Stephens, Oklahoma, US",
         "Stephens, Texas, US",
@@ -5068,12 +5071,12 @@
       ]
     },
     "Confirmed":{
-      "max":"272043",
-      "mean":"1402.5629539951574",
+      "max":"281752",
+      "mean":"1425.3462352585425",
       "median":"41.0",
       "min":"0",
-      "std":"10596.645032717257",
-      "total":"4634068",
+      "std":"10807.399816564941",
+      "total":"4713620",
       "unique":[]
     },
     "Country/Region":{
@@ -5275,48 +5278,48 @@
       ]
     },
     "Deaths":{
-      "max":"34466",
-      "mean":"94.36470944309927",
+      "max":"34636",
+      "mean":"95.3084366495313",
       "median":"1.0",
       "min":"0",
-      "std":"1007.1341215651496",
-      "total":"311781",
+      "std":"1017.7381281933625",
+      "total":"315185",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31387.35462184874",
-      "median":"29165.0",
+      "mean":"31381.326729348555",
+      "median":"29164.0",
       "min":"66.0",
-      "std":"17225.178200196904",
-      "total":"93377380.0",
+      "std":"17219.898894687576",
+      "total":"93453591.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-17 02:32:32",
+      "max":"2020-05-18 02:32:21",
       "mean":"",
       "median":"",
-      "min":"2020-05-17 02:32:32",
+      "min":"2020-05-18 02:32:21",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.91439640672846",
-      "median":"38.02658833",
+      "mean":"36.92019009548457",
+      "median":"38.028270285",
       "min":"-51.7963",
-      "std":"9.80559140234312",
-      "total":"119491.90116858",
+      "std":"9.803331014159783",
+      "total":"119621.41590937",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-80.41030448707785",
-      "median":"-88.05720863",
+      "mean":"-80.4240463106855",
+      "median":"-88.063953045",
       "min":"-164.0353804",
-      "std":"40.657704031059815",
-      "total":"-260288.15562467102",
+      "std":"40.641416948121496",
+      "total":"-260573.910046621",
       "unique":[]
     },
     "Province/State":{
@@ -5525,12 +5528,12 @@
       ]
     },
     "Recovered":{
-      "max":"268376",
-      "mean":"512.4688256658595",
+      "max":"272265",
+      "mean":"524.331115814938",
       "median":"0.0",
       "min":"0",
-      "std":"6218.496034290441",
-      "total":"1693197",
+      "std":"6334.290936005111",
+      "total":"1733963",
       "unique":[]
     }
   },
@@ -6491,7 +6494,7 @@
     }
   },
   "data_meta":{
-    "md5":"bc7e5f65a91dd04d345ae5ace56b4bcc",
-    "updated":"16 May, 2020  23:11:40"
+    "md5":"da91114ed9e3b471d0ab753893167a6c",
+    "updated":"17 May, 2020  23:37:35"
   }
 }
