@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"217747",
-      "mean":"815.2418379685611",
+      "max":"220974",
+      "mean":"870.2638092363417",
       "median":"36.0",
-      "min":"-282945",
-      "std":"8920.317075480165",
-      "total":"2696820",
+      "min":"-291796",
+      "std":"9188.583287139936",
+      "total":"2883184",
       "unique":[]
     },
     "Admin2":{
@@ -96,6 +96,7 @@
         "Aurora",
         "Austin",
         "Autauga",
+        "Avery",
         "Avoyelles",
         "Baca",
         "Bacon",
@@ -183,6 +184,7 @@
         "Bosque",
         "Bossier",
         "Botetourt",
+        "Bottineau",
         "Boulder",
         "Boundary",
         "Bourbon",
@@ -1329,6 +1331,7 @@
         "Richmond",
         "Richmond City",
         "Riley",
+        "Ringgold",
         "Rio Arriba",
         "Rio Blanco",
         "Rio Grande",
@@ -1387,6 +1390,7 @@
         "San Mateo",
         "San Miguel",
         "San Patricio",
+        "San Saba",
         "Sanborn",
         "Sandoval",
         "Sandusky",
@@ -1715,6 +1719,7 @@
         "Winston",
         "Wirt",
         "Wise",
+        "Wolfe",
         "Wood",
         "Woodbury",
         "Woodford",
@@ -1868,6 +1873,7 @@
         "Aurora, South Dakota, US",
         "Austin, Texas, US",
         "Autauga, Alabama, US",
+        "Avery, North Carolina, US",
         "Avoyelles, Louisiana, US",
         "Baca, Colorado, US",
         "Bacon, Georgia, US",
@@ -1988,6 +1994,7 @@
         "Bosque, Texas, US",
         "Bossier, Louisiana, US",
         "Botetourt, Virginia, US",
+        "Bottineau, North Dakota, US",
         "Boulder, Colorado, US",
         "Boundary, Idaho, US",
         "Bourbon, Kansas, US",
@@ -4030,6 +4037,7 @@
         "Richmond, Virginia, US",
         "Richmond City, Virginia, US",
         "Riley, Kansas, US",
+        "Ringgold, Iowa, US",
         "Rio Arriba, New Mexico, US",
         "Rio Blanco, Colorado, US",
         "Rio Grande, Colorado, US",
@@ -4111,6 +4119,7 @@
         "San Miguel, Colorado, US",
         "San Miguel, New Mexico, US",
         "San Patricio, Texas, US",
+        "San Saba, Texas, US",
         "Sanborn, South Dakota, US",
         "Sandoval, New Mexico, US",
         "Sandusky, Ohio, US",
@@ -4692,6 +4701,7 @@
         "Wirt, West Virginia, US",
         "Wise, Texas, US",
         "Wise, Virginia, US",
+        "Wolfe, Kentucky, US",
         "Wood, Ohio, US",
         "Wood, Texas, US",
         "Wood, West Virginia, US",
@@ -5073,12 +5083,12 @@
       ]
     },
     "Confirmed":{
-      "max":"290678",
-      "mean":"1451.6151753325273",
-      "median":"42.0",
+      "max":"299941",
+      "mean":"1478.2650166012677",
+      "median":"43.0",
       "min":"0",
-      "std":"11055.35669880735",
-      "total":"4801943",
+      "std":"11330.137668668323",
+      "total":"4897492",
       "unique":[]
     },
     "Country/Region":{
@@ -5280,48 +5290,48 @@
       ]
     },
     "Deaths":{
-      "max":"34796",
-      "mean":"96.27599758162032",
+      "max":"35341",
+      "mean":"97.58074252942951",
       "median":"1.0",
       "min":"0",
-      "std":"1025.869233680737",
-      "total":"318481",
+      "std":"1037.1814254870817",
+      "total":"323285",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31377.823430681437",
-      "median":"29163.0",
+      "mean":"31380.14845844504",
+      "median":"29164.0",
       "min":"66.0",
-      "std":"17218.070294643872",
-      "total":"93474536.0",
+      "std":"17209.6538069175",
+      "total":"93638363.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-19 02:32:18",
+      "max":"2020-05-20 02:32:19",
       "mean":"",
       "median":"",
-      "min":"2020-05-19 02:32:18",
+      "min":"2020-05-20 02:32:19",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.917753785917924",
-      "median":"38.02658833",
+      "mean":"36.92080688988909",
+      "median":"38.026514255",
       "min":"-51.7963",
-      "std":"9.804467041011666",
-      "total":"119650.44002016",
+      "std":"9.799899674016482",
+      "total":"119844.93916457999",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-80.41505715389108",
-      "median":"-88.05720863",
+      "mean":"-80.43269114170394",
+      "median":"-88.058310585",
       "min":"-164.0353804",
-      "std":"40.63903591168821",
-      "total":"-260625.200235761",
+      "std":"40.61134868738136",
+      "total":"-261084.515445971",
       "unique":[]
     },
     "Province/State":{
@@ -5530,12 +5540,12 @@
       ]
     },
     "Recovered":{
-      "max":"283178",
-      "mean":"540.1677750906892",
+      "max":"289392",
+      "mean":"509.6948385149411",
       "median":"0.0",
       "min":"0",
-      "std":"6550.750742099555",
-      "total":"1786875",
+      "std":"6653.828359229193",
+      "total":"1688619",
       "unique":[]
     }
   },
@@ -6496,7 +6506,7 @@
     }
   },
   "data_meta":{
-    "md5":"c4f17fcd7727065f14f224d1bc97cd3e",
-    "updated":"19 May, 2020  21:01:00"
+    "md5":"de5e29711ac715a64ae35b4cba773b9b",
+    "updated":"19 May, 2020  23:00:46"
   }
 }
