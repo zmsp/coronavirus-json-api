@@ -1,6 +1,6 @@
 {
-    "csse_covid_19_daily_reports.csv": "da91114ed9e3b471d0ab753893167a6c",
-    "time_series_covid19_confirmed_global.csv": "04decf37a2230e48894cb0bd8384f907",
-    "time_series_covid19_deaths_global.csv": "dfc1f045be047d6bed69d384a1ce773d",
-    "time_series_covid19_recovered_global.csv": "8df02aa34fb43b1da49c4be70d43faee"
+    "csse_covid_19_daily_reports.csv": "c4f17fcd7727065f14f224d1bc97cd3e",
+    "time_series_covid19_confirmed_global.csv": "f3e5c24b0875583d7758c0f1f5786510",
+    "time_series_covid19_deaths_global.csv": "2bd189e3dcd52e97e45548a04dd44708",
+    "time_series_covid19_recovered_global.csv": "b418f03f4a1e450a8ab518fef6e0d780"
 }

@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"211748",
-      "mean":"804.9313577260357",
-      "median":"35.0",
-      "min":"-274829",
-      "std":"8730.230598495627",
-      "total":"2661908",
+      "max":"217747",
+      "mean":"815.2418379685611",
+      "median":"36.0",
+      "min":"-282945",
+      "std":"8920.317075480165",
+      "total":"2696820",
       "unique":[]
     },
     "Admin2":{
@@ -1101,6 +1101,7 @@
         "Nemaha",
         "Neosho",
         "Neshoba",
+        "Ness",
         "Nevada",
         "New Castle",
         "New Hanover",
@@ -1921,6 +1922,7 @@
         "Bedford, Virginia, US",
         "Bee, Texas, US",
         "Belknap, New Hampshire, US",
+        "Bell, Kentucky, US",
         "Bell, Texas, US",
         "Belmont, Ohio, US",
         "Beltrami, Minnesota, US",
@@ -3672,6 +3674,7 @@
         "Nemaha, Nebraska, US",
         "Neosho, Kansas, US",
         "Neshoba, Mississippi, US",
+        "Ness, Kansas, US",
         "Nevada, Arkansas, US",
         "Nevada, California, US",
         "New Castle, Delaware, US",
@@ -4650,7 +4653,6 @@
         "Whitley, Indiana, US",
         "Whitley, Kentucky, US",
         "Whitman, Washington, US",
-        "Wichita, Kansas, US",
         "Wichita, Texas, US",
         "Wicomico, Maryland, US",
         "Wilbarger, Texas, US",
@@ -5071,12 +5073,12 @@
       ]
     },
     "Confirmed":{
-      "max":"281752",
-      "mean":"1425.3462352585425",
-      "median":"41.0",
+      "max":"290678",
+      "mean":"1451.6151753325273",
+      "median":"42.0",
       "min":"0",
-      "std":"10807.399816564941",
-      "total":"4713620",
+      "std":"11055.35669880735",
+      "total":"4801943",
       "unique":[]
     },
     "Country/Region":{
@@ -5278,48 +5280,48 @@
       ]
     },
     "Deaths":{
-      "max":"34636",
-      "mean":"95.3084366495313",
+      "max":"34796",
+      "mean":"96.27599758162032",
       "median":"1.0",
       "min":"0",
-      "std":"1017.7381281933625",
-      "total":"315185",
+      "std":"1025.869233680737",
+      "total":"318481",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31381.326729348555",
-      "median":"29164.0",
+      "mean":"31377.823430681437",
+      "median":"29163.0",
       "min":"66.0",
-      "std":"17219.898894687576",
-      "total":"93453591.0",
+      "std":"17218.070294643872",
+      "total":"93474536.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-18 02:32:21",
+      "max":"2020-05-19 02:32:18",
       "mean":"",
       "median":"",
-      "min":"2020-05-18 02:32:21",
+      "min":"2020-05-19 02:32:18",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.92019009548457",
-      "median":"38.028270285",
+      "mean":"36.917753785917924",
+      "median":"38.02658833",
       "min":"-51.7963",
-      "std":"9.803331014159783",
-      "total":"119621.41590937",
+      "std":"9.804467041011666",
+      "total":"119650.44002016",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-80.4240463106855",
-      "median":"-88.063953045",
+      "mean":"-80.41505715389108",
+      "median":"-88.05720863",
       "min":"-164.0353804",
-      "std":"40.641416948121496",
-      "total":"-260573.910046621",
+      "std":"40.63903591168821",
+      "total":"-260625.200235761",
       "unique":[]
     },
     "Province/State":{
@@ -5528,12 +5530,12 @@
       ]
     },
     "Recovered":{
-      "max":"272265",
-      "mean":"524.331115814938",
+      "max":"283178",
+      "mean":"540.1677750906892",
       "median":"0.0",
       "min":"0",
-      "std":"6334.290936005111",
-      "total":"1733963",
+      "std":"6550.750742099555",
+      "total":"1786875",
       "unique":[]
     }
   },
@@ -6494,7 +6496,7 @@
     }
   },
   "data_meta":{
-    "md5":"da91114ed9e3b471d0ab753893167a6c",
-    "updated":"17 May, 2020  23:37:35"
+    "md5":"c4f17fcd7727065f14f224d1bc97cd3e",
+    "updated":"19 May, 2020  21:01:00"
   }
 }
