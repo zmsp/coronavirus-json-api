@@ -42252,6 +42252,20 @@
     "Recovered":"0"
   },
   {
+    "Active":"-150376",
+    "Admin2":"",
+    "Combined_Key":"Unknown, Spain",
+    "Confirmed":"0",
+    "Country/Region":"Spain",
+    "Deaths":"0",
+    "FIPS":"",
+    "Last Update":"2020-05-20 02:32:19",
+    "Latitude":"",
+    "Longitude":"",
+    "Province/State":"Unknown",
+    "Recovered":"150376"
+  },
+  {
     "Active":"32",
     "Admin2":"",
     "Combined_Key":"Channel Islands, United Kingdom",

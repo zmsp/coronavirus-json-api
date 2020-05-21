@@ -2,11 +2,11 @@
   "columns_meta":{
     "Active":{
       "max":"220974",
-      "mean":"870.2638092363417",
+      "mean":"824.6252263126131",
       "median":"36.0",
       "min":"-291796",
-      "std":"9188.583287139936",
-      "total":"2883184",
+      "std":"9555.482379416",
+      "total":"2732808",
       "unique":[]
     },
     "Admin2":{
@@ -4785,6 +4785,7 @@
         "Catalonia, Spain",
         "Cayman Islands, United Kingdom",
         "Ceuta, Spain",
+        "Unknown, Spain",
         "Channel Islands, United Kingdom",
         "Chongqing, China",
         "Curacao, Netherlands",
@@ -5084,10 +5085,10 @@
     },
     "Confirmed":{
       "max":"299941",
-      "mean":"1478.2650166012677",
+      "mean":"1477.818949909475",
       "median":"43.0",
       "min":"0",
-      "std":"11330.137668668323",
+      "std":"11328.456692209995",
       "total":"4897492",
       "unique":[]
     },
@@ -5291,10 +5292,10 @@
     },
     "Deaths":{
       "max":"35341",
-      "mean":"97.58074252942951",
+      "mean":"97.55129752564876",
       "median":"1.0",
       "min":"0",
-      "std":"1037.1814254870817",
+      "std":"1037.0262669536255",
       "total":"323285",
       "unique":[]
     },
@@ -5424,6 +5425,7 @@
         "Catalonia",
         "Cayman Islands",
         "Ceuta",
+        "Unknown",
         "Channel Islands",
         "Chongqing",
         "Curacao",
@@ -5526,7 +5528,6 @@
         "Toscana",
         "Turks and Caicos Islands",
         "Umbria",
-        "Unknown",
         "Valle d'Aosta",
         "Veneto",
         "Victoria",
@@ -5541,11 +5542,11 @@
     },
     "Recovered":{
       "max":"289392",
-      "mean":"509.6948385149411",
+      "mean":"554.9170187085093",
       "median":"0.0",
       "min":"0",
-      "std":"6653.828359229193",
-      "total":"1688619",
+      "std":"7144.042927072284",
+      "total":"1838995",
       "unique":[]
     }
   },
@@ -6506,7 +6507,7 @@
     }
   },
   "data_meta":{
-    "md5":"de5e29711ac715a64ae35b4cba773b9b",
-    "updated":"19 May, 2020  23:00:46"
+    "md5":"eadbfefd47432d4b2d5fe050545df7ce",
+    "updated":"20 May, 2020  21:01:02"
   }
 }
