@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"221774",
-      "mean":"829.5883392226149",
+      "max":"223374",
+      "mean":"839.3197178959741",
       "median":"41.0",
-      "min":"-301897",
-      "std":"9659.801962747411",
-      "total":"2817282",
+      "min":"-309944",
+      "std":"9836.24685026746",
+      "total":"2856205",
       "unique":[]
     },
     "Admin2":{
@@ -668,6 +668,7 @@
         "Greer",
         "Gregg",
         "Grenada",
+        "Griggs",
         "Grimes",
         "Grundy",
         "Guadalupe",
@@ -738,6 +739,7 @@
         "Hitchcock",
         "Hocking",
         "Hockley",
+        "Hodgeman",
         "Hoke",
         "Holmes",
         "Holt",
@@ -1187,7 +1189,6 @@
         "Otter Tail",
         "Ouachita",
         "Ouray",
-        "Out of CO",
         "Out of GA",
         "Out of HI",
         "Out of IL",
@@ -1587,6 +1588,7 @@
         "Transylvania",
         "Traverse",
         "Travis",
+        "Trego",
         "Trempealeau",
         "Treutlen",
         "TriCounty",
@@ -1815,6 +1817,7 @@
         "Alleghany, Virginia, US",
         "Allegheny, Pennsylvania, US",
         "Allen, Indiana, US",
+        "Allen, Kansas, US",
         "Allen, Kentucky, US",
         "Allen, Louisiana, US",
         "Allen, Ohio, US",
@@ -2358,6 +2361,7 @@
         "Columbus, North Carolina, US",
         "Colusa, California, US",
         "Comal, Texas, US",
+        "Comanche, Kansas, US",
         "Comanche, Oklahoma, US",
         "Comanche, Texas, US",
         "Concho, Texas, US",
@@ -2832,6 +2836,7 @@
         "Greer, Oklahoma, US",
         "Gregg, Texas, US",
         "Grenada, Mississippi, US",
+        "Griggs, North Dakota, US",
         "Grimes, Texas, US",
         "Grundy, Illinois, US",
         "Grundy, Iowa, US",
@@ -2895,6 +2900,7 @@
         "Hardy, West Virginia, US",
         "Harford, Maryland, US",
         "Harlan, Kentucky, US",
+        "Harlan, Nebraska, US",
         "Harnett, North Carolina, US",
         "Harney, Oregon, US",
         "Harper, Kansas, US",
@@ -2965,6 +2971,7 @@
         "Hitchcock, Nebraska, US",
         "Hocking, Ohio, US",
         "Hockley, Texas, US",
+        "Hodgeman, Kansas, US",
         "Hoke, North Carolina, US",
         "Holmes, Florida, US",
         "Holmes, Mississippi, US",
@@ -3810,7 +3817,6 @@
         "Ouachita, Arkansas, US",
         "Ouachita, Louisiana, US",
         "Ouray, Colorado, US",
-        "Out of CO, Colorado, US",
         "Out of GA, Georgia, US",
         "Out of HI, Hawaii, US",
         "Out of IL, Illinois, US",
@@ -4206,6 +4212,7 @@
         "Shenandoah, Virginia, US",
         "Sherburne, Minnesota, US",
         "Sheridan, Kansas, US",
+        "Sheridan, Nebraska, US",
         "Sheridan, Wyoming, US",
         "Sherman, Kansas, US",
         "Sherman, Nebraska, US",
@@ -4213,6 +4220,7 @@
         "Sherman, Texas, US",
         "Shiawassee, Michigan, US",
         "Sibley, Minnesota, US",
+        "Sierra, California, US",
         "Sierra, New Mexico, US",
         "Silver Bow, Montana, US",
         "Simpson, Kentucky, US",
@@ -4411,6 +4419,7 @@
         "Transylvania, North Carolina, US",
         "Traverse, Minnesota, US",
         "Travis, Texas, US",
+        "Trego, Kansas, US",
         "Trempealeau, Wisconsin, US",
         "Treutlen, Georgia, US",
         "TriCounty, Utah, US",
@@ -5171,12 +5180,12 @@
       ]
     },
     "Confirmed":{
-      "max":"317554",
-      "mean":"1502.4805653710248",
-      "median":"48.0",
+      "max":"326448",
+      "mean":"1531.2421392888627",
+      "median":"49.0",
       "min":"0",
-      "std":"10593.650879272212",
-      "total":"5102424",
+      "std":"10780.272119512838",
+      "total":"5210817",
       "unique":[]
     },
     "Country/Region":{
@@ -5378,48 +5387,48 @@
       ]
     },
     "Deaths":{
-      "max":"36042",
-      "mean":"98.0341578327444",
+      "max":"36393",
+      "mean":"99.37114310902145",
       "median":"1.0",
       "min":"0",
-      "std":"994.4926552007387",
-      "total":"332924",
+      "std":"1001.2852995531251",
+      "total":"338160",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31387.441176470587",
-      "median":"29166.0",
+      "mean":"31349.750583527843",
+      "median":"29163.0",
       "min":"66.0",
-      "std":"17211.58080368664",
-      "total":"93911224.0",
+      "std":"17180.099144559383",
+      "total":"94017902.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-22 02:36:51",
+      "max":"2020-05-23 02:32:42",
       "mean":"",
       "median":"",
-      "min":"2020-05-22 02:36:51",
+      "min":"2020-05-23 02:32:42",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.08244776428743",
-      "median":"37.886944514999996",
+      "mean":"36.0936816680264",
+      "median":"37.891460734999995",
       "min":"-52.368",
-      "std":"11.795518111801163",
-      "total":"120010.22126402",
+      "std":"11.779869795961327",
+      "total":"120336.33468120001",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-80.38056395619694",
-      "median":"-88.03688143",
+      "mean":"-80.43001732962838",
+      "median":"-88.07367805999999",
       "min":"-164.0353804",
-      "std":"40.313623678406536",
-      "total":"-267345.755718311",
+      "std":"40.28566359046167",
+      "total":"-268153.677776981",
       "unique":[]
     },
     "Province/State":{
@@ -5456,8 +5465,8 @@
         "Wyoming",
         "Michigan",
         "Maryland",
-        "Alaska",
         "Kansas",
+        "Alaska",
         "Tennessee",
         "Texas",
         "Maine",
@@ -5703,12 +5712,12 @@
       ]
     },
     "Recovered":{
-      "max":"298418",
-      "mean":"573.8336277974087",
+      "max":"350135",
+      "mean":"604.3617396414928",
       "median":"0.0",
       "min":"0",
-      "std":"7361.180742897315",
-      "total":"1948739",
+      "std":"8097.517898196359",
+      "total":"2056643",
       "unique":[]
     }
   },
@@ -6669,7 +6678,7 @@
     }
   },
   "data_meta":{
-    "md5":"94e1326f5b74046fdbdfe126467f266a",
-    "updated":"22 May, 2020  00:01:00"
+    "md5":"95ea430a5406158ae1cb444e1af72957",
+    "updated":"22 May, 2020  23:00:31"
   }
 }
