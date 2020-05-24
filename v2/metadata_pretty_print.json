@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"223374",
-      "mean":"839.3197178959741",
-      "median":"41.0",
-      "min":"-309944",
-      "std":"9836.24685026746",
-      "total":"2856205",
+      "max":"224558",
+      "mean":"848.4352422907489",
+      "median":"42.0",
+      "min":"-328397",
+      "std":"10104.530575009201",
+      "total":"2888922",
       "unique":[]
     },
     "Admin2":{
@@ -756,6 +756,7 @@
         "Houston",
         "Howard",
         "Howell",
+        "Hubbard",
         "Hudson",
         "Huerfano",
         "Hughes",
@@ -897,6 +898,7 @@
         "Larimer",
         "Larue",
         "Las Animas",
+        "Lassen",
         "Latah",
         "Latimer",
         "Lauderdale",
@@ -3002,6 +3004,7 @@
         "Howard, Nebraska, US",
         "Howard, Texas, US",
         "Howell, Missouri, US",
+        "Hubbard, Minnesota, US",
         "Hudson, New Jersey, US",
         "Huerfano, Colorado, US",
         "Hughes, South Dakota, US",
@@ -3257,6 +3260,7 @@
         "Larimer, Colorado, US",
         "Larue, Kentucky, US",
         "Las Animas, Colorado, US",
+        "Lassen, California, US",
         "Latah, Idaho, US",
         "Latimer, Oklahoma, US",
         "Lauderdale, Alabama, US",
@@ -5180,12 +5184,12 @@
       ]
     },
     "Confirmed":{
-      "max":"326448",
-      "mean":"1531.2421392888627",
-      "median":"49.0",
+      "max":"335882",
+      "mean":"1559.5776798825257",
+      "median":"50.0",
       "min":"0",
-      "std":"10780.272119512838",
-      "total":"5210817",
+      "std":"10976.164034866679",
+      "total":"5310362",
       "unique":[]
     },
     "Country/Region":{
@@ -5387,48 +5391,48 @@
       ]
     },
     "Deaths":{
-      "max":"36393",
-      "mean":"99.37114310902145",
+      "max":"36675",
+      "mean":"100.46901615271659",
       "median":"1.0",
       "min":"0",
-      "std":"1001.2852995531251",
-      "total":"338160",
+      "std":"1006.7461221187091",
+      "total":"342097",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31349.750583527843",
-      "median":"29163.0",
+      "mean":"31339.884705098302",
+      "median":"29161.0",
       "min":"66.0",
-      "std":"17180.099144559383",
-      "total":"94017902.0",
+      "std":"17180.76521809693",
+      "total":"94050994.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-23 02:32:42",
+      "max":"2020-05-24 02:32:43",
       "mean":"",
       "median":"",
-      "min":"2020-05-23 02:32:42",
+      "min":"2020-05-24 02:32:43",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.0936816680264",
-      "median":"37.891460734999995",
+      "mean":"36.09835598917866",
+      "median":"37.89386044",
       "min":"-52.368",
-      "std":"11.779869795961327",
-      "total":"120336.33468120001",
+      "std":"11.778147398262153",
+      "total":"120424.1155799",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-80.43001732962838",
-      "median":"-88.07367805999999",
+      "mean":"-80.44639934818976",
+      "median":"-88.081808115",
       "min":"-164.0353804",
-      "std":"40.28566359046167",
-      "total":"-268153.677776981",
+      "std":"40.28036454766987",
+      "total":"-268369.18822556105",
       "unique":[]
     },
     "Province/State":{
@@ -5712,12 +5716,12 @@
       ]
     },
     "Recovered":{
-      "max":"350135",
-      "mean":"604.3617396414928",
+      "max":"361239",
+      "mean":"620.3186490455213",
       "median":"0.0",
       "min":"0",
-      "std":"8097.517898196359",
-      "total":"2056643",
+      "std":"8334.75565843419",
+      "total":"2112185",
       "unique":[]
     }
   },
@@ -6678,7 +6682,7 @@
     }
   },
   "data_meta":{
-    "md5":"95ea430a5406158ae1cb444e1af72957",
-    "updated":"22 May, 2020  23:00:31"
+    "md5":"ff515d68c27cd0e183a2b34f09d4aa98",
+    "updated":"23 May, 2020  23:00:37"
   }
 }
