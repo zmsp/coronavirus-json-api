@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"227641",
-      "mean":"858.2883543561162",
-      "median":"43.0",
-      "min":"-334822",
-      "std":"10265.460683699304",
-      "total":"2925905",
+      "max":"230996",
+      "mean":"865.543561161631",
+      "median":"44.0",
+      "min":"-345610",
+      "std":"10450.97733195374",
+      "total":"2950638",
       "unique":[]
     },
     "Admin2":{
@@ -1289,6 +1289,7 @@
         "Pratt",
         "Preble",
         "Prentiss",
+        "Presidio",
         "Presque Isle",
         "Preston",
         "Price",
@@ -3979,6 +3980,7 @@
         "Pratt, Kansas, US",
         "Preble, Ohio, US",
         "Prentiss, Mississippi, US",
+        "Presidio, Texas, US",
         "Presque Isle, Michigan, US",
         "Preston, West Virginia, US",
         "Price, Wisconsin, US",
@@ -4461,7 +4463,6 @@
         "Unassigned, Arizona, US",
         "Unassigned, Arkansas, US",
         "Unassigned, California, US",
-        "Unassigned, Colorado, US",
         "Unassigned, Connecticut, US",
         "Unassigned, Delaware, US",
         "Unassigned, Florida, US",
@@ -5188,12 +5189,12 @@
       ]
     },
     "Confirmed":{
-      "max":"344481",
-      "mean":"1586.2754473452626",
-      "median":"51.0",
+      "max":"353427",
+      "mean":"1611.9275447345262",
+      "median":"52.0",
       "min":"0",
-      "std":"11162.304419480586",
-      "total":"5407613",
+      "std":"11344.331670314406",
+      "total":"5495061",
       "unique":[]
     },
     "Country/Region":{
@@ -5395,48 +5396,48 @@
       ]
     },
     "Deaths":{
-      "max":"36793",
-      "mean":"101.22000586682312",
+      "max":"36914",
+      "mean":"101.56409504253446",
       "median":"1.0",
       "min":"0",
-      "std":"1010.7463801619307",
-      "total":"345059",
+      "std":"1011.8910822210713",
+      "total":"346232",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31355.99534109817",
+      "mean":"31342.14143094842",
       "median":"29165.0",
       "min":"66.0",
-      "std":"17177.01931294664",
-      "total":"94224766.0",
+      "std":"17146.45982179422",
+      "total":"94183135.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-25 02:32:44",
+      "max":"2020-05-26 02:32:35",
       "mean":"",
       "median":"",
-      "min":"2020-05-25 02:32:44",
+      "min":"2020-05-26 02:32:35",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.10003949856287",
-      "median":"37.89386044",
+      "mean":"36.098213549601915",
+      "median":"37.89202088",
       "min":"-52.368",
-      "std":"11.772382576385661",
-      "total":"120574.1319252",
+      "std":"11.77109328007096",
+      "total":"120604.13146922",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-80.47166187109012",
-      "median":"-88.08730382499999",
+      "mean":"-80.4787762518231",
+      "median":"-88.08818103",
       "min":"-164.0353804",
-      "std":"40.26286344101099",
-      "total":"-268775.350649441",
+      "std":"40.25893585888449",
+      "total":"-268879.591457341",
       "unique":[]
     },
     "Province/State":{
@@ -5720,12 +5721,12 @@
       ]
     },
     "Recovered":{
-      "max":"366736",
-      "mean":"636.1287767673805",
+      "max":"379157",
+      "mean":"654.6606042827809",
       "median":"0.0",
       "min":"0",
-      "std":"8493.492707594638",
-      "total":"2168563",
+      "std":"8729.009050965107",
+      "total":"2231738",
       "unique":[]
     }
   },
@@ -6686,7 +6687,7 @@
     }
   },
   "data_meta":{
-    "md5":"f00d5bb5527dc7896ccf33ddc948a188",
-    "updated":"24 May, 2020  23:00:15"
+    "md5":"146ccbcb7aa20b3bfa2ac413e7a67c34",
+    "updated":"26 May, 2020  20:01:04"
   }
 }
