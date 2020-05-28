@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"228179",
-      "mean":"875.0284457478006",
-      "median":"44.0",
-      "min":"-353272",
-      "std":"10178.481944566973",
-      "total":"2983847",
+      "max":"229780",
+      "mean":"882.6783831282953",
+      "median":"45.0",
+      "min":"-364117",
+      "std":"10361.865410479924",
+      "total":"3013464",
       "unique":[]
     },
     "Admin2":{
@@ -144,6 +144,7 @@
         "Belmont",
         "Beltrami",
         "Ben Hill",
+        "Benewah",
         "Bennington",
         "Benson",
         "Bent",
@@ -1323,6 +1324,7 @@
         "Rappahannock",
         "Ravalli",
         "Ray",
+        "Reagan",
         "Red Lake",
         "Red River",
         "Red Willow",
@@ -1694,6 +1696,7 @@
         "West Feliciana",
         "Westchester",
         "Westmoreland",
+        "Weston",
         "Wetzel",
         "Wexford",
         "Wharton",
@@ -1945,6 +1948,7 @@
         "Belmont, Ohio, US",
         "Beltrami, Minnesota, US",
         "Ben Hill, Georgia, US",
+        "Benewah, Idaho, US",
         "Bennington, Vermont, US",
         "Benson, North Dakota, US",
         "Bent, Colorado, US",
@@ -3243,6 +3247,7 @@
         "Lake, Minnesota, US",
         "Lake, Montana, US",
         "Lake, Ohio, US",
+        "Lake, Oregon, US",
         "Lake, South Dakota, US",
         "Lake, Tennessee, US",
         "Lamar, Alabama, US",
@@ -4037,6 +4042,7 @@
         "Rappahannock, Virginia, US",
         "Ravalli, Montana, US",
         "Ray, Missouri, US",
+        "Reagan, Texas, US",
         "Red Lake, Minnesota, US",
         "Red River, Louisiana, US",
         "Red River, Texas, US",
@@ -4677,6 +4683,7 @@
         "Westchester, New York, US",
         "Westmoreland, Pennsylvania, US",
         "Westmoreland, Virginia, US",
+        "Weston, Wyoming, US",
         "Wetzel, West Virginia, US",
         "Wexford, Michigan, US",
         "Wharton, Texas, US",
@@ -5191,12 +5198,12 @@
       ]
     },
     "Confirmed":{
-      "max":"362342",
-      "mean":"1639.1865102639297",
-      "median":"53.0",
+      "max":"370680",
+      "mean":"1667.190978324546",
+      "median":"54.0",
       "min":"0",
-      "std":"11542.512214131302",
-      "total":"5589626",
+      "std":"11735.08284243969",
+      "total":"5691790",
       "unique":[]
     },
     "Country/Region":{
@@ -5398,48 +5405,48 @@
       ]
     },
     "Deaths":{
-      "max":"37048",
-      "mean":"102.77214076246334",
+      "max":"37460",
+      "mean":"104.16783831282953",
       "median":"1.0",
       "min":"0",
-      "std":"1016.6672668389733",
-      "total":"350453",
+      "std":"1024.359903874551",
+      "total":"355629",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31328.22462562396",
-      "median":"29165.0",
+      "mean":"31340.242273180458",
+      "median":"29167.0",
       "min":"66.0",
-      "std":"17115.73888051262",
-      "total":"94141315.0",
+      "std":"17116.306955415806",
+      "total":"94302789.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-27 02:32:31",
+      "max":"2020-05-28 02:32:31",
       "mean":"",
       "median":"",
-      "min":"2020-05-27 02:32:31",
+      "min":"2020-05-28 02:32:31",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.09802027319868",
-      "median":"37.891460734999995",
+      "mean":"36.10424370713389",
+      "median":"37.89386044",
       "min":"-52.368",
-      "std":"11.767480793742951",
-      "total":"120639.58375302999",
+      "std":"11.76362823324133",
+      "total":"120804.79944407",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-80.49489348753471",
-      "median":"-88.09247061000002",
+      "mean":"-80.53110235826091",
+      "median":"-88.13240414",
       "min":"-164.0353804",
-      "std":"40.253823577470406",
-      "total":"-269013.934035341",
+      "std":"40.244297153357394",
+      "total":"-269457.068490741",
       "unique":[]
     },
     "Province/State":{
@@ -5723,12 +5730,12 @@
       ]
     },
     "Recovered":{
-      "max":"384902",
-      "mean":"670.6615835777126",
+      "max":"391508",
+      "mean":"688.3678968951376",
       "median":"0.0",
       "min":"0",
-      "std":"8585.970383655063",
-      "total":"2286956",
+      "std":"8803.47004723269",
+      "total":"2350088",
       "unique":[]
     }
   },
@@ -6689,7 +6696,7 @@
     }
   },
   "data_meta":{
-    "md5":"bac30940fdd7aa5876e9bc1f8ce1a082",
-    "updated":"26 May, 2020  23:03:28"
+    "md5":"ce8898c86cde869ce45104bc42011684",
+    "updated":"27 May, 2020  23:32:01"
   }
 }
